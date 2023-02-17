@@ -1,0 +1,122 @@
+[{
+        "searchInput": ["a", "a'", "all"],
+        "scots": "a'",
+        "english": "all",
+        "definition": "all",
+        "pos": "adj."
+    },
+
+    {
+        "searchInput": ["abee", "alone"],
+        "scots": "abee",
+        "english": "alone",
+        "definition": "alone, to let abee, to let alone, not to intermiddle",
+        "pos": "adv."
+    },
+
+    {
+        "searchInput": ["abeigh", "aloof", "at a distance"],
+        "scots": "abeigh",
+        "english": "aloof",
+        "definition": "at a distance, aloof.",
+        "pos": "adv."
+    },
+
+    {
+        "searchInput": ["ablins", "perhaps"],
+        "scots": "ablins",
+        "english": "perhaps",
+        "definition": "perhaps.",
+        "pos": "adv."
+    },
+
+    {
+        "searchInput": ["aboon", "above"],
+        "scots": "aboon",
+        "english": "above",
+        "definition": "above.",
+        "pos": "prep."
+    },
+
+    {
+        "searchInput": ["aboon", "above"],
+        "scots": "aboon",
+        "english": "above",
+        "definition": "above.",
+        "pos": "adv."
+    },
+
+    {
+        "searchInput": ["abraid", "abroad"],
+        "scots": "abraid",
+        "english": "abroad",
+        "definition": "abroad.",
+        "pos": "adv."
+    },
+
+    {
+        "searchInput": ["abreed", "in breadth", "breadth"],
+        "scots": "abreed",
+        "english": "in breadth",
+        "definition": "in breadth.",
+        "pos": "adj."
+    },
+
+    {
+        "searchInput": ["ackavity", "aquavitae", "aquavitæ", "whisky", "whiskey"],
+        "scots": "ackavity",
+        "english": "aquavitae",
+        "definition": "aquavitæ, whisky.",
+        "pos": "s."
+    },
+
+    {
+        "searchInput": ["ae", "one", "1"],
+        "scots": "ae",
+        "english": "one",
+        "definition": "one.",
+        "pos": "adj."
+    },
+
+    {
+        "searchInput": ["aff", "off"],
+        "scots": "aff",
+        "english": "off",
+        "definition": "off.",
+        "pos": "prep."
+    },
+
+    {
+        "searchInput": ["aff", "off"],
+        "scots": "aff",
+        "english": "off",
+        "definition": "off.",
+        "pos": "adv."
+    },
+
+    {
+        "searchInput": ["aff-hand", "affhand", "extempore", "unpremeditated", "unpremeditate"],
+        "scots": "aff-hand",
+        "english": "extempore",
+        "definition": "extempore, unpremeditated.",
+        "pos": "adj."
+    },
+
+    {
+        "searchInput": ["aff-loof", "affloof", "unpremeditated", "unpremeditate"],
+        "scots": "aff-loof",
+        "english": "unpremeditated",
+        "definition": "unpremeditated.",
+        "pos": "adj."
+    },
+
+    {
+        "searchInput": ["affset", "aff-set", "dismission", "beginning"],
+        "scots": "affset",
+        "english": "dismission",
+        "definition": "dismission, also, to do a thing at the affset is to do it at the beginning.",
+        "pos": "s."
+    }
+
+
+]
