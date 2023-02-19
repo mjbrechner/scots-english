@@ -15,7 +15,7 @@
     },
 
     {
-        "searchInput": ["abeigh", "aloof", "at a distance"],
+        "searchInput": ["abeigh", "aloof", "distance", "at a distance"],
         "scots": "abeigh",
         "english": "aloof",
         "definition": "at a distance, aloof.",
@@ -116,7 +116,49 @@
         "english": "dismission",
         "definition": "dismission, also, to do a thing at the affset is to do it at the beginning.",
         "pos": "s."
+    },
+
+    {
+        "searchInput": ["affset", "ornament", "recommend"],
+        "scots": "affset",
+        "english": "ornament",
+        "definition": "ornament, any thing that tends to recommend.",
+        "pos": "s."
+    }, {
+        "searchInput": ["afiel", "from home", "home"],
+        "scots": "afiel",
+        "english": "from home",
+        "definition": "from home.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["afit", "on foot", "foot"],
+        "scots": "afit",
+        "english": "on foot",
+        "definition": "on foot.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["afiey'd", "afraid", "afieyd", "afieyed", "frightened"],
+        "scots": "afiey'd",
+        "english": "afraid",
+        "definition": "afraid, frightened.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["afore", "before"],
+        "scots": "afore",
+        "english": "before",
+        "definition": "before.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["afore", "before"],
+        "scots": "afore",
+        "english": "before",
+        "definition": "before.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["aft", "oft"],
+        "scots": "aft",
+        "english": "oft",
+        "definition": "oft.",
+        "pos": "adv."
     }
-
-
 ]

@@ -2,7 +2,7 @@
 
 console.log('hey');
 
-const userInput = document.getElementById("text-input-box");
+const userInput = document.getElementById("search-box");
 const displayedResults = document.getElementById("results-box");
 let userInputValue;
 
@@ -36,29 +36,17 @@ async function getDictionary() {
             displayedResults.appendChild(displayedDiv1);
             displayedResults.appendChild(displayedDiv2);
             displayedResults.appendChild(displayedDiv3);
-            // Display the results -- END}
+            // Display the results -- END
         }
     }
     // search -end
-
-
-
-
 }
 
 
 userInput.addEventListener("keyup", (event) => {
         userInputValue = userInput.value;
-        getDictionary();
-        console.log(userInputValue);
-        displayedResults.innerText = `${userInputValue}_`;
-
-        function clearResults(displayedResults) {
-            while (displayedResults.firstChild) {
-                displayedResults.removeChild(displayedResults.firstChild);
-            }
-        }
         displayedResults.innerHTML = "";
+        getDictionary();
     }
 
 );
@@ -68,3 +56,4 @@ userInput.addEventListener("keyup", (event) => {
 // displayed, but if there are multiple hits, they all  need to be visible,
 // stacked up nicely in a list.
 // But the list needs must vanish when another character is added in the event listener
+// You still need the search button, and it does the same thing as keup except that it also alerts if no word is found at all.
