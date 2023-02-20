@@ -160,5 +160,666 @@
         "english": "oft",
         "definition": "oft.",
         "pos": "adv."
+    }, {
+        "searchInput": ["aften", "often"],
+        "scots": "aften",
+        "english": "often",
+        "definition": "often.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["afterhend", "afterwards", "afterward"],
+        "scots": "afterhend",
+        "english": "afterwards",
+        "definition": "afterwards.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["after ither", "resembling one another", "after", "ither", "resembling", "resemble", "to follow each other in succession", "succession", "follow each other", "following each other", "in succession"],
+        "scots": "after ither",
+        "english": "resembling one another",
+        "definition": "resembling one another, to follow each other in succession.",
+        "pos": "v."
+    }, {
+        "searchInput": ["again'", "against", "again", "by the time of", "by the time"],
+        "scots": "again'",
+        "english": "against",
+        "definition": "against, by the time of.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["aglee, aglie", "in a wrong direction", "aglee", "aglie", "wrong direction", "incline", "direction", "one side", "stand aglee", "stand aglie", "stand"],
+        "scots": "aglee, aglie",
+        "english": "in a wrong direction",
+        "definition": "in a wrong direction, to stand aglee, to incline more to one side than another",
+        "pos": "adv."
+    }, {
+        "searchInput": ["ahin, ahint", "behind", "ahin", "ahint"],
+        "scots": "ahin, ahint",
+        "english": "behind",
+        "definition": "behind.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["abint, abin", "behind", "abint", "abin"],
+        "scots": "abint, abin",
+        "english": "behind",
+        "definition": "behind.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["ajee", "to one side", "one side", "side"],
+        "scots": "ajee",
+        "english": "to one side",
+        "definition": "to one side.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["aik", "oak", "an oak"],
+        "scots": "aik",
+        "english": "oak",
+        "definition": "an oak.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aik, aiken", "oaken", "aik", "aiken", "oak", "made of oak"],
+        "scots": "aik, aiken",
+        "english": "oaken",
+        "definition": "made of oak, oaken.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["aiker", "acre", "an acre"],
+        "scots": "aiker",
+        "english": "acre",
+        "definition": "an acre.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aiker-braid", "the breadth of an acre", "aikerbraid", "aiker braid", "braid", "aiker", "acre", "breadth of an acre", "breadth"],
+        "scots": "aiker-braid",
+        "english": "the breadth of an acre",
+        "definition": "the breadth of an acre.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ain", "own"],
+        "scots": "ain",
+        "english": "own",
+        "definition": "own.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["air", "oar", "an oar"],
+        "scots": "air",
+        "english": "oar",
+        "definition": "an oar.",
+        "pos": "s."
+    }, {
+        "searchInput": ["air", "early", "long since", "since"],
+        "scots": "air",
+        "english": "early",
+        "definition": "early, long since.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["air-oe", "great grandchild", "airoe", "air oe", "great-grandchild", "greatgrandchild", "grandchild"],
+        "scots": "air-oe",
+        "english": "great grandchild",
+        "definition": "great grandchild.",
+        "pos": "s."
+    }, {
+        "searchInput": ["air-up", "soon up", "airup", "air up", "early up"],
+        "scots": "air-up",
+        "english": "soon up",
+        "definition": "soon up, early up.",
+        "pos": ""
+    }, {
+        "searchInput": ["airl-penny, arle-penny", "earnest money", "penny", "airl penny", "airlpenny", "arle penny", "arlepenny", "hiring", "leasing", "earnest money given at hiring a servant"],
+        "scots": "airl-penny, arle-penny, arlepenny",
+        "english": "earnest money",
+        "definition": "earnest money given at hiring a servant, leasing a property, &c.",
+        "pos": "s."
+    }, {
+        "searchInput": ["airn", "to iron", "iron", "smoothing", "smoothing linens"],
+        "scots": "airn",
+        "english": "to iron",
+        "definition": "to iron, as in smoothing linens.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["airn", "iron"],
+        "scots": "airn",
+        "english": "iron",
+        "definition": "iron.",
+        "pos": "s."
+    }, {
+        "searchInput": ["airned", "smoothed with an iron", "smoothed", "iron", "ironing"],
+        "scots": "airned",
+        "english": "smoothed with an iron",
+        "definition": "smoothed with an iron.",
+        "pos": ""
+    }, {
+        "searchInput": ["airt", "art"],
+        "scots": "airt",
+        "english": "art",
+        "definition": "art.",
+        "pos": "s."
+    }, {
+        "searchInput": ["airt, airth", "direction", "airt", "airth", "point of the compass", "compass"],
+        "scots": "airt, airth",
+        "english": "direction",
+        "definition": "direction, point of the compass.",
+        "pos": "s."
+    }, {
+        "searchInput": ["airt", "to direct", "direct"],
+        "scots": "airt",
+        "english": "to direct",
+        "definition": "to direct.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["aisler", "ashler", "hewn stone", "hewn", "stone"],
+        "scots": "aisler",
+        "english": "ashler",
+        "definition": "ashler, hewn stone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aiten", "oaten"],
+        "scots": "aiten",
+        "english": "oaten",
+        "definition": "oaten.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["aith", "oath"],
+        "scots": "aith",
+        "english": "oath",
+        "definition": "oath.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aither", "either"],
+        "scots": "aither",
+        "english": "either",
+        "definition": "either.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["aither", "either"],
+        "scots": "aither",
+        "english": "either",
+        "definition": "either.",
+        "pos": "conj."
+    }, {
+        "searchInput": ["aitherans", "either", "aitheran"],
+        "scots": "aitherans",
+        "english": "either",
+        "definition": "used sometimes as either, e.g. \"I dinna like it aitherans\": I do not like it either.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["aiten", "giant", "red aiten", "Red Aiten", "a giant"],
+        "scots": "aiten",
+        "english": "giant",
+        "definition": "generally Red Aiten, a giant.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aits", "oats", "ait", "oat"],
+        "scots": "aits",
+        "english": "oats",
+        "definition": "oats.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aiver", "old horse", "an old horse", "horse"],
+        "scots": "aiver",
+        "english": "old horse",
+        "definition": "an old horse.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aizle", "hot ember", "hot", "ember", "live spark", "spark", "a hot ember", "a live spark"],
+        "scots": "aizle",
+        "english": "hot ember",
+        "definition": "a hot ember, a live spark.",
+        "pos": "s."
+    }, {
+        "searchInput": ["akin", "related"],
+        "scots": "akin",
+        "english": "related",
+        "definition": "related.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["alake! alakanee!", "alas", "alake", "alakanee", "alake!", "alakanee!", "alas!"],
+        "scots": "alake! alakanee!",
+        "english": "alas",
+        "definition": "alas!",
+        "pos": "int."
+    }, {
+        "searchInput": ["alane", "alone"],
+        "scots": "alane",
+        "english": "alone",
+        "definition": "alone.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["alang", "along"],
+        "scots": "alang",
+        "english": "along",
+        "definition": "along.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["alang", "along"],
+        "scots": "alang",
+        "english": "along",
+        "definition": "along.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["allenerly", "alone", "exclusively", "exclusive", "allen", "allener", "allenerl"],
+        "scots": "allenerly",
+        "english": "alone",
+        "definition": "alone, exclusively.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["alse", "else"],
+        "scots": "alse",
+        "english": "else",
+        "definition": "else.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["amaist", "almost"],
+        "scots": "amaist",
+        "english": "almost",
+        "definition": "almost.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["amang", "among"],
+        "scots": "amang",
+        "english": "among",
+        "definition": "among.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["amers", "embers", "aumers", "amer", "ember", "aumer"],
+        "scots": "amers",
+        "english": "embers",
+        "definition": "embers.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["amo'", "among", "amo"],
+        "scots": "amo'",
+        "english": "among",
+        "definition": "among.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["amry", "cupboard"],
+        "scots": "amry",
+        "english": "cupboard",
+        "definition": "a cupboard.",
+        "pos": "s."
+    }, {
+        "searchInput": ["an'", "and", "an", "if"],
+        "scots": "an'",
+        "english": "and",
+        "definition": "and, if.",
+        "pos": "conj."
+    }, {
+        "searchInput": ["an'a", "also", "ana", "an a"],
+        "scots": "an'a",
+        "english": "also",
+        "definition": "also, e.g. I was there an'a, I was there also.",
+        "pos": ""
+    }, {
+        "searchInput": ["ance", "once"],
+        "scots": "ance",
+        "english": "once",
+        "definition": "once.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["ane", "one"],
+        "scots": "ane",
+        "english": "one",
+        "definition": "one.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["aneath", "beneath"],
+        "scots": "aneath",
+        "english": "beneath",
+        "definition": "beneath, as opposed to above",
+        "pos": "adv."
+    }, {
+        "searchInput": ["aneath", "beneath"],
+        "scots": "aneath",
+        "english": "beneath",
+        "definition": "beneath.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["anent", "over against", "over", "against", "concerning"],
+        "scots": "anent",
+        "english": "over against",
+        "definition": "over against, concerning.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["aniest", "on this side of", "on this side", "this side", "side"],
+        "scots": "aniest",
+        "english": "on this side of",
+        "definition": "on this side of.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["anew", "enough"],
+        "scots": "anew",
+        "english": "enough",
+        "definition": "enough.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["anither", "another"],
+        "scots": "anither",
+        "english": "another",
+        "definition": "another.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["anouer", "under", "inour"],
+        "scots": "anouer",
+        "english": "under",
+        "definition": "under.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["anter", "to wander", "wander", "wandering", "wanders"],
+        "scots": "anter",
+        "english": "to wander",
+        "definition": "to wander.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["antercast", "mischance", "antercasts"],
+        "scots": "antercast",
+        "english": "mischance",
+        "definition": "a mischance.",
+        "pos": "s."
+    }, {
+        "searchInput": ["antrin", "wandering", "wander", "wanders"],
+        "scots": "antrin",
+        "english": "wandering",
+        "definition": "wandering, one here, one there; meeting persons, or particular objects, occasionally upon a road, is to meet antrin persons or objects.",
+        "pos": "part."
+    }, {
+        "searchInput": ["apen", "to open", "open", "opening"],
+        "scots": "apen",
+        "english": "to open",
+        "definition": "to open.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["apen", "open", "to open", "opening"],
+        "scots": "apen",
+        "english": "open",
+        "definition": "open.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["apenly", "openly"],
+        "scots": "apenly",
+        "english": "openly",
+        "definition": "openly.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["apenin", "gap", "a gap", "opening"],
+        "scots": "apenin",
+        "english": "gap",
+        "definition": "a gap, or opening.",
+        "pos": "s."
+    }, {
+        "searchInput": ["arle", "to fee", "fee", "to hire", "hire", "hiring"],
+        "scots": "arle",
+        "english": "to fee",
+        "definition": "to fee, to hire.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["arles", "earnest money", "money"],
+        "scots": "arles",
+        "english": "earnest money",
+        "definition": "earnest money.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["arnit", "a nut found at the root of a certain herb", "nut", "nuts"],
+        "scots": "arnit",
+        "english": "a nut found at the root of a certain herb",
+        "definition": "a nut found at the root of a certain herb.",
+        "pos": "s."
+    }, {
+        "searchInput": ["arselins", "backwards", "arselin", "backward"],
+        "scots": "arselins",
+        "english": "backwards",
+        "definition": "backwards.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["artfu'", "artful", "artfu"],
+        "scots": "artfu'",
+        "english": "artful",
+        "definition": "artful.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["ase, aise, ass", "ashes", "ash", "ase", "aise", "ass"],
+        "scots": "ase, aise, ass",
+        "english": "ashes",
+        "definition": "ashes.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ask", "newt"],
+        "scots": "ask",
+        "english": "newt",
+        "definition": "the newt, a small animal of the lizard [sic] species.",
+        "pos": "s."
+    }, {
+        "searchInput": ["asklent", "aslant", "asquint"],
+        "scots": "asklent",
+        "english": "aslant",
+        "definition": "aslant, asquint.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["assiltree", "axletree", "axltree", "axeltree"],
+        "scots": "assiltree",
+        "english": "axletree",
+        "definition": "axletree.",
+        "pos": "s."
+    }, {
+        "searchInput": ["asteer", "stirring", "in confusion", "confusion"],
+        "scots": "asteer",
+        "english": "stirring",
+        "definition": "stirring, in confusion.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["astit", "rather", "more willingly", "willingly"],
+        "scots": "astit",
+        "english": "rather",
+        "definition": "rather, more willingly.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["at", "that"],
+        "scots": "at",
+        "english": "that",
+        "definition": "that.",
+        "pos": "conj."
+    }, {
+        "searchInput": ["athort", "along", "athwart"],
+        "scots": "athort",
+        "english": "along",
+        "definition": "along, athwart.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["atomy", "skeleton"],
+        "scots": "atomy",
+        "english": "skeleton",
+        "definition": "a skeleton.",
+        "pos": "s."
+    }, {
+        "searchInput": ["attour", "over and above", "over", "above", "outoure"],
+        "scots": "attour",
+        "english": "over and above",
+        "definition": "over and above.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["attour", "to stand out of the way", "stand out of the way", "stand out attour", "stand out", "out of the way", "standing out", "standing out of the way"],
+        "scots": "attour",
+        "english": "to stand out of the way",
+        "definition": "to stand attour, to stand out of the way",
+        "pos": "v."
+    }, {
+        "searchInput": ["atween", "between"],
+        "scots": "atween",
+        "english": "between",
+        "definition": "between.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["atweesh", "betwixt"],
+        "scots": "atweesh",
+        "english": "betwixt",
+        "definition": "betwixt.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["aucht", "eight"],
+        "scots": "aucht",
+        "english": "eight",
+        "definition": "eight.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["aucht, augbt", "to own", "aucht", "augbt", "to possess", "own", "possess"],
+        "scots": "aucht, augbt",
+        "english": "to own",
+        "definition": "to own, to possess.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["aught, aucht", "possession", "aught", "aucht"],
+        "scots": "aught, aucht",
+        "english": "possession",
+        "definition": "possession.",
+        "pos": "s."
+    }, {
+        "searchInput": ["auld", "old"],
+        "scots": "auld",
+        "english": "old",
+        "definition": "old.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["auldfarrant", "crafty", "ingenious", "sagacious", "ingenuity", "sagacity", "auld-farrant", "auld farrant"],
+        "scots": "auldfarrant",
+        "english": "crafty",
+        "definition": "crafty, ingenious, sagacious, generally applied to a young person whose ingenuity or sagacity appears to exceed his [sic] years",
+        "pos": "adj."
+    },
+    {
+        "searchInput": ["auldfather", "grandfather", "auld-father", "auld father", "grand-father", "grand father"],
+        "scots": "auldfather",
+        "english": "grandfather",
+        "definition": "grandfather.",
+        "pos": "s."
+    }, {
+        "searchInput": ["auld-lang-syne", "olden time", "auld lang syne", "auld lang", "lang syne", "auldlangsyne", "olden times", "days of other years"],
+        "scots": "auld-lang-syne",
+        "english": "olden time",
+        "definition": "olden time, days of other years.",
+        "pos": "s."
+    }, {
+        "searchInput": ["auldmother", "grandmother", "auld-mother", "auld mother", "grand mother", "grand-mother", "mother-in-law", "mother in law"],
+        "scots": "auldmother",
+        "english": "grandmother",
+        "definition": "grandmother, also, a mother-in-law.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aum", "alum"],
+        "scots": "aum",
+        "english": "alum",
+        "definition": "alum.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aumry", "cupboard"],
+        "scots": "aumry",
+        "english": "cupboard",
+        "definition": "a cupboard.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aumus", "alms", "an alms"],
+        "scots": "aumus",
+        "english": "alms",
+        "definition": "an alms.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aun", "awn", "due", "to be aun", "to be due", "be due"],
+        "scots": "aun, awn",
+        "english": "due",
+        "definition": "due; to be aun; to be due a person.",
+        "pos": "s."
+    }, {
+        "searchInput": ["auncient", "ancient"],
+        "scots": "auncient",
+        "english": "ancient",
+        "definition": "ancient.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["aunty", "aunt"],
+        "scots": "aunty",
+        "english": "aunt",
+        "definition": "aunt.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aur, arr", "scar", "aur", "arr"],
+        "scots": "aur, arr",
+        "english": "scar",
+        "definition": "a scar.",
+        "pos": "s."
+    }, {
+        "searchInput": ["aurgle-bargle", "to wrangle", "aurglebargle", "aurgle bargle", "aurgle", "bargle", "wrangle", "wrangling", "wrangles"],
+        "scots": "aurgle-bargle",
+        "english": "to wrangle",
+        "definition": "to wrangle.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["ava", "at all", "all"],
+        "scots": "ava",
+        "english": "at all",
+        "definition": "at all.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["awban", "a person of whom one stands in awe", "awe", "stands in awe", "standing in awe"],
+        "scots": "awban",
+        "english": "a person of whom one stands in awe",
+        "definition": "a person of whom one stands in awe.",
+        "pos": "s."
+    }, {
+        "searchInput": ["awfu'", "awful", "awfu"],
+        "scots": "awfu'",
+        "english": "awful",
+        "definition": "awful.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["awkwart", "awkward"],
+        "scots": "awkwart",
+        "english": "awkward",
+        "definition": "awkward.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["awn", "the beard of grain", "beard of grain", "grain"],
+        "scots": "awn",
+        "english": "the beard of grain",
+        "definition": "the beard of grain.",
+        "pos": "s."
+    }, {
+        "searchInput": ["awner, auner", "owner", "awner", "auner"],
+        "scots": "awner, auner",
+        "english": "owner",
+        "definition": "owner.",
+        "pos": "s."
+    }, {
+        "searchInput": ["awny", "bearded as grain", "bearded", "grain"],
+        "scots": "awny",
+        "english": "bearded as grain",
+        "definition": "bearded as grain.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["awsum", "frightful", "terrible", "awesome"],
+        "scots": "awsum",
+        "english": "frightful",
+        "definition": "frightful, terrible.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["ax", "to ask", "ask", "axe", "asking"],
+        "scots": "ax",
+        "english": "to ask",
+        "definition": "to ask.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["aye", "yes", "ay"],
+        "scots": "aye",
+        "english": "yes",
+        "definition": "yes.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["aynd", "breath"],
+        "scots": "aynd",
+        "english": "breath",
+        "definition": "the breath.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ayont", "beyond"],
+        "scots": "ayont",
+        "english": "beyond",
+        "definition": "beyond.",
+        "pos": "adv."
     }
 ]

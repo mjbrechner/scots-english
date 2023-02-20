@@ -51,6 +51,7 @@ main {
     margin: 2em;
     /* margin: 0; */
     /* border: 2px solid #005EB8; */
+    border-radius: 10px;
     box-shadow: 0 0 5px 5px white;
 }
 

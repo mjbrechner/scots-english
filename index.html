@@ -32,7 +32,17 @@
 <div id="results-box"></div>
     </main>
     <footer>
-        <p>© 2023 <a href="https://github.com/mjbrechner" class="credits-link">M.J. Brechner</a></p>
+        <p>
+            <script>
+                const thisYear = new Date().getFullYear();
+                if (thisYear === 2023) {
+                    document.write(`Copyright © 2023 `);
+                } else {
+                    document.write(`Copyright © 2023-${thisYear} `);
+                }
+            </script>
+            <a class="credits-link" href="https://github.com/mjbrechner">M.J. Brechner</a>
+        </p>
         <!-- Profile picture/favicon created by M.J. Brechner © 2022 -->
         <!-- <img class="profile-pic" src="images/profile-pic.png"> -->
     </footer>
