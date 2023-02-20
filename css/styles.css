@@ -38,7 +38,7 @@ main {
 #results-box {
     background-color: white;
     color: #005EB8;
-    display: grid;
+    display: none;
     grid-template-columns: auto auto auto;
     justify-items: stretch;
     justify-content: start;

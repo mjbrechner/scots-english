@@ -821,5 +821,365 @@
         "english": "beyond",
         "definition": "beyond.",
         "pos": "adv."
+    }, {
+        "searchInput": ["ba', baw", "ball", "ba", "ba'", "baw"],
+        "scots": "ba', baw",
+        "english": "ball",
+        "definition": "ball.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ba'-baises", "the name of a particular game at ball", "ba-baises", "ba' baises", "ba baises", "ballgame", "ball game", "ball-game", "ba'baises", "babaises", "ba'-bases", "ba-bases", "ba' bases", "ba bases", "ba'bases", "babases"],
+        "scots": "ba'-baises",
+        "english": "the name of a particular game at ball",
+        "definition": "the name of a particular game at ball.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bab", "posie", "nosegay"],
+        "scots": "bab",
+        "english": "posie",
+        "definition": "a posie, a nosegay.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bab", "to spring nimbly backwards and forwards", "to spring nimbly", "spring nimbly", "to spring", "spring", "to dance", "dance", "dancing"],
+        "scots": "bab",
+        "english": "to spring nimbly backwards and forwards",
+        "definition": "to spring nimbly backwards and forwards, to dance.",
+        "pos": "s."
+    }, {
+        "searchInput": ["babbit", "did bab", "bab", "to spring nimbly backwards and forwards", "to spring nimbly", "spring nimbly", "to spring", "spring", "to dance", "dance", "dancing"],
+        "scots": "babbit",
+        "english": "did bab",
+        "definition": "did bab (to spring nimbly backwards and forwards, to dance).",
+        "pos": "v."
+    }, {
+        "searchInput": ["bachle", "to shove in walking as if the shoes were loose on the feet", "to shove in walking", "shove in walking", "shove in", "shove", "walking"],
+        "scots": "bachle",
+        "english": "to shove in walking as if the shoes were loose on the feet",
+        "definition": "to shove in walking as if the shoes were loose on the feet.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bachle", "to distort by wearing or ill usage", "to distort", "distort", "to distort by wearing", "to distort by ill usage", "distorted", "distorting", "distorts"],
+        "scots": "bachle",
+        "english": "to distort by wearing or ill usage",
+        "definition": "to distort by wearing or ill usage.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bachles", "old shoes used as slippers", "old shoes", "old shoe", "shoes", "shoe", "slippers", "slipper"],
+        "scots": "bachles",
+        "english": "old shoes used as slippers",
+        "definition": "old shoes used as slippers.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["backet", "ase backet", "holding ashes", "holding coal-ashes", "holding coal ashes"],
+        "scots": "backet",
+        "english": "ase backet",
+        "definition": "an ase backet, a backet for holding coal-ashes.",
+        "pos": "s."
+    }, {
+        "searchInput": ["backie-bird", "bat", "backiebird", "backie bird", "bats"],
+        "scots": "backie-bird",
+        "english": "bat",
+        "definition": "the bat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["backings", "the refuse of tow", "refuse", "tow"],
+        "scots": "backings",
+        "english": "the refuse of tow",
+        "definition": "the refuse of tow.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["backlins", "backwards", "backlin", "backward"],
+        "scots": "backlins",
+        "english": "backwards",
+        "definition": "backwards.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["backsey", "sirloin"],
+        "scots": "backsey",
+        "english": "sirloin",
+        "definition": "a sirloin.",
+        "pos": "s."
+    }, {
+        "searchInput": ["backspang", "back-spang", "back spang", "backs-pang", "backs pang", "retort", "retorts"],
+        "scots": "backspang",
+        "english": "retort",
+        "definition": "a retort on a person after a contested affair has had the appearance of being settled.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bad", "did bid"],
+        "scots": "bad",
+        "english": "did bid",
+        "definition": "did bid.",
+        "pos": "v."
+    }, {
+        "searchInput": ["bade, baid", "bide", "bade", "baid"],
+        "scots": "bade, baid",
+        "english": "bide",
+        "definition": "bide.",
+        "pos": "pret. of v."
+    }, {
+        "searchInput": ["badrans, bathrons", "cat", "badrans", "bathrons", "badran", "bathron"],
+        "scots": "badrans, bathrons",
+        "english": "cat",
+        "definition": "a cat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bae", "bleat", "to bleat", "bleating"],
+        "scots": "bae",
+        "english": "bleat",
+        "definition": "to bleat.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bae", "bleat"],
+        "scots": "bae",
+        "english": "bleat",
+        "definition": "the bleat of a sheep.",
+        "pos": "s."
+    }, {
+        "searchInput": ["baggie", "guts", "belly"],
+        "scots": "baggie",
+        "english": "guts",
+        "definition": "the guts, the belly.",
+        "pos": "s."
+    }, {
+        "searchInput": ["baible", "drink carelessly", "to drink carelessly", "drinking carelessly", "carelessly drinking", "careless drinking", "spill", "spilling", "sip", "sipping"],
+        "scots": "baible",
+        "english": "drink carelessly",
+        "definition": "to drink carelessly so as to spill in drinking, to drink as a child, to sip often.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["baikie", "backie", "wooden vessel", "carrying coal", "carrying coals", "carrying ash", "carrying ashes"],
+        "scots": "baikie",
+        "english": "wooden vessel",
+        "definition": "a wooden vessel for carying coals or ashes.",
+        "pos": "s."
+    }, {
+        "searchInput": ["baikie", "backie", "wooden vessel", "carrying coal", "carrying coals", "carrying ash", "carrying ashes"],
+        "scots": "backie",
+        "english": "wooden vessel",
+        "definition": "a wooden vessel for carying coals or ashes.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bailie", "city magistrate", "magistrate"],
+        "scots": "bailie",
+        "english": "city magistrate",
+        "definition": "a city magistrate in Scotland.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bains", "bones", "bain", "bone"],
+        "scots": "bains",
+        "english": "bones",
+        "definition": "bones.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bairn", "child", "bairns", "children"],
+        "scots": "bairn",
+        "english": "child",
+        "definition": "a child.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bairnly", "childish"],
+        "scots": "bairnly",
+        "english": "childish",
+        "definition": "childish.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bairnliness", "childishness"],
+        "scots": "bairnliness",
+        "english": "childishness",
+        "definition": "childishness.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bairns-part-o'-gear", "that part of a man's personal estate to which his children succeed", "bairns-part-o-gear", "bairns part o' gear", "bairns part o gear", "personal estate", "estate", "bairn-part-o'-gear", "bairn-part-o-gear", "bairn part o' gear", "bairn part o gear"],
+        "scots": "bairns-part-o'-gear",
+        "english": "that part of a man's personal estate to which his children succeed",
+        "definition": "that part of a man's personal estate to which his children succeed.",
+        "pos": ""
+    }, {
+        "searchInput": ["bairn's-play", "children's sport", "bairns-play", "bairn-play", "bairn's play", "bairns play", "bairn play", "bairnsplay", "bairnplay", "childsplay", "child's play", "childs play", "child play"],
+        "scots": "bairn's-play",
+        "english": "children's sport",
+        "definition": "children's sport.",
+        "pos": ""
+    }, {
+        "searchInput": ["bairntime", "a woman's whole births of children", "birth", "births", "bairn-time", "bairn time", "bairnstime", "bairns-time", "bairns time"],
+        "scots": "bairntime",
+        "english": "a woman's whole births of children",
+        "definition": "a woman's whole births of children.",
+        "pos": ""
+    }, {
+        "searchInput": ["baisse", "baste", "to baste"],
+        "scots": "baisse",
+        "english": "baste",
+        "definition": "to baste in sewing.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["baisse", "drub", "to drub"],
+        "scots": "baisse",
+        "english": "drub",
+        "definition": "to drub.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["baissie", "bason"],
+        "scots": "baissie",
+        "english": "bason",
+        "definition": "a bason for meal, &c.",
+        "pos": "s."
+    }, {
+        "searchInput": ["baissin", "drubbing", "a drubbing"],
+        "scots": "baissin",
+        "english": "drubbing",
+        "definition": "a drubbing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["baissin", "slight sewing", "sewing"],
+        "scots": "baissin",
+        "english": "slight sewing",
+        "definition": "slight sewing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["baith", "both"],
+        "scots": "baith",
+        "english": "both",
+        "definition": "both.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bakebread", "kneading board", "kneading", "board", "bake-bread", "bake bread", "boards"],
+        "scots": "bakebread",
+        "english": "kneading board",
+        "definition": "a kneading board for baking.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bald, bauld", "bold", "bald", "bauld"],
+        "scots": "bald, bauld",
+        "english": "bold",
+        "definition": "bold.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["balderdash", "nonsense"],
+        "scots": "balderdash",
+        "english": "nonsense",
+        "definition": "nonsense.",
+        "pos": "s."
+    }, {
+        "searchInput": ["balen", "whalebone", "whalebones", "whale-bone", "whale-bones", "whale bone", "whale bones"],
+        "scots": "balen",
+        "english": "whalebone",
+        "definition": "whalebone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bambouzle", "handle roughly", "bamboozle", "affront", "to handle roughly", "to affront", "handle"],
+        "scots": "bambouzle",
+        "english": "handle roughly",
+        "definition": "to handle roughly, to affront.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bambouzled", "participle of bambouzle", "bamboozled", "bambouzle", "bamboozle", "handled roughly", "affronted", "handled", "handle roughly", "affront"],
+        "scots": "bambouzled",
+        "english": "participle of bambouzle",
+        "definition": "of bambouzle (to handle roughly, to affront).",
+        "pos": "the part"
+    }, {
+        "searchInput": ["ban', bann", "curse", "ban'", "ban", "bann", "to curse", "cursing", "swear", "to swear", "swearing"],
+        "scots": "ban', bann",
+        "english": "curse",
+        "definition": "to curse, to swear.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bandy", "impudent", "obstinate"],
+        "scots": "bandy",
+        "english": "impudent",
+        "definition": "impudent, obstinate.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bane", "bone", "banes", "bones"],
+        "scots": "bane",
+        "english": "bone",
+        "definition": "bone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["banefire", "bonefire", "bane-fire", "bane fire", "banefires", "bane-fire", "bane fires", "bonfire", "bonfires", "bone-fire", "bone-fires"],
+        "scots": "banefire",
+        "english": "bonefire",
+        "definition": "a bonefire.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bang", "lift", "to lift", "throw", "draw", "draw out", "spring", "recoil", "excel"],
+        "scots": "bang",
+        "english": "lift",
+        "definition": "to lift, throw, or draw out any thing hastily, to spring or recoil instantaneously, — to excel.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bang", "the noun expressing the act of bang", "lift", "throw", "draw", "draw out", "spring", "recoil", "excel"],
+        "scots": "bang",
+        "english": "the noun expressing the act of bang",
+        "definition": "the noun expressing the act of bang (to lift, throw, or draw out any thing hastily, to spring or recoil instantaneously, — to excel.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bangster", "bully", "blustering fellow", "blustering"],
+        "scots": "bangster",
+        "english": "bully",
+        "definition": "a bully, a blustering fellow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bannet", "bonnet"],
+        "scots": "bannet",
+        "english": "bonnet",
+        "definition": "a bonnet.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bannock, bonnock", "bread thicker than cakes", "bannock", "bonnock", "bannocks", "bannocks", "bread", "thick bread", "round bread"],
+        "scots": "bannock, bonnock",
+        "english": "bread thicker than cakes",
+        "definition": "a sort of bread thicker than cakes, and round.",
+        "pos": "s."
+    }, {
+        "searchInput": ["banton", "bantam", "cock", "hen", "chicken", "rooster", "dwarf"],
+        "scots": "banton",
+        "english": "bantam",
+        "definition": "a bantam cock or hen, a dwarf.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bap", "loaf bread", "bread", "loaf"],
+        "scots": "bap",
+        "english": "loaf bread",
+        "definition": "a particular form of loaf bread.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bardie", "bard"],
+        "scots": "bardie",
+        "english": "bard",
+        "definition": "of Bard.",
+        "pos": "s. dim."
+    }, {
+        "searchInput": ["bardy", "mischievous", "impertinent"],
+        "scots": "bardy",
+        "english": "mischievous",
+        "definition": "mischievous, impertinent.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["barefit", "barefooted", "barefoot", "barefeet", "bare-fit", "bare fit"],
+        "scots": "barefit",
+        "english": "barefooted",
+        "definition": "barefooted.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["barken", "stiffen", "to stiffen", "stiff"],
+        "scots": "barken",
+        "english": "stiffen",
+        "definition": "to stiffen any thing, as with mire, blood &c.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["barken'd", "stiffened", "barkened", "barkend", "so stiffened"],
+        "scots": "barken'd",
+        "english": "stiffened",
+        "definition": "so stiffened (barken: to stiffen any thing, as with mire, blood &c.).",
+        "pos": "part."
+    }, {
+        "searchInput": ["barleybree", "barley-bree", "barley bree", "juice of malt", "malt", "malt spirits", "malt porter", "malt ale", "spirits", "porter", "ale", "malt liquor", "liquor", "whisky", "whiskey"],
+        "scots": "barleybree",
+        "english": "juice of malt",
+        "definition": "the juice of malt of whatever kind, as malt spirits, porter, ale, &c.",
+        "pos": "s."
     }
 ]

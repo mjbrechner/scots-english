@@ -6,21 +6,21 @@ const userInput = document.getElementById("search-box");
 const displayedResults = document.getElementById("results-box");
 let userInputValue;
 
+
 async function getDictionary() {
     const response = await fetch("javascript/dictionary.json");
     const data = await response.json();
-    // console.log(data);
-    // console.log(`Hullo: ${data[1].scots}`);
-    // const x = "abee";
-    // console.log(x);
 
-    // search -start
+    let numberOfDictionaryMatches = 0;
+
+    // Search for dictionary matches--START
     for (let i = 0; i < data.length; i++) {
         if (data[i].searchInput.includes(userInputValue)) {
             console.log(`${userInputValue} in Scots means ${data[i].english}.`);
             console.log(`searchInput is ${data[i].searchInput}.`);
+            numberOfDictionaryMatches++
 
-            // Display the results -- START
+            // Display the results--START
             let displayedDiv1 = document.createElement("div");
             let displayedDiv2 = document.createElement("div");
             let displayedDiv3 = document.createElement("div");
@@ -36,10 +36,20 @@ async function getDictionary() {
             displayedResults.appendChild(displayedDiv1);
             displayedResults.appendChild(displayedDiv2);
             displayedResults.appendChild(displayedDiv3);
-            // Display the results -- END
+            // Display the results--END
         }
     }
-    // search -end
+    // Search for dictionary matches--END
+
+
+    // Toggle visibility of results--START
+    // if (numberOfDictionaryMatches === 0) {
+    if (userInputValue.length === 0) {
+        displayedResults.style.display = "none";
+    } else {
+        displayedResults.style.display = "grid";
+    }
+    // Toggle visibility of results--END
 }
 
 
@@ -56,4 +66,11 @@ userInput.addEventListener("keyup", (event) => {
 // displayed, but if there are multiple hits, they all  need to be visible,
 // stacked up nicely in a list.
 // But the list needs must vanish when another character is added in the event listener
-// You still need the search button, and it does the same thing as keup except that it also alerts if no word is found at all.
+// You still need the search button, and it does the same thing as keyup except that
+// (1) it also alerts if no word is found at all; ans
+// (2) it only shows exact matches with userInputValue... e.g. includes(userInputValue)
+// Though at the moment, includes(userInputValue) is actually found in keyup... maybe thatcan be relaxed to show more hits.
+
+// Decide whether or not to use numberOfDictionaryMatches, such as in visibility toggling
+
+// Make PoS stick to the top of the div to be even with the top line of the definition.
