@@ -4,7 +4,7 @@ console.log('hey');
 
 const userInput = document.getElementById("search-box");
 const displayedResults = document.getElementById("results-box");
-let userInputValue;
+let userInputValue = userInput.value;
 
 
 async function getDictionary() {
