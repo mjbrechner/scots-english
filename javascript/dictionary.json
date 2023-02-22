@@ -1349,5 +1349,377 @@
         "english": "immediately",
         "definition": "immediately.",
         "pos": "adv."
+    }, {
+        "searchInput": ["bedirtin", "befouled", "befouled with excrement", "excrement", "be-dirtin", "be dirtin", "bedirten", "be-dirten", "be dirten", "bedirt", "befoul"],
+        "scots": "bedirtin",
+        "english": "befouled",
+        "definition": "befouled with excrement.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bedoitrified", "stupid"],
+        "scots": "bedoitrified",
+        "english": "stupid",
+        "definition": "stupid.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bedoitrified", "rendered stupid", "stupid"],
+        "scots": "bedoitrified",
+        "english": "rendered stupid",
+        "definition": "rendered stupid.",
+        "pos": "past part."
+    }, {
+        "searchInput": ["bedoitrify", "render stupid", "stupid"],
+        "scots": "bedoitrify",
+        "english": "render stupid",
+        "definition": "to render stupid.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bedral, bethral", "beadle", "bedral", "bethral", "officer", "church-officer", "church officer"],
+        "scots": "bedral, bethral",
+        "english": "beadle",
+        "definition": "a beadle, a church-officer.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beegle", "sheriff's officer", "officer", "beagle"],
+        "scots": "beegle",
+        "english": "sheriff's officer",
+        "definition": "a sheriff's officer.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beek", "bask"],
+        "scots": "beek",
+        "english": "bask",
+        "definition": "to bask.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["beek", "warm", "sun", "warming", "to warm", "sunning"],
+        "scots": "beek",
+        "english": "warm",
+        "definition": "to warm; generally applied to the sun or fire.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["beek", "bask"],
+        "scots": "beek",
+        "english": "bask",
+        "definition": "a bask, a while of sunshine or heat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["been", "swell", "swell the staves", "swell the stave", "watertight", "water tight", "water-tight"],
+        "scots": "been",
+        "english": "swell",
+        "definition": "to swell the staves of a dry cask by moisture; to make it water tight.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bees", "entertain fancies", "fuddled", "entertain enthusiastic fancies", "entertain", "befuddled", "befuddle", "fancies", "set upon", "to be in the bees", "be in the bees", "have one's head in the bees", "head in the bees"],
+        "scots": "bees",
+        "english": "entertain fancies",
+        "definition": "(to be in the, to have one's head in the) to entertain enthusiastic fancies to be madly or whimsically set upon a thing, to be fuddled.",
+        "pos": ""
+    }, {
+        "searchInput": ["beet", "add fuel to the fire", "fuel to the fire", "fuel", "praise", "blazon"],
+        "scots": "beet",
+        "english": "add fuel to the fire",
+        "definition": "to add fuel to the fire, to praise, to blazon.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["beft", "beaten"],
+        "scots": "beft",
+        "english": "beaten",
+        "definition": "beaten.",
+        "pos": "part."
+    }, {
+        "searchInput": ["begeck", "beguile"],
+        "scots": "begeck",
+        "english": "beguile",
+        "definition": "to beguile.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["begnet", "bayonet"],
+        "scots": "begnet",
+        "english": "bayonet",
+        "definition": "a bayonet.",
+        "pos": "s."
+    }, {
+        "searchInput": ["begoud", "began", "of begin", "begin"],
+        "scots": "begoud",
+        "english": "began",
+        "definition": "of begin, began.",
+        "pos": "pret."
+    }, {
+        "searchInput": ["begrutten", "in tears", "tears", "crying", "all in tears", "cry", "teary", "teary-eyed", "teary eyed", "tearyeyed"],
+        "scots": "begrutten",
+        "english": "in tears",
+        "definition": "all in tears, or rather retaining the appearance of having been so.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["begunk", "beguile", "deceive"],
+        "scots": "begunk",
+        "english": "beguile",
+        "definition": "to beguile, to deceive.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["begunk", "cheat", "mistake", "deception"],
+        "scots": "begunk",
+        "english": "cheat",
+        "definition": "a cheat, a mistake.",
+        "pos": ""
+    }, {
+        "searchInput": ["begunkit", "cheated", "deceived", "mistaken"],
+        "scots": "begunkit",
+        "english": "cheated",
+        "definition": "cheated, deceived, mistaken.",
+        "pos": "part."
+    }, {
+        "searchInput": ["behin', behint", "behind", "behin'", "behin", "behint"],
+        "scots": "behin', behint",
+        "english": "behind",
+        "definition": "behind.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["beil", "suppurate"],
+        "scots": "beil",
+        "english": "suppurate",
+        "definition": "to suppurate.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["beild, beil", "shelter", "beild", "beil", "house"],
+        "scots": "beild, beil",
+        "english": "shelter",
+        "definition": "a shelter, a house.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beiling", "boil", "suppuration"],
+        "scots": "beiling",
+        "english": "boil",
+        "definition": "a boil, a suppuration.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bein", "wealthy", "comfortable", "comfortable circumstances"],
+        "scots": "bein",
+        "english": "wealthy",
+        "definition": "wealthy, in comfortable circumstances.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["beinge", "cringe", "stoop", "submit"],
+        "scots": "beinge",
+        "english": "cringe",
+        "definition": "to cringe, to stoop, to submit.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["beld", "bald"],
+        "scots": "beld",
+        "english": "bald",
+        "definition": "bald.",
+        "pos": ""
+    }, {
+        "searchInput": ["bell", "blossom", "blossom of a bell shape", "bell shape", "bell-shape", "bell shaped", "bell-shaped"],
+        "scots": "bell",
+        "english": "blossom",
+        "definition": "a blossom of a bell shape.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bell", "bubble"],
+        "scots": "bell",
+        "english": "bubble",
+        "definition": "a bubble.",
+        "pos": "s."
+    }, {
+        "searchInput": ["belly-flaught", "hastily", "bellyflaught", "belly flaught"],
+        "scots": "belly-flaught",
+        "english": "hastily",
+        "definition": "hastily.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["Beltine, Beltan", "May third", "Beltine", "beltine", "Beltan", "beltan", "may third", "third of May", "third of may", "may 3rd", "May 3rd"],
+        "scots": "Beltine, Beltan",
+        "english": "May third",
+        "definition": "the third of May.",
+        "pos": ""
+    }, {
+        "searchInput": ["bellwaver", "go astray", "go amissing", "amissing", "go missing", "missing", "astray", "stray", "err", "bell-waver", "bell waver"],
+        "scots": "bellwaver",
+        "english": "go astray",
+        "definition": "to go amissing or astray, to err.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["belyive", "by and bye", "by-and-bye", "bye and by", "bye-and-by", "by and by", "by-and-by", "bye and bye", "bye-and-bye"],
+        "scots": "belyive",
+        "english": "by and bye",
+        "definition": "by and bye.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["ben", "inwards", "inward"],
+        "scots": "ben",
+        "english": "inwards",
+        "definition": "inwards.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["ben", "end of a house", "but an' ben", "but an ben", "butan'ben", "butanben", "but-an'-ben", "but-an-ben", "but and ben", "butandben", "but-and-ben"],
+        "scots": "ben",
+        "english": "end of a house",
+        "definition": "the end of a house opposite to the sitter. Any apartment entering from another is said to be ben from it.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bend", "quaff"],
+        "scots": "bend",
+        "english": "quaff",
+        "definition": "to quaff.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bend", "draught of liquor", "draught", "draft", "draft of liquor"],
+        "scots": "bend",
+        "english": "draught of liquor",
+        "definition": "a draught of liquor.",
+        "pos": "s."
+    }, {
+        "searchInput": ["benmost", "farthest in", "ben most", "ben-most", "farthest"],
+        "scots": "benmost",
+        "english": "farthest in",
+        "definition": "farthest in.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["benorth", "northward", "ben-north", "ben north", "bennorth", "to the northward", "to the northward of", "to the north", "north", "northern", "north-ward", "north ward"],
+        "scots": "benorth",
+        "english": "northward",
+        "definition": "to the northward of.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["bennison", "blessing", "benison"],
+        "scots": "bennison",
+        "english": "blessing",
+        "definition": "a blessing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bensel", "beat", "bensil", "bencel", "bencil"],
+        "scots": "bensel",
+        "english": "beat",
+        "definition": "to beat.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bensel", "blow", "force", "bensil", "bencel", "bencil"],
+        "scots": "bensel",
+        "english": "blow",
+        "definition": "a blow, force.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bent", "open field", "coarse grass", "grass", "field"],
+        "scots": "bent",
+        "english": "open field",
+        "definition": "the open field, a kind of coarse grass.",
+        "pos": "s."
+    }, {
+        "searchInput": ["besouth", "southward", "be-south", "be south", "south", "southern", "south ward", "south-ward", "to the south", "to the southward", "to the southward of"],
+        "scots": "besouth",
+        "english": "southward",
+        "definition": "to the southward of.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["bestman", "brideman", "best-man", "best man", "bride-man", "bride man", "bridesman", "brides-man", "brides man", "bestmen", "best-men", "best men", "bridemen", "bride-men", "bridemen", "bridesmen"],
+        "scots": "bestman",
+        "english": "brideman",
+        "definition": "brideman.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beteach us!", "beteach us", "have a care of us", "beteach", "be teach", "be-teach", "have a care", "give us understanding", "understanding", "care"],
+        "scots": "beteach us!",
+        "english": "have a care of us",
+        "definition": "have a care of us, give us understanding",
+        "pos": ""
+    }, {
+        "searchInput": ["bethankit", "grace after meat", "beth nkit", "grace", "grace after meal", "grace after meals", "blessing", "blessing after meat", "blessing after meal", "blessing after meals"],
+        "scots": "bethankit",
+        "english": "grace after meat",
+        "definition": "grace after meat.",
+        "pos": ""
+    }, {
+        "searchInput": ["betweesht, betweesh", "betwixt", "betweesht", "betweesh"],
+        "scots": "betweesht, betweesh",
+        "english": "betwixt",
+        "definition": "betwixt.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["beuch", "bough"],
+        "scots": "beuch",
+        "english": "bough",
+        "definition": "a bough.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beuk, buik", "book", "beuk", "buik"],
+        "scots": "beuk, buik",
+        "english": "book",
+        "definition": "a book.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beuk", "baked", "bake", "did bake"],
+        "scots": "beuk",
+        "english": "baked",
+        "definition": "did bake.",
+        "pos": ""
+    }, {
+        "searchInput": ["bevel", "blow"],
+        "scots": "bevel",
+        "english": "blow",
+        "definition": "a blow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beverage", "hansel", "compliment", "forfeit", "kiss"],
+        "scots": "beverage",
+        "english": "hansel",
+        "definition": "a sort of hansel, viz. a compliment paid, or a kind of forfeit due by one wearing a new dress. If the wearer is a young woman, she is generally saluted with a kiss on the occasion, which she is expected to permit as a forfeit.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bicker", "wooden dish", "dish", "dish for drinking", "wooden dish for drinking"],
+        "scots": "bicker",
+        "english": "wooden dish",
+        "definition": "a wooden dish for drinking out of.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bicker", "fight", "fighting", "bickering"],
+        "scots": "bicker",
+        "english": "fight",
+        "definition": "to fight.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bicker", "fight"],
+        "scots": "bicker",
+        "english": "fight",
+        "definition": "a fight.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bide", "abide", "biding", "abiding", "stay", "staying", "wait", "waiting", "wait for", "waiting for"],
+        "scots": "bide",
+        "english": "abide",
+        "definition": "to abide, to stay, to wait for.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["big", "build"],
+        "scots": "big",
+        "english": "build",
+        "definition": "to build.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bigger", "builder"],
+        "scots": "bigger",
+        "english": "builder",
+        "definition": "a builder.",
+        "pos": "s."
+    }, {
+        "searchInput": ["biggin", "house", "building", "biggen"],
+        "scots": "biggin",
+        "english": "house",
+        "definition": "a house, a building.",
+        "pos": "s."
+    }, {
+        "searchInput": ["biggit", "built", "bigget"],
+        "scots": "biggit",
+        "english": "built",
+        "definition": "built.",
+        "pos": "part."
+    }, {
+        "searchInput": ["biggonet", "linen cap", "cap"],
+        "scots": "biggonet",
+        "english": "linen cap",
+        "definition": "a linen cap.",
+        "pos": "s."
     }
 ]

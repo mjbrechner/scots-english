@@ -68,6 +68,4 @@ userInput.addEventListener("keyup", (event) => {
 
 // Decide whether or not to use numberOfDictionaryMatches, such as in visibility toggling
 
-// Make PoS stick to the top of the div to be even with the top line of the definition.
-
 // What if the Scots entries were all shown in uppercase?
