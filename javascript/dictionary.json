@@ -918,7 +918,7 @@
         "definition": "bide.",
         "pos": "pret. of v."
     }, {
-        "searchInput": ["badrans, bathrons", "cat", "badrans", "bathrons", "badran", "bathron"],
+        "searchInput": ["badrans, bathrons", "cat", "cats", "badrans", "bathrons", "badran", "bathron"],
         "scots": "badrans, bathrons",
         "english": "cat",
         "definition": "a cat.",
@@ -1050,8 +1050,8 @@
         "definition": "a kneading board for baking.",
         "pos": "s."
     }, {
-        "searchInput": ["bald, bauld", "bold", "bald", "bauld"],
-        "scots": "bald, bauld",
+        "searchInput": ["bold", "bald", "bauld"],
+        "scots": "bald",
         "english": "bold",
         "definition": "bold.",
         "pos": "adj."
@@ -1181,5 +1181,173 @@
         "english": "juice of malt",
         "definition": "the juice of malt of whatever kind, as malt spirits, porter, ale, &c.",
         "pos": "s."
+    }, {
+        "searchInput": ["barlihood", "barlyhood", "barly hood", "barly-hood", "fit of drunken passion", "drunken", "passion", "drunken passion", "fit", "barli-hood", "barli hood"],
+        "scots": "barlihood",
+        "english": "fit of drunken passion",
+        "definition": "a fit of drunken passion.",
+        "pos": "s."
+    }, {
+        "searchInput": ["barrie", "petticoat", "woman's petticoat", "flannel", "wrapping", "petticoats"],
+        "scots": "barrie",
+        "english": "petticoat",
+        "definition": "a woman's petticoat, a piece of flannel for wrapping an infant in.",
+        "pos": "s."
+    }, {
+        "searchInput": ["barrowtrams", "staves of a hand-barrow", "stave", "staves", "barrow-trams", "barrow trams", "barrowtram", "barrow-tram", "barrow tram", "hand-barrow", "handbarrow", "hand barrow", "hand-barrows", "hand barrows", "handbarrows"],
+        "scots": "barrowtrams",
+        "english": "staves of a hand-barrow",
+        "definition": "the staves of a hand-barrow.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["bartisene", "battlement", "bartisen", "battlements", "bartiseen"],
+        "scots": "bartisene",
+        "english": "battlement",
+        "definition": "a battlement.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bash", "blow"],
+        "scots": "bash",
+        "english": "blow",
+        "definition": "such a blow as may be given with any thing that is broad.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bashfu'", "bashful", "bashfu"],
+        "scots": "bashfu'",
+        "english": "bashful",
+        "definition": "bashful.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["batch", "crew", "crew", "gang", "crews", "gangs", "batches"],
+        "scots": "batch",
+        "english": "crew",
+        "definition": "a crew, a gang.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bather", "tease", "pother", "bother"],
+        "scots": "bather",
+        "english": "tease",
+        "definition": "to pother, to tease.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["batter", "paste"],
+        "scots": "batter",
+        "english": "paste",
+        "definition": "paste.",
+        "pos": "s."
+    }, {
+        "searchInput": ["batter", "attach by paste", "attach", "paste", "pasting", "attaching"],
+        "scots": "batter",
+        "english": "attach by paste",
+        "definition": "to attach by paste.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["battle, buttle", "sheaf", "battle", "buttle", "sheaves"],
+        "scots": "battle, buttle",
+        "english": "sheaf",
+        "definition": "a sheaf.",
+        "pos": "s."
+    }, {
+        "searchInput": ["batts", "disorder among horses", "horse disorder", "horse sickness", "botts", "horse bot fly", "horse bot flies", "bot fly", "bot flies", "botfly", "botflies"],
+        "scots": "batts",
+        "english": "disorder among horses",
+        "definition": "a disorder among horses, the botts.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["baubee", "halfpenny", "halfpennies", "ha'penny", "ha'pennies", "ha penny", "ha pennies", "hapenny", "hapennies", "half-penny", "half-pennies", "baubees"],
+        "scots": "baubee",
+        "english": "halfpenny",
+        "definition": "a halfpenny",
+        "pos": ""
+    }, {
+        "searchInput": ["Baubie", "Barbrie", "baubie", "barbrie"],
+        "scots": "Baubie",
+        "english": "Barbrie",
+        "definition": "the dim of Barbrie, a proper name for females.",
+        "pos": "s."
+    }, {
+        "searchInput": ["badrons", "badron", "cat", "baudrons", "baudron", "badrans", "badran", "cats"],
+        "scots": "baudrons",
+        "english": "cat",
+        "definition": "a cat.",
+        "pos": ""
+    }, {
+        "searchInput": ["bauch", "sorry", "indifferent", "unpleasant", "unpleasant to the taste"],
+        "scots": "bauch",
+        "english": "sorry",
+        "definition": "sorry, indifferent, unpleasant to the taste.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bauk", "beam", "beams", "cross beam", "cross-beam", "crossbeam", "cross beams", "cross-beams", "crossbeams", "scales", "scale"],
+        "scots": "bauk",
+        "english": "beam",
+        "definition": "a cross beam, the beam of a pair of scales.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bauk", "balk", "disappoint", "disappoints", "disappointing", "balks", "balking", "disappointed", "balked"],
+        "scots": "bauk",
+        "english": "balk",
+        "definition": "to balk, to disappoint.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bauld", "bold", "bald"],
+        "scots": "bauld",
+        "english": "bold",
+        "definition": "bold.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["baumy", "balmy"],
+        "scots": "baumy",
+        "english": "balmy",
+        "definition": "balmy.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["baun", "band", "bauns", "bands"],
+        "scots": "baun",
+        "english": "band",
+        "definition": "a band.",
+        "pos": "s."
+    }, {
+        "searchInput": ["Bautie", "a name given to a dog", "bautie", "dog name"],
+        "scots": "Bautie",
+        "english": "a name given to a dog",
+        "definition": "a name given to a dog.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bawsent, bassent", "bawsent", "bassent", "having a white stripe down the face", "white stripe", "white striped", "white-stripe", "white-striped", "stripe", "striped"],
+        "scots": "bawsent, bassent",
+        "english": "having a white stripe down the face",
+        "definition": "having a white stripe down the face,--- generally used in reference to animals.",
+        "pos": ""
+    }, {
+        "searchInput": ["be (to let)", "let alone", "be", "alone", "let be", "let it be"],
+        "scots": "be (to let)",
+        "english": "let alone",
+        "definition": "to let alone.",
+        "pos": ""
+    }, {
+        "searchInput": ["bead lambs", "mounting of a silk loom", "bead lamb", "bead-lambs", "bead-lamb", "beadlambs", "beadlamb", "mounting", "loom", "looms"],
+        "scots": "bead lambs",
+        "english": "mounting of a silk loom",
+        "definition": "part of the mounting of a silk loom.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["bear, beer", "barley", "bear", "beer"],
+        "scots": "bear, beer",
+        "english": "barley",
+        "definition": "barley.",
+        "pos": "s."
+    }, {
+        "searchInput": ["beck", "curtsey", "bow", "curtseying", "bowing", "curtseys", "bows"],
+        "scots": "beck",
+        "english": "curtsey",
+        "definition": "to curtsey, to bow.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bedeen", "immediately"],
+        "scots": "bedeen",
+        "english": "immediately",
+        "definition": "immediately.",
+        "pos": "adv."
     }
 ]

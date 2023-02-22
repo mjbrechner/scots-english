@@ -1,11 +1,8 @@
 'use strict';
 
-console.log('hey');
-
 const userInput = document.getElementById("search-box");
 const displayedResults = document.getElementById("results-box");
-let userInputValue = userInput.value;
-
+let userInputValue = userInput.value.toLowerCase();
 
 async function getDictionary() {
     const response = await fetch("javascript/dictionary.json");
@@ -16,8 +13,6 @@ async function getDictionary() {
     // Search for dictionary matches--START
     for (let i = 0; i < data.length; i++) {
         if (data[i].searchInput.includes(userInputValue)) {
-            console.log(`${userInputValue} in Scots means ${data[i].english}.`);
-            console.log(`searchInput is ${data[i].searchInput}.`);
             numberOfDictionaryMatches++
 
             // Display the results--START
@@ -54,7 +49,7 @@ async function getDictionary() {
 
 
 userInput.addEventListener("keyup", (event) => {
-        userInputValue = userInput.value;
+        userInputValue = userInput.value.toLowerCase();
         displayedResults.innerHTML = "";
         getDictionary();
     }
@@ -74,3 +69,5 @@ userInput.addEventListener("keyup", (event) => {
 // Decide whether or not to use numberOfDictionaryMatches, such as in visibility toggling
 
 // Make PoS stick to the top of the div to be even with the top line of the definition.
+
+// What if the Scots entries were all shown in uppercase?
