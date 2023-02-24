@@ -27,12 +27,22 @@ main {
 }
 
 #search-box {
+    color: #012446;
     width: 20em;
-    height: fit-content;
-    padding: 5px;
+    height: 1.35em;
+    padding: .25em;
+    margin: 0;
     font-size: 1.25em;
-    border-radius: 3px;
+    border-radius: 5px;
     resize: none;
+}
+
+#search-box:focus {
+    outline: none !important;
+}
+
+#search-button {
+    cursor: pointer;
 }
 
 #results-box {
@@ -53,6 +63,7 @@ main {
     /* border: 2px solid #005EB8; */
     border-radius: 10px;
     box-shadow: 0 0 5px 5px white;
+    z-index: 1; /*make sure footer doesn't interfere if window height is small*/
 }
 
 #definition-display-1 {

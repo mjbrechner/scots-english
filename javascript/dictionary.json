@@ -1721,5 +1721,251 @@
         "english": "linen cap",
         "definition": "a linen cap.",
         "pos": "s."
+    }, {
+        "searchInput": ["bike, byke", "swarm", "bike", "byke", "nest", "nest of bees", "bees"],
+        "scots": "bike, byke",
+        "english": "swarm",
+        "definition": "a swarm, a nest of bees.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bill", "bull"],
+        "scots": "bill",
+        "english": "bull",
+        "definition": "a bull.",
+        "pos": "s."
+    }, {
+        "searchInput": ["billy", "young man", "billie", "man", "brother", "fellow"],
+        "scots": "billy",
+        "english": "young man",
+        "definition": "a young man, a brother, fellow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bilt", "blow"],
+        "scots": "bilt",
+        "english": "blow",
+        "definition": "a blow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bindwood", "ivy", "bind wood", "bind-wood"],
+        "scots": "bindwood",
+        "english": "ivy",
+        "definition": "ivy.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bindweed", "ragwort", "bind weed", "bind-weed"],
+        "scots": "bindweed",
+        "english": "ragwort",
+        "definition": "ragwort.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bing", "heap"],
+        "scots": "bing",
+        "english": "heap",
+        "definition": "a heap.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bink", "wild bee's nest", "wild nest", "wild bees' nest", "wild bee nest", "wild bees nest", "bee nest", "bees nest", "bee's nest", "bees' nest", "nest"],
+        "scots": "bink",
+        "english": "wild bee's nest",
+        "definition": "the wild bee's nest.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bink", "bench", "bin", "seat"],
+        "scots": "bink",
+        "english": "bench",
+        "definition": "a bench, a bin, a seat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["binn", "bind", "bin", "to bind", "binding"],
+        "scots": "binn",
+        "english": "bind",
+        "definition": "to bind.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bird, burd", "damsel", "bird", "burd", "man", "woman"],
+        "scots": "bird, burd",
+        "english": "damsel",
+        "definition": "damsel, a term also applied to a man or woman in ironical familiarity.",
+        "pos": ""
+    }, {
+        "searchInput": ["birk", "birch"],
+        "scots": "birk",
+        "english": "birch",
+        "definition": "birch.",
+        "pos": "s."
+    }, {
+        "searchInput": ["birk, birken", "birchin", "birk", "birken", "birkin", "birchen", "berken", "berkin"],
+        "scots": "birk, birken",
+        "english": "birchin",
+        "definition": "birchin.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["birken-shaw", "small wood", "birken shaw", "birkenshaw", "wood", "berkin-shaw", "berkinshaw", "berkin shaw", "berken-shaw", "berkenshaw", "berken shaw", "birkin-shaw", "birkinshaw", "birkin shaw"],
+        "scots": "birken-shaw",
+        "english": "small wood",
+        "definition": "a small wood.",
+        "pos": ""
+    }, {
+        "searchInput": ["birkie", "smart fellow", "fellow", "smart", "birky", "berkie", "berky"],
+        "scots": "birkie",
+        "english": "smart fellow",
+        "definition": "a smart fellow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["birl", "spend in drinking", "drinking", "drink", "berl", "burl"],
+        "scots": "birl",
+        "english": "spend in drinking",
+        "definition": "to spend in drinking. It conveys the idea of a joint reckoning.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["birn", "burnt mark", "bern", "burn", "burnt", "mark"],
+        "scots": "birn",
+        "english": "burnt mark",
+        "definition": "a burnt mark.",
+        "pos": "s."
+    }, {
+        "searchInput": ["birn", "burden", "bern", "burn"],
+        "scots": "birn",
+        "english": "burden",
+        "definition": "a burden.",
+        "pos": "s."
+    }, {
+        "searchInput": ["birns", "stalks of burnt heath", "stalks", "heath", "burnt heath", "berns", "burns"],
+        "scots": "birns",
+        "english": "stalks of burnt heath",
+        "definition": "the stalks of burnt heath.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["birr", "the sound emitted by any thing flying forcibly with noise, as partridges, also force", "flying forcibly", "flying forcibly with noise", "bir"],
+        "scots": "birr",
+        "english": "the sound emitted by any thing flying forcibly with noise, as partridges, also force",
+        "definition": "the sound emitted by any thing flying forcibly with noise, as partridges, also force.",
+        "pos": "s."
+    }, {
+        "searchInput": ["birse", "bristle"],
+        "scots": "birse",
+        "english": "bristle",
+        "definition": "to bristle.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["birses", "bristles", "bristle"],
+        "scots": "birses",
+        "english": "bristles",
+        "definition": "bristles.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["birsle", "burn any thing brown", "burn", "burn brown"],
+        "scots": "birsle",
+        "english": "burn any thing brown",
+        "definition": "to burn any thing brown, as coffee, &c.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["birsle", "burning of any thing brown", "burning", "burning brown", "burn"],
+        "scots": "birsle",
+        "english": "burning of any thing brown",
+        "definition": "a burning of any thing brown, see the verb.",
+        "pos": "s."
+    }, {
+        "searchInput": ["birze", "bruise", "press", "bruising", "pressing"],
+        "scots": "birze",
+        "english": "bruise",
+        "definition": "to bruise, to press.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bit", "spot", "place", "piece"],
+        "scots": "bit",
+        "english": "spot",
+        "definition": "a spot, a place, a piece.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bittle, beetle", "wooden mallet", "bittle", "beetle", "mallet"],
+        "scots": "bittle, beetle",
+        "english": "wooden mallet",
+        "definition": "a wooden mallet.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bizz", "buzz", "buz", "biz", "bustle"],
+        "scots": "bizz",
+        "english": "buzz",
+        "definition": "to buz [sic], to omit the sound that hot iron does in water, also a bustle.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bizz", "buzz", "biz", "buz"],
+        "scots": "bizz",
+        "english": "buzz",
+        "definition": "such a sound as above (bizz, v.n.: to buz [sic], to omit the sound that hot iron does in water).",
+        "pos": "s."
+    }, {
+        "searchInput": ["bizzy", "busy", "bizy", "bizzi", "bizzie", "bizie"],
+        "scots": "bizzy",
+        "english": "busy",
+        "definition": "busy.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["black-a-viced", "dark complexion", "dark", "blackaviced", "black a viced", "complexion", "black-a-vised", "blackavised", "black a vised"],
+        "scots": "black-a-viced",
+        "english": "dark complexion",
+        "definition": "of a dark complexion.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["black-boids", "bramble berries", "blackboids", "black boids", "black-boid", "blackboid", "black boid", "bramble", "berries", "berry", "bramble-berry", "bramble berry", "bramble-berries"],
+        "scots": "black-boids",
+        "english": "bramble berries",
+        "definition": "bramble berries.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["blackfit", "love messenger", "black fit", "black-fit", "messenger"],
+        "scots": "blackfit",
+        "english": "love messenger",
+        "definition": "a love messenger.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blae", "livid", "bruise", "bruised"],
+        "scots": "blae",
+        "english": "livid",
+        "definition": "livid, the colour of the skin when bruised.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["blaeberries", "bilberries", "blae-berries", "blae berries", "blaeberry", "blae-berry", "blae berry", "bilberry"],
+        "scots": "blaeberries",
+        "english": "bilberries",
+        "definition": "bilberries.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["blaidry", "foolish talk"],
+        "scots": "blaidry",
+        "english": "foolish talk",
+        "definition": "foolish talk.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blain", "mark", "postule", "wound"],
+        "scots": "blain",
+        "english": "mark",
+        "definition": "a mark left by a postule, or wound.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blash", "large quantity of liquid", "large quantity", "quantity of liquid", "liquid"],
+        "scots": "blash",
+        "english": "large quantity of liquid",
+        "definition": "a large quantity of any liquid.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blash", "heavy fall of rain", "rain", "dash", "water", "heavy rainfall", "heavy rain fall", "rainfall", "rain fall", "rain-fall", "heavy rain-fall", "dash of water"],
+        "scots": "blash",
+        "english": "heavy fall of rain",
+        "definition": "a heavy fall of rain, a dash of water.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blashin", "falling heavily with noise", "falling heavily", "noise", "noisy"],
+        "scots": "blashin",
+        "english": "falling heavily with noise",
+        "definition": "falling heavily with noise as rain or water.",
+        "pos": "part. pres."
+    }, {
+        "searchInput": ["blashy", "watery"],
+        "scots": "blashy",
+        "english": "watery",
+        "definition": "watery.",
+        "pos": "adj."
     }
 ]
