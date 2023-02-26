@@ -1967,5 +1967,293 @@
         "english": "watery",
         "definition": "watery.",
         "pos": "adj."
+    }, {
+        "searchInput": ["blast", "boast"],
+        "scots": "blast",
+        "english": "boast",
+        "definition": "a boast.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blastie", "shrivelled child", "child", "shrivel", "shrivelled", "contempt", "term of contempt", "blasty"],
+        "scots": "blastie",
+        "english": "shrivelled child",
+        "definition": "a shrivelled child, a term of contempt.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blastit", "blasted", "blast it"],
+        "scots": "blastit",
+        "english": "blasted",
+        "definition": "blasted.",
+        "pos": "part."
+    }, {
+        "searchInput": ["blate", "bashful", "sheepish", "shy"],
+        "scots": "blate",
+        "english": "bashful",
+        "definition": "bashful, sheepish, shy.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["blatter", "rattling noise", "rattling", "rattle", "noise"],
+        "scots": "blatter",
+        "english": "rattling noise",
+        "definition": "a rattling noise.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blaud", "broad piece", "piece", "broad"],
+        "scots": "blaud",
+        "english": "broad piece",
+        "definition": "a broad piece of any thing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blaud", "portfolio"],
+        "scots": "blaud",
+        "english": "portfolio",
+        "definition": "a portfolio.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blaw", "blast", "boast"],
+        "scots": "blaw",
+        "english": "blast",
+        "definition": "blast, a boast.",
+        "pos": "a."
+    }, {
+        "searchInput": ["blaw", "blow", "boast", "bloom", "blowing", "boasting", "blooming"],
+        "scots": "blaw",
+        "english": "blow",
+        "definition": "to blow, to boast, to bloom.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["blaw", "flatter", "flattering", "publish loudly", "publishing loudly", "publish", "loudly"],
+        "scots": "blaw",
+        "english": "flatter",
+        "definition": "to flatter, to publish loudly.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["blaw", "bloom"],
+        "scots": "blaw",
+        "english": "bloom",
+        "definition": "a bloom.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blaw", "jorum of liquor", "jorum", "liquor", "alcohol", "jorum of alcohol"],
+        "scots": "blaw",
+        "english": "jorum of liquor",
+        "definition": "a jorum of liquor.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blawflum", "deception", "blaw flum", "blaw-flum", "blawflom", "blaw flom", "blaw-flom", "foolish fancy", "foolish", "fancy", "flattering delusion", "flattering", "delusion", "gewgaw", "gew gaw", "gew-gaw"],
+        "scots": "blawflum",
+        "english": "deception",
+        "definition": "a deception, a foolish fancy, flattering delusion, a gewgaw.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blawn", "blown", "flattered", "blossomed"],
+        "scots": "blawn",
+        "english": "blown",
+        "definition": "blown, flattered, blossomed.",
+        "pos": "part."
+    }, {
+        "searchInput": ["blaw in one's ear", "flatter", "flattering", "blaw in an ear", "blaw in your ear", "blaw in my ear", "blaw in our ear", "ear"],
+        "scots": "blaw in one's ear",
+        "english": "flatter",
+        "definition": "(to) flatter, in order to obtain some end.",
+        "pos": ""
+    }, {
+        "searchInput": ["blawart", "blue field flower", "bla-wart", "blowart", "blo-wart", "flower", "blue flower", "field flower"],
+        "scots": "blawart",
+        "english": "blue field flower",
+        "definition": "a blue field flower.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blear", "make the eye water", "eye water", "eye-water", "eye watering", "eye-watering", "eyes water", "eyes-water", "eyes watering", "eyes-watering", "make one's eye water", "make one's eyes water"],
+        "scots": "blear",
+        "english": "make the eye water",
+        "definition": "to make the eye water.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bleared", "blearie", "bleary", "tears", "tear", "bedimmed with rheum", "bedimmed", "bedimmed with tears", "rheum", "rheumy", "teared", "teary", "rheumy eyed", "rheumy-eyed", "teary eyed", "teary-eyed"],
+        "scots": "bleared",
+        "english": "bedimmed with rheum",
+        "definition": "bedimmed with rheum, or tears.",
+        "pos": "part."
+    }, {
+        "searchInput": ["bleared", "blearie", "bleary", "tears", "tear", "bedimmed with rheum", "bedimmed", "bedimmed with tears", "rheum", "rheumy", "teared", "teary", "rheumy eyed", "rheumy-eyed", "teary eyed", "teary-eyed"],
+        "scots": "blearie",
+        "english": "bedimmed with rheum",
+        "definition": "bedimmed with rheum, or tears.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bleck", "overcome", "argument", "overcome in an argument"],
+        "scots": "bleck",
+        "english": "overcome",
+        "definition": "to overcome in an argument.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bledd", "leaf", "blade", "bled"],
+        "scots": "bledd",
+        "english": "leaf",
+        "definition": "a leaf, a blade.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bleech", "fall", "falling", "fall with a dash"],
+        "scots": "bleech",
+        "english": "fall",
+        "definition": "to fall with a dash.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bleech", "blow", "dashing fall", "dashing", "fall"],
+        "scots": "bleech",
+        "english": "blow",
+        "definition": "a blow, a dashing fall.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bleech", "bleach", "blanch", "bleaching", "blanching", "bleeching"],
+        "scots": "bleech",
+        "english": "bleach",
+        "definition": "to bleach, to blanch.",
+        "pos": "v.n. and a."
+    }, {
+        "searchInput": ["bleeze", "blaze", "become acid", "acid", "acidify", "bleezing", "blazing"],
+        "scots": "bleeze",
+        "english": "blaze",
+        "definition": "to blaze, to become acid.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bleeze", "blaze"],
+        "scots": "bleeze",
+        "english": "blaze",
+        "definition": "a blaze.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bleez'd", "bleezd", "fuddled", "bleezed", "bleez d", "bleeze d", "bleezed", "acid"],
+        "scots": "bleez'd",
+        "english": "fuddled",
+        "definition": "fuddled, acid.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["blellum", "foolish, talkative person", "foolish", "talkative", "foolish person", "talkative person"],
+        "scots": "blellum",
+        "english": "foolish, talkative person",
+        "definition": "a foolish, talkative person.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blessin'", "blessing", "blessin"],
+        "scots": "blessin'",
+        "english": "blessing",
+        "definition": "a blessing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blether", "talk nonsense", "nonsense", "talk", "talking", "talking nonsense"],
+        "scots": "blether",
+        "english": "talk nonsense",
+        "definition": "to talk nonsense.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["blether", "bladder", "foolish talk", "talk", "foolish"],
+        "scots": "blether",
+        "english": "bladder",
+        "definition": "the bladder, foolish talk.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blether-skate", "person who talks foolishly", "blether skate", "bletherskate", "foolish", "foolishly", "talk", "person who talks foolishly", "person who talks foolish", "foolish talker", "talker"],
+        "scots": "blether-skate",
+        "english": "person who talks foolishly",
+        "definition": "a person who talks foolishly.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blin'", "blind", "blin"],
+        "scots": "blin'",
+        "english": "blind",
+        "definition": "blind.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["blin", "cease", "blin'", "ceasing"],
+        "scots": "blin",
+        "english": "cease",
+        "definition": "to cease.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["Blin' Harry", "blind man's buff", "Blin Harry", "Blind Harry", "blin' Harry", "blin Harry", "blind Harry", "blin' harry", "blin harry", "blind harry", "blind mans buff", "blind man buff", "blind man's bluff", "blind mans bluff", "blind man bluff"],
+        "scots": "Blin' Harry",
+        "english": "blind man's buff",
+        "definition": "blind man's buff.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blinlins, blindlins", "in a blind manner", "blinlins", "blindlins", "blinlin", "blindlin", "blind manner", "blind"],
+        "scots": "blinlins, blindlins",
+        "english": "in a blind manner",
+        "definition": "in a blind manner.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["blink", "wink", "look with the eye nearly closed", "shine momentarily", "shine", "look", "squint"],
+        "scots": "blink",
+        "english": "wink",
+        "definition": "to wink, to look with the eye nearly closed, to shine momentarily.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["blink", "very little while", "little while", "momentary", "moment", "short beam", "beam", "sunshine", "sun shine", "sun-shine", "sun", "shine"],
+        "scots": "blink",
+        "english": "very little while",
+        "definition": "a very little while, a momentary, or short beam of sunshine.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blinker", "one nearly blind", "nearly blind", "blind"],
+        "scots": "blinker",
+        "english": "one nearly blind",
+        "definition": "one nearly blind.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blinkin", "peeping", "rising and falling of flame", "flame", "blinken", "blinking"],
+        "scots": "blinkin",
+        "english": "peeping",
+        "definition": "peeping, the rising and falling of flame, as when the oil in a lamp is nearly consumed.",
+        "pos": "part. pres."
+    }, {
+        "searchInput": ["blinkit", "little acid", "acid", "acidic"],
+        "scots": "blinkit",
+        "english": "little acid",
+        "definition": "a little acid, as blinkit milk.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["blinkit", "fuddled"],
+        "scots": "blinkit",
+        "english": "fuddled",
+        "definition": "fuddled.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["blirt", "cold drift of snow", "blurt", "blert", "snow", "cold drift", "drift", "driving rain", "rain", "harm", "effusion of tears", "effusion", "tears", "tear"],
+        "scots": "blirt",
+        "english": "cold drift of snow",
+        "definition": "a cold drift of snow, driving rain, harm, an effusion of tears.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blirt", "weep", "blert", "blurt", "rain", "snow"],
+        "scots": "blirt",
+        "english": "weep",
+        "definition": "to weep so as to effect the features, to rain, or snow.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["blithemeat", "homely entertainment", "entertainment", "bread", "cheese", "child birth", "child-birth", "childbirth", "birth", "homely", "blithe meat", "blithe-meat", "blithemeet", "blithmeet", "blithmeat", "blithe-meet", "blithe meet"],
+        "scots": "blithemeat",
+        "english": "homely entertainment",
+        "definition": "a homely entertainment, generally of bread and cheese, given after the birth of a child.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blob, blab", "large bubble of dew", "blob", "blab", "large bubble", "bubble", "dew", "gooseberry", "goose-berry", "goose berry", "gooseberries", "goose berries", "goose-berries", "swell", "blister", "swollen"],
+        "scots": "blob, blab",
+        "english": "large bubble of dew",
+        "definition": "a large bubble of dew, a large gooseberry, the swell of a blister.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blue", "whisky", "whiskey", "alcohol"],
+        "scots": "blue",
+        "english": "whisky",
+        "definition": "a cant name for whisky.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blue gown", "beggar", "Blue Gown", "Blue-Gown", "Bluegown", "blue-gown", "bluegown", "blue cloak", "bluecloak", "blue-cloak"],
+        "scots": "blue gown",
+        "english": "beggar",
+        "definition": "a beggar, who every King's birth day receives a blue cloak, a tin badge with the inscription, \"pass and repass;\" which he wears on the front of his cloak, a shilling Scots for every year of the Sovereign's age, a pair of gloves, and a dinner.",
+        "pos": "s."
     }
 ]

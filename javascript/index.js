@@ -4,6 +4,9 @@ const userInput = document.getElementById("search-box");
 const displayedResults = document.getElementById("results-box");
 let userInputValue = userInput.value.toLowerCase();
 
+// On load, put focus on the search box
+document.getElementById("search-box").focus();
+
 async function getDictionary() {
     const response = await fetch("javascript/dictionary.json");
     const data = await response.json();
