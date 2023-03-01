@@ -51,13 +51,23 @@ async function getDictionary() {
 }
 
 
-userInput.addEventListener("keyup", (event) => {
-        userInputValue = userInput.value.toLowerCase();
-        displayedResults.innerHTML = "";
-        getDictionary();
-    }
+// userInput.addEventListener("keyup", (event) => {
+//     userInputValue = userInput.value.toLowerCase();
+//     displayedResults.innerHTML = "";
+//     getDictionary();
+// });
 
-);
+function searchButtonClick() {
+    userInputValue = userInput.value.toLowerCase();
+    displayedResults.innerHTML = "";
+    getDictionary();
+}
+
+userInput.addEventListener("keyup", (event) => {
+    if (event.key === "Enter") {
+        searchButtonClick();
+    }
+});
 
 // TO DO
 // make the search for a word create a new list item for every hit. Right now, only the last hit is di
