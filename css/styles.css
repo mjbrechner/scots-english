@@ -63,7 +63,8 @@ main {
     /* border: 2px solid #005EB8; */
     border-radius: 10px;
     box-shadow: 0 0 5px 5px white;
-    z-index: 1; /*make sure footer doesn't interfere if window height is small*/
+    z-index: 1;
+    /*make sure footer doesn't interfere if window height is small*/
 }
 
 #definition-display-1 {
@@ -80,6 +81,19 @@ main {
 #definition-display-3 {
     font-size: 1.5em;
     align-self: start;
+}
+
+#definition-display-none-1 {
+    color: rgb(180, 1, 1);
+    font-size: 2em;
+    align-self: end;
+}
+
+#definition-display-none-2 {
+    color: rgb(180, 1, 1);
+    font-size: 2.5em;
+    font-style: italic;
+    margin-left: .25em;
 }
 
 footer {

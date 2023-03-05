@@ -40,6 +40,22 @@ async function getDictionary() {
     // Search for dictionary matches--END
 
 
+    // If no results--START
+    if (numberOfDictionaryMatches === 0) {
+        let displayedDivNone1 = document.createElement("div");
+        let displayedDivNone2 = document.createElement("div");
+
+        displayedDivNone1.innerText = `no results for `;
+        displayedDivNone2.innerText = userInputValue;
+
+        displayedDivNone1.setAttribute("id", "definition-display-none-1");
+        displayedDivNone2.setAttribute("id", "definition-display-none-2");
+
+        displayedResults.appendChild(displayedDivNone1);
+        displayedResults.appendChild(displayedDivNone2);
+    }
+    // If no results--END
+
     // Toggle visibility of results--START
     // if (numberOfDictionaryMatches === 0) {
     if (userInputValue.length === 0) {
