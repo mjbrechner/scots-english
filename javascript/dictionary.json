@@ -2255,5 +2255,125 @@
         "english": "beggar",
         "definition": "a beggar, who every King's birth day receives a blue cloak, a tin badge with the inscription, \"pass and repass;\" which he wears on the front of his cloak, a shilling Scots for every year of the Sovereign's age, a pair of gloves, and a dinner.",
         "pos": "s."
+    }, {
+        "searchInput": ["bluid", "blood"],
+        "scots": "bluid",
+        "english": "blood",
+        "definition": "blood.",
+        "pos": "s."
+    }, {
+        "searchInput": ["blunty", "stupid fellow", "bluntie", "stupid", "one without genius", "without genius"],
+        "scots": "blunty",
+        "english": "stupid fellow",
+        "definition": "a stupid fellow, one without genius.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bluther", "soil", "bedaub", "daub"],
+        "scots": "bluther",
+        "english": "soil",
+        "definition": "to soil, to bedaub.",
+        "pos": "v."
+    }, {
+        "searchInput": ["bluthert", "bedaubed", "soiled", "daubed"],
+        "scots": "bluthert",
+        "english": "bedaubed",
+        "definition": "bedaubed, soiled.",
+        "pos": "part."
+    }, {
+        "searchInput": ["blutter", "talk nonsense", "talking nonsense", "nonsense", "bubble"],
+        "scots": "blutter",
+        "english": "talk nonsense",
+        "definition": "to talk nonsense, to bubble.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["blype", "shred", "lump", "blipe"],
+        "scots": "blype",
+        "english": "shred",
+        "definition": "a shred, a lump.",
+        "pos": "s."
+    }, {
+        "searchInput": ["boal, bole", "small opening in a wall", "boal", "bole", "small opening", "opening", "opening in a wall", "wall opening", "opening in a wall for depositing things", "opening in a wall for depositing things in", "small opening in a wall for depositing things", "small opening in a wall for depositing things in"],
+        "scots": "boal, bole",
+        "english": "small opening in a wall",
+        "definition": "a small opening in a wall for depositing things in.",
+        "pos": "s."
+    }, {
+        "searchInput": ["boast", "scold", "scolding", "boasting"],
+        "scots": "boast",
+        "english": "scold",
+        "definition": "to scold.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["boat, botte", "tub", "boat", "botte", "bott", "bot", "boatt", "boatte"],
+        "scots": "boat, botte",
+        "english": "tub",
+        "definition": "a tub.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bobble", "slovenly fellow", "slovenly"],
+        "scots": "bobble",
+        "english": "slovenly fellow",
+        "definition": "a slovenly fellow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bob", "person in the act of dacing", "dancing", "dance", "dancer", "dancers", "dancing person", "danced"],
+        "scots": "bob",
+        "english": "person in the act of dacing",
+        "definition": "a person in the act of dancing, is said to bob.",
+        "pos": ""
+    }, {
+        "searchInput": ["bobbit", "did bob", "bobbed", "danced", "bob", "dance", "dancer", "dancing", "dancers"],
+        "scots": "bobbit",
+        "english": "did bob",
+        "definition": "did bob.",
+        "pos": "v."
+    }, {
+        "searchInput": ["bock, boak", "vomit", "bock", "boak", "boack", "bok", "vomiting"],
+        "scots": "bock, boak",
+        "english": "vomit",
+        "definition": "to vomit.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bod", "person", "body", "creature", "of body"],
+        "scots": "bod",
+        "english": "person",
+        "definition": "of body, a person, a creature.",
+        "pos": "s. dim."
+    }, {
+        "searchInput": ["bodden", "forced on one", "forced"],
+        "scots": "bodden",
+        "english": "forced on one",
+        "definition": "forced on one.",
+        "pos": "part."
+    }, {
+        "searchInput": ["boddum", "bottom"],
+        "scots": "boddum",
+        "english": "bottom",
+        "definition": "the bottom.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bode", "offer from a buyer", "offer", "buyer"],
+        "scots": "bode",
+        "english": "offer from a buyer",
+        "definition": "an offer from a buyer.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bode", "force a thing", "force", "force a thing on one", "forcing"],
+        "scots": "bode",
+        "english": "force a thing",
+        "definition": "to force a thing on one.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bodeword", "ominous word", "bode-word", "bode word", "ominous", "word"],
+        "scots": "bodeword",
+        "english": "ominous word",
+        "definition": "an ominous word.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bodle", "one-sixth of a penny English", "boddle", "bodwell", "half groat", "half-groat", "groat", "Turner", "turner", "coin", "money", "Scottish coin", "one-sixth of a penny", "half of a plack", "plack", "penny"],
+        "scots": "bodle",
+        "english": "one-sixth of a penny English",
+        "definition": "one-sixth of a penny English, the half of a plack, a small Scottish coin now seldom to be met with.",
+        "pos": "s."
     }
 ]
