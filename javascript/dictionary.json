@@ -2375,5 +2375,191 @@
         "english": "one-sixth of a penny English",
         "definition": "one-sixth of a penny English, the half of a plack, a small Scottish coin now seldom to be met with.",
         "pos": "s."
+    }, {
+        "searchInput": ["body", "person", "contempt", "familiarity"],
+        "scots": "body",
+        "english": "person",
+        "definition": "person, used in contempt or familiarity.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bog", "bug"],
+        "scots": "bog",
+        "english": "bug",
+        "definition": "a bug.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bog-stalker", "bog-trotter", "bog stalker", "bogstalker", "bog trotter", "bogtrotter"],
+        "scots": "bog-stalker",
+        "english": "bog-trotter",
+        "definition": "bog-trotter [derogatory]",
+        "pos": "s."
+    }, {
+        "searchInput": ["boggen", "boil", "tumour", "tumor"],
+        "scots": "boggen",
+        "english": "boil",
+        "definition": "a boil, a tumour.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bog", "engulf", "slough", "engulf one's self or another in a slough or bog"],
+        "scots": "bog",
+        "english": "engulf",
+        "definition": "to engulf one's self or another in a slough or bog.",
+        "pos": "v.a. and n."
+    }, {
+        "searchInput": ["boggit", "sunk", "stuck", "stuck fast", "bog", "bogged", "sunk, or stuck fast in a bog", "stuck fast in a bog", "sunk in a bog"],
+        "scots": "boggit",
+        "english": "sunk",
+        "definition": "sunk, or stuck fast in a bog.",
+        "pos": "part."
+    }, {
+        "searchInput": ["bogle, boglebo", "goblin", "bogle", "boglebo", "boggle", "bogglebo", "bogleboo", "boggleboo", "object of terror", "terror", "bugabo", "bugaboo", "bugbear", "bug-bear", "bug bear"],
+        "scots": "bogle, boglebo",
+        "english": "goblin",
+        "definition": "a goblin, any object of terror.",
+        "pos": ""
+    }, {
+        "searchInput": ["boikin", "bodkin"],
+        "scots": "boikin",
+        "english": "bodkin",
+        "definition": "a bodkin.",
+        "pos": "s."
+    }, {
+        "searchInput": ["boin", "tub"],
+        "scots": "boin",
+        "english": "tub",
+        "definition": "a tub.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bonnaillie", "ban aller", "bonnailly", "parting glass with a friend who is going to another place", "parting glass with a friend", "parting glass", "parting"],
+        "scots": "bonnaillie",
+        "english": "ban aller",
+        "definition": "a ban aller, a parting glass with a friend who is going to another place.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bonnilie", "beautifully", "bonnalie", "bonnily", "bonnilly", "bonnally", "bonnaly"],
+        "scots": "bonnilie",
+        "english": "beautifully",
+        "definition": "beautifully.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["bonny", "beautiful", "pretty", "bonnie"],
+        "scots": "bonny",
+        "english": "beautiful",
+        "definition": "beautiful, pretty.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bonny wallies", "toys", "toy", "bonnie wallies", "bonny wallie", "bonnie wallie", "bonny wally", "bonnie wally", "wallies", "wallie", "wally"],
+        "scots": "bonny wallies",
+        "english": "toys",
+        "definition": "toys.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["boonmost", "uppermost", "boon most", "boon-most", "upper-most", "upper most", "upper", "boon", "most"],
+        "scots": "boonmost",
+        "english": "uppermost",
+        "definition": "uppermost.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["boord", "board", "bord", "stay with", "stay", "staying", "boarding"],
+        "scots": "boord",
+        "english": "board",
+        "definition": "to board, to stay with.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["boord", "board", "bord"],
+        "scots": "boord",
+        "english": "board",
+        "definition": "board, a board.",
+        "pos": "s."
+    }, {
+        "searchInput": ["boost, boot", "behooved", "boost", "boot", "bost", "behoove", "behooving", "behooves"],
+        "scots": "boost, boot",
+        "english": "behooved",
+        "definition": "behooved.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bord", "ruffle", "frill", "border"],
+        "scots": "bord",
+        "english": "ruffle",
+        "definition": "a ruffle, a frill, a border.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bore", "hole"],
+        "scots": "bore",
+        "english": "hole",
+        "definition": "a hole.",
+        "pos": "s."
+    }, {
+        "searchInput": ["borristoun", "borough town", "borough", "town", "village", "borristown", "borris toun", "borris town", "borris-toun", "borris-town", "boristoun", "boristown", "boris-toun", "boris-town", "boris toun", "boris town", "toun"],
+        "scots": "borristoun",
+        "english": "borough town",
+        "definition": "a borough town.",
+        "pos": "s."
+    }, {
+        "searchInput": ["boss", "hollow", "void", "bos"],
+        "scots": "boss",
+        "english": "hollow",
+        "definition": "hollow, void.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["botch", "tumour", "tumor"],
+        "scots": "botch",
+        "english": "tumour",
+        "definition": "a tumour.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bother", "pother", "bothering", "pothering"],
+        "scots": "bother",
+        "english": "pother",
+        "definition": "to pother.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bottom-room", "as much room as a person occupies in sitting", "bottomroom", "bottom room", "room", "sitting", "sit"],
+        "scots": "bottom-room",
+        "english": "as much room as a person occupies in sitting",
+        "definition": "as much room as a person occupies in sitting.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bou", "bow", "bend", "bowing", "bending"],
+        "scots": "bou",
+        "english": "bow",
+        "definition": "to bow, to bend.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bouet", "hand lantern", "lantern", "bowat", "bowatt", "bouett"],
+        "scots": "bouet",
+        "english": "hand lantern",
+        "definition": "a hand lantern.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bougars", "cross beams", "bougar", "bugars", "bugar", "beam", "beams", "crossbeam", "crossbeams", "cross-beam", "cross-beams", "cross beam", "roof"],
+        "scots": "bougars",
+        "english": "cross beams",
+        "definition": "cross beams connecting and supporting the roof of a house.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["boubie", "lowest in a class of children at school", "bouby", "boubby", "lowest in a class", "lowest in class", "student"],
+        "scots": "boubie",
+        "english": "lowest in a class of children at school",
+        "definition": "the lowest in a class of children at school.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bouk", "bulk", "body"],
+        "scots": "bouk",
+        "english": "bulk",
+        "definition": "bulk, the body.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bouky", "bulky"],
+        "scots": "bouky",
+        "english": "bulky",
+        "definition": "bulky.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["boukin", "washing of clothes", "washing of clothes in a particular manner", "washing", "clothes washing", "clothes-washing", "clotheswashing", "washing clothes", "particular manner"],
+        "scots": "boukin",
+        "english": "washing of clothes",
+        "definition": "a washing of clothes in a particular manner.",
+        "pos": ""
     }
 ]
