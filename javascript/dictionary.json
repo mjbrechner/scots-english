@@ -2561,5 +2561,215 @@
         "english": "washing of clothes",
         "definition": "a washing of clothes in a particular manner.",
         "pos": ""
+    }, {
+        "searchInput": ["boul", "expression of contempt", "contempt", "auld boul", "old boul"],
+        "scots": "boul",
+        "english": "expression of contempt",
+        "definition": "a slight expression of contempt for a person as an auld boul, &c.",
+        "pos": "s."
+    }, {
+        "searchInput": ["boul-horned", "obstinate", "boulhorned", "boul horned", "willed", "self-willed", "selfwilled", "self willed"],
+        "scots": "boul-horned",
+        "english": "obstinate",
+        "definition": "obstinate, self-willed.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bouls (of a pot)", "iron instrument", "bouls", "boul", "bouls of a pot", "boul of a pot", "an iron instrument for lifting it off and on the fire", "iron", "instrument", "pot"],
+        "scots": "bouls (of a pot)",
+        "english": "iron instrument",
+        "definition": "an iron instrument for lifting it off and on the fire.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["bountith", "bounty", "charity"],
+        "scots": "bountith",
+        "english": "bounty",
+        "definition": "bounty, a charity.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bourach", "hut", "clump", "cluster", "heap", "borach"],
+        "scots": "bourach",
+        "english": "hut",
+        "definition": "a hut, a clump, a cluster, a heap.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bourd", "jest", "jesting", "bord"],
+        "scots": "bourd",
+        "english": "jest",
+        "definition": "to jest.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bourd", "jest", "bord"],
+        "scots": "bourd",
+        "english": "jest",
+        "definition": "a jest.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bout-gate", "circuitous way", "bout gate", "boutgate", "way", "circuitous", "bout", "gate"],
+        "scots": "bout-gate",
+        "english": "circuitous way",
+        "definition": "a circuitous way.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bourtree", "elder tree", "bour tree", "bour-tree", "tree", "bour", "boortree", "boor tree", "boor-tree", "elder", "older tree", "older"],
+        "scots": "bourtree",
+        "english": "elder tree",
+        "definition": "the elder tree.",
+        "pos": "s."
+    }, {
+        "searchInput": ["boutch", "spoil in executing", "bootch", "booch", "bouch", "spoil", "spoiling", "execute", "executing", "bungle", "bungling"],
+        "scots": "boutch",
+        "english": "spoil in executing",
+        "definition": "to spoil in executing, to bungle.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["boutger", "glutton", "bootger"],
+        "scots": "boutger",
+        "english": "glutton",
+        "definition": "a glutton.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bowze", "drink hard", "drinking hard", "drink", "drinking", "bowse", "boose", "booze", "bouse", "bouze", "boowse", "boowze"],
+        "scots": "bowze",
+        "english": "drink hard",
+        "definition": "to drink hard.",
+        "pos": "v.a. and n."
+    }, {
+        "searchInput": ["bow", "boll"],
+        "scots": "bow",
+        "english": "boll",
+        "definition": "a boll.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bowden", "fill", "filling", "burden", "burdening"],
+        "scots": "bowden",
+        "english": "fill",
+        "definition": "to fill, to burden.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bowden", "provided", "filled"],
+        "scots": "bowden",
+        "english": "provided",
+        "definition": "provided, filled.",
+        "pos": "part."
+    }, {
+        "searchInput": ["bowie", "small tub", "bowy", "tub"],
+        "scots": "bowie",
+        "english": "small tub",
+        "definition": "a small tub.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bowkail", "cabbage", "bowcail", "bowkale", "bowcale"],
+        "scots": "bowkail",
+        "english": "cabbage",
+        "definition": "cabbage.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bowly", "crooked", "bowlie"],
+        "scots": "bowly",
+        "english": "crooked",
+        "definition": "crooked.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bowt", "iron rod", "iron", "rod", "bolt"],
+        "scots": "bowt",
+        "english": "iron rod",
+        "definition": "an iron rod, a bolt.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bowt", "spring up or away", "spring", "spring up", "spring away", "bolt", "bolting", "springing"],
+        "scots": "bowt",
+        "english": "spring up or away",
+        "definition": "to spring up or away, to bolt.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bowt of nittin", "roll of tape", "bowt", "nittin", "roll", "tape"],
+        "scots": "bowt of nittin",
+        "english": "roll of tape",
+        "definition": "a roll of tape.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bow't", "crooked", "bowt", "bow t", "bent"],
+        "scots": "bow't",
+        "english": "crooked",
+        "definition": "crooked, bent.",
+        "pos": ""
+    }, {
+        "searchInput": ["box", "cover with boards", "cover", "covering", "board", "boards"],
+        "scots": "box",
+        "english": "cover with boards",
+        "definition": "to cover with boards.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bra, braw", "fine", "bra", "braw", "handsome", "hansome"],
+        "scots": "bra, braw",
+        "english": "fine",
+        "definition": "fine, handsome.",
+        "pos": ""
+    }, {
+        "searchInput": ["brace, bracepiece", "mantle piece", "brace", "bracepiece", "brace piece", "brace-piece", "mantlepiece", "mantle-piece", "mantle", "piece"],
+        "scots": "brace, bracepiece",
+        "english": "mantle piece",
+        "definition": "mantle piece.",
+        "pos": ""
+    }, {
+        "searchInput": ["brae", "side of a hill", "side", "hill"],
+        "scots": "brae",
+        "english": "side of a hill",
+        "definition": "the side of a hill.",
+        "pos": "s."
+    }, {
+        "searchInput": ["braid", "broad"],
+        "scots": "braid",
+        "english": "broad",
+        "definition": "broad.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["braid", "move quickly", "moving quickly", "move", "moving", "quickly", "quick", "move quick", "moving quick", "quickly move", "quickly moving"],
+        "scots": "braid",
+        "english": "move quickly",
+        "definition": "to move quickly.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["braik", "large harrow", "harrow"],
+        "scots": "braik",
+        "english": "large harrow",
+        "definition": "a large harrow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["braiken, breckan", "fearn", "braiken", "breckan", "braikan", "breckan", "fern", "breken", "brekan", "braicken", "braickan"],
+        "scots": "braiken, breckan",
+        "english": "fearn",
+        "definition": "the fearn.",
+        "pos": "s."
+    }, {
+        "searchInput": ["braird", "sprout into the leaf", "sprout", "sprouting", "leaf", "grain"],
+        "scots": "braird",
+        "english": "sprout into the leaf",
+        "definition": "to sprout into the leaf, as grain.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["braird", "sprouts of grain", "sprout", "sprouts", "grain", "grains"],
+        "scots": "braird",
+        "english": "sprouts of grain",
+        "definition": "the sprouts of grain.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brairds", "best part of tow", "braird", "tow", "best part", "heckling", "flax"],
+        "scots": "brairds",
+        "english": "best part of tow",
+        "definition": "the best part of tow at a second heckling.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["braise", "roach", "brase", "braize", "braze", "fish", "rutilis"],
+        "scots": "braise",
+        "english": "roach",
+        "definition": "the roach (fish).",
+        "pos": "s."
+    }, {
+        "searchInput": ["brak", "break", "brack", "breaking", "broke", "did break"],
+        "scots": "brak",
+        "english": "break",
+        "definition": "did break.",
+        "pos": "v.a."
     }
 ]
