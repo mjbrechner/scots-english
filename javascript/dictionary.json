@@ -2771,5 +2771,29 @@
         "english": "break",
         "definition": "did break.",
         "pos": "v.a."
+    }, {
+        "searchInput": ["brander", "gridiron", "grid iron", "grid-iron"],
+        "scots": "brander",
+        "english": "gridiron",
+        "definition": "a gridiron.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brander", "roast", "roasting", "roast on a gridiron", "roasting on a gridiron", "gridiron", "grid-iron", "grid iron"],
+        "scots": "brander",
+        "english": "roast",
+        "definition": "to roast on a gridiron.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["brands, brawns", "calves", "brands", "brand", "brawns", "brawn", "calf", "calves of the legs", "calf of the leg", "leg", "legs"],
+        "scots": "brands, brawns",
+        "english": "calves",
+        "definition": "the calves of the legs.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["brang", "did bring", "bring", "brought"],
+        "scots": "brang",
+        "english": "did bring",
+        "definition": "did bring.",
+        "pos": "v.a."
     }
 ]
