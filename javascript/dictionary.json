@@ -1866,8 +1866,8 @@
         "definition": "a burning of any thing brown, see the verb.",
         "pos": "s."
     }, {
-        "searchInput": ["birze", "bruise", "press", "bruising", "pressing"],
-        "scots": "birze",
+        "searchInput": ["birze", "briz", "bruise", "press", "bruising", "pressing"],
+        "scots": "birze, briz",
         "english": "bruise",
         "definition": "to bruise, to press.",
         "pos": "v.a."
@@ -2795,5 +2795,401 @@
         "english": "did bring",
         "definition": "did bring.",
         "pos": "v.a."
+    }, {
+        "searchInput": ["brank", "prance", "caper"],
+        "scots": "brank",
+        "english": "prance",
+        "definition": "to prance, to caper.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["brankin", "prancing", "capering"],
+        "scots": "brankin",
+        "english": "prancing",
+        "definition": "see the verb [brank: prancing, capering.]",
+        "pos": "the part. pres."
+    }, {
+        "searchInput": ["branks", "wooden curb for horses", "wooden curb", "curb", "disease", "neck", "disease of the neck", "neck disease", "brank"],
+        "scots": "branks",
+        "english": "wooden curb for horses",
+        "definition": "a wooden curb for horses, a disease of the neck.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["brawnew", "quite new", "braw-new", "braw new", "new", "very new", "brand new", "brand-new", "brandnew"],
+        "scots": "brawnew",
+        "english": "quite new",
+        "definition": "quite new.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["brannock, or par", "samlet", "brannock", "brannok", "branock", "branok", "par", "parr", "fish", "salmon"],
+        "scots": "brannock, or par",
+        "english": "samlet",
+        "definition": "samlet (fish).",
+        "pos": ""
+    }, {
+        "searchInput": ["brash", "short fit of illness", "short fit", "fit of illness", "short illness", "illness", "storm"],
+        "scots": "brash",
+        "english": "short fit of illness",
+        "definition": "a short fit of illness, a storm.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brashy", "subject to brashes", "stormy"],
+        "scots": "brashy",
+        "english": "subject to brashes",
+        "definition": "subject to brashes, stormy.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["brats", "clothes", "rags", "coarse apron", "aprin", "brat", "clothing"],
+        "scots": "brats",
+        "english": "clothes",
+        "definition": "clothes, generally rags; a coarse apron.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["bratt", "scum", "brat"],
+        "scots": "bratt",
+        "english": "scum",
+        "definition": "scum.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brattle", "rattle"],
+        "scots": "brattle",
+        "english": "rattle",
+        "definition": "to rattle.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["brattle", "rattle"],
+        "scots": "brattle",
+        "english": "rattle",
+        "definition": "a rattle.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brattlin", "rattlin", "brattling", "rattling"],
+        "scots": "brattlin",
+        "english": "rattlin",
+        "definition": "rattlin.",
+        "pos": "part. pres."
+    }, {
+        "searchInput": ["bravely, bravelies", "quite well", "bravely", "bravelies", "well", "very well"],
+        "scots": "bravely, bravelies",
+        "english": "quite well",
+        "definition": "quite well.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["brawly, brawlies", "well", "brawly", "brawlies", "finely"],
+        "scots": "brawly, brawlies",
+        "english": "well",
+        "definition": "well, finely.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["braws", "finery", "braw", "fineries"],
+        "scots": "braws",
+        "english": "finery",
+        "definition": "finery.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["breadberry", "pap for children", "bread berry", "bread-berry", "breadberries", "bread berries", "bread-berries", "pap"],
+        "scots": "breadberry",
+        "english": "pap for children",
+        "definition": "pap for children.",
+        "pos": "s."
+    }, {
+        "searchInput": ["breast", "leap up", "leap up to any thing", "leap", "overcome a difficulty", "overcome", "swallow an affront", "swallow", "believe a wonder", "believe"],
+        "scots": "breast",
+        "english": "leap up",
+        "definition": "to leap up to any thing, such as a wall, so as to be able to rest the breast on it, to overcome a difficulty, to swallow an affront, to believe a wonder.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["breastit", "leapt up", "leapt up to any thing", "leapt", "leaped", "overcame", "overcame a difficulty", "swallowed", "swallowed an affront", "believed", "believed a wonder"],
+        "scots": "breastit",
+        "english": "leapt up",
+        "definition": "of the foregoing [breast: to leap up to any thing, such as a wall, so as to be able to rest the breast on it, to overcome a difficulty, to swallow an affront, to believe a wonder.]",
+        "pos": "pass part."
+    }, {
+        "searchInput": ["breathin", "breathing", "instant", "instant of time"],
+        "scots": "breathin",
+        "english": "breathing",
+        "definition": "a breathing, an instant of time.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brecham", "horse's collar", "collar"],
+        "scots": "brecham",
+        "english": "horse's collar",
+        "definition": "a horse's collar.",
+        "pos": "s."
+    }, {
+        "searchInput": ["breck", "break", "become insolvent", "insolvent", "brec", "brek", "insolvency", "breaking"],
+        "scots": "breck",
+        "english": "break",
+        "definition": "to break, to become insolvent, or to render another so.",
+        "pos": "v.n. and a."
+    }, {
+        "searchInput": ["bree", "brie", "eyebrow", "eye-brow", "eye brow", "eyebrows", "eye-brows", "eye brows", "brow", "brows"],
+        "scots": "bree, brie",
+        "english": "eyebrow",
+        "definition": "the eyebrow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bree", "brie", "juice", "sauce", "pickle", "soup"],
+        "scots": "bree, brie",
+        "english": "juice",
+        "definition": "juice, sauce, pickle, soup.",
+        "pos": "s."
+    }, {
+        "searchInput": ["breeks", "breeches", "breek"],
+        "scots": "breeks",
+        "english": "breeches",
+        "definition": "breeches.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["breekumstoich", "short thick child in breeches", "child in breeches"],
+        "scots": "breekumstoich",
+        "english": "short thick child in breeches",
+        "definition": "a short thick child in breeches.",
+        "pos": "s."
+    }, {
+        "searchInput": ["breeds", "pancreas", "breed"],
+        "scots": "breeds",
+        "english": "pancreas",
+        "definition": "the pancreas.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["breid", "breadth"],
+        "scots": "breid",
+        "english": "breadth",
+        "definition": "breadth.",
+        "pos": "s."
+    }, {
+        "searchInput": ["breinge", "run against any thing with force and noise", "run against", "run", "force", "noise"],
+        "scots": "breinge",
+        "english": "run against any thing with force and noise",
+        "definition": "to run against any thing with force and noise.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["breether", "brethren"],
+        "scots": "breether",
+        "english": "brethren",
+        "definition": "brethren.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["brentbrow", "smooth high forehead", "brent brow", "brent-brow", "brow", "forehead", "fore head", "fore-head", "smooth forehead", "high forehead"],
+        "scots": "brentbrow",
+        "english": "smooth high forehead",
+        "definition": "a smooth high forehead.",
+        "pos": ""
+    }, {
+        "searchInput": ["brew", "suspect", "suspecting", "fear", "fear future harm", "meditate", "meditate mischief", "mischief", "harm"],
+        "scots": "brew",
+        "english": "suspect",
+        "definition": "to suspect, to fear future harm, to meditate mischief.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["brew", "good opinion", "opinion"],
+        "scots": "brew",
+        "english": "good opinion",
+        "definition": "good opinion.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bridal", "wedding"],
+        "scots": "bridal",
+        "english": "wedding",
+        "definition": "a wedding.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bridal", "of a wedding", "belonging to a wedding", "wedding"],
+        "scots": "bridal",
+        "english": "of a wedding",
+        "definition": "of or belonging to a wedding.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["brief", "irresistable spell", "irresistable", "spell"],
+        "scots": "brief",
+        "english": "irresistable spell",
+        "definition": "an irresistable spell.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brig", "bridge"],
+        "scots": "brig",
+        "english": "bridge",
+        "definition": "a bridge.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bring't", "bring it", "bring", "bringt", "bring t", "bringit"],
+        "scots": "bring't",
+        "english": "bring it",
+        "definition": "bring it.",
+        "pos": ""
+    }, {
+        "searchInput": ["brisket", "breast"],
+        "scots": "brisket",
+        "english": "breast",
+        "definition": "the breast.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brither", "brother"],
+        "scots": "brither",
+        "english": "brother",
+        "definition": "a brother.",
+        "pos": "s."
+    }, {
+        "searchInput": ["broach", "clasp", "brotch", "broch"],
+        "scots": "broach",
+        "english": "clasp",
+        "definition": "a clasp, see Brotch.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brochan", "water gruel", "gruel", "oatmeal", "butter", "honey"],
+        "scots": "brochan",
+        "english": "water gruel",
+        "definition": "a sort of water gruel made of oatmeal, butter, and honey.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brock", "remnants of meat", "renmants", "meat"],
+        "scots": "brock",
+        "english": "remnants of meat",
+        "definition": "remnants of meat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brock", "badger"],
+        "scots": "brock",
+        "english": "badger",
+        "definition": "a badger.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brod", "goad"],
+        "scots": "brod",
+        "english": "goad",
+        "definition": "a goad.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brod", "prick", "goad", "pricking", "goading"],
+        "scots": "brod",
+        "english": "prick",
+        "definition": "to prick, to goad.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["brod", "board", "plate", "collection plate"],
+        "scots": "brod",
+        "english": "board",
+        "definition": "a board, a plate for collection at church.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brog", "small boring instrument", "boring", "boring instrument", "instrument"],
+        "scots": "brog",
+        "english": "small boring instrument",
+        "definition": "a small boring instrument.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brog", "incite", "inciting"],
+        "scots": "brog",
+        "english": "incite",
+        "definition": "to incite.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["brogue", "trick", "shoe", "leather", "horse leather", "shoe made of horse leather"],
+        "scots": "brogue",
+        "english": "trick",
+        "definition": "a trick, a shoe made of horse leather",
+        "pos": "s."
+    }, {
+        "searchInput": ["broich", "broitch", "warm with perspiration", "to be warm with perspiration", "warm", "perspiration"],
+        "scots": "broich",
+        "english": "warm with perspiration",
+        "definition": "to be warm with perspiration.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["broo", "part of soup or broth", "soup", "broth"],
+        "scots": "broo",
+        "english": "part of soup or broth",
+        "definition": "has no approximate English translation; the following expression may render it intelligible; the broo of broth signifies the thin part of soup or broth, in contradistinction to the vegetables or other substances contained in the broo.",
+        "pos": "s."
+    }, {
+        "searchInput": ["broody", "prolific"],
+        "scots": "broody",
+        "english": "prolific",
+        "definition": "prolific.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["broose", "race", "country wedding"],
+        "scots": "broose",
+        "english": "race",
+        "definition": "a race at a country wedding.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brose", "dish made by pouring boiling water on oatmeal and stirring it", "oatmeal"],
+        "scots": "brose",
+        "english": "dish made by pouring boiling water on oatmeal and stirring it",
+        "definition": "a dish made by pouring boiling water on oatmeal and stirring it.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brotch", "clasp", "ornament", "broach", "broch"],
+        "scots": "brotch",
+        "english": "clasp",
+        "definition": "a clasp worn as an ornament on the breast.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brouk", "enjoy", "enjoying"],
+        "scots": "brouk",
+        "english": "enjoy",
+        "definition": "to enjoy.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["broun", "ale"],
+        "scots": "broun",
+        "english": "ale",
+        "definition": "ale.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brounie", "fabled being", "brouny", "brownie", "browny"],
+        "scots": "brounie",
+        "english": "fabled being",
+        "definition": "a fabled being said to frequent houses.",
+        "pos": "s."
+    }, {
+        "searchInput": ["browdent on", "excessively fond of", "browdent", "fond", "fond of"],
+        "scots": "browdent on",
+        "english": "excessively fond of",
+        "definition": "excessively fond of.",
+        "pos": ""
+    }, {
+        "searchInput": ["browst", "brewing"],
+        "scots": "browst",
+        "english": "brewing",
+        "definition": "a brewing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["browster", "brewer"],
+        "scots": "browster",
+        "english": "brewer",
+        "definition": "a brewer.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bruch", "halo", "brutch", "halo round the sun", "halo around the sun", "halo round the moon", "halo around the moon"],
+        "scots": "bruch",
+        "english": "halo",
+        "definition": "a halo round the sun or moon",
+        "pos": "s."
+    }, {
+        "searchInput": ["bruckit, brockit", "dirty", "bruckit", "brockit", "blackened"],
+        "scots": "bruckit, brockit",
+        "english": "dirty",
+        "definition": "dirty or blackened in the face.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bruckle", "brittle"],
+        "scots": "bruckle",
+        "english": "brittle",
+        "definition": "brittle.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["brugh", "borough"],
+        "scots": "brugh",
+        "english": "borough",
+        "definition": "a borough.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bruistle", "bustle"],
+        "scots": "bruistle",
+        "english": "bustle",
+        "definition": "a bustle.",
+        "pos": "s."
     }
 ]
