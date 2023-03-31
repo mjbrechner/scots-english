@@ -3395,5 +3395,221 @@
         "english": "haggle",
         "definition": "to haggle, to dispute loud and angrily, to wrangle.",
         "pos": "v.n."
+    }, {
+        "searchInput": ["bum", "buzz", "buzzing"],
+        "scots": "bum",
+        "english": "buzz",
+        "definition": "to buzz as bees do.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bum", "cry", "crying"],
+        "scots": "bum",
+        "english": "cry",
+        "definition": "to cry.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bumbazed", "confused", "stupified", "bumbazzed", "bumbaze"],
+        "scots": "bumbazed",
+        "english": "confused",
+        "definition": "confused, stupified.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bumbee", "large field bee", "field bee", "bee", "large bee", "bum-bee", "bum bee"],
+        "scots": "bumbee",
+        "english": "large field bee",
+        "definition": "the large field bee.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bumclock", "humming beetle", "beetle", "bum clock", "bum-clock"],
+        "scots": "bumclock",
+        "english": "humming beetle",
+        "definition": "a humming beetle that flies about in summer evenings.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bummle", "work confusedly", "bumle", "bummel", "bumel", "confusedly", "confused", "bungle", "bungling", "blunder", "blundering"],
+        "scots": "bummle",
+        "english": "work confusedly",
+        "definition": "to work confusedly, to bungle, to blunder.",
+        "pos": "v.a. and n."
+    }, {
+        "searchInput": ["bummler", "bungler", "bumler"],
+        "scots": "bummler",
+        "english": "bungler",
+        "definition": "a bungler.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bun", "loaf", "baked loaf", "loaf baked with dried fruits"],
+        "scots": "bun",
+        "english": "loaf",
+        "definition": "a loaf baked with dried fruits, &c.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bungy", "drunk", "fuddled", "bungie"],
+        "scots": "bungy",
+        "english": "drunk",
+        "definition": "drunk, fuddled.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bunker", "long low bench", "low bench", "bench", "long bench", "long low bench for sitting on"],
+        "scots": "bunker",
+        "english": "long low bench",
+        "definition": "a long low bench for sitting on, leaving a space below it for coals, &c.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buntlin", "dwarf", "dwarfs", "dwarves", "dwarve", "butling"],
+        "scots": "buntlin",
+        "english": "dwarf",
+        "definition": "a dwarf.",
+        "pos": "s."
+    }, {
+        "searchInput": ["burd", "bird", "burdie", "Burdie", "berdie", "Berdie", "birdie", "Birdie", "burdy", "Burdy", "berdy", "Berdy", "birdy", "Birdy"],
+        "scots": "burd",
+        "english": "bird",
+        "definition": "a bird, dim. Burdie, a term of familiarity or irony used to a young man or woman.",
+        "pos": "s."
+    }, {
+        "searchInput": ["burd alane", "bird alone", "burd alone", "bird alane", "burdalane", "burd-alane", "bird-alone", "birdalone", "burdalone", "burd-alone", "birdalane", "bird-alane", "having no person remaining with one", "alone"],
+        "scots": "burd alane",
+        "english": "bird alone",
+        "definition": "bird alone, having no person remaining with one.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["burd-mou'd", "tender in finding fault", "tender", "unwilling to scold", "unwilling", "burdmou'd", "burd mou'd", "burd-moud", "burdmoud", "burd moud", "bird-mou'd", "birdmou'd", "bird mou'd", "bird-moud", "birdmoud", "bird moud", "burd-mou d"],
+        "scots": "burd-mou'd",
+        "english": "tender in finding fault",
+        "definition": "tender in finding fault, unwilling to scold.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bure", "did bear", "bore", "bearing"],
+        "scots": "bure",
+        "english": "did bear",
+        "definition": "did bear.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["burly bailie", "court officer", "officer", "burly-bailie", "burlybailie", "burlie bailie", "burlie-bailie", "burliebailie", "burly baily", "burly-baily", "burlybaily", "burly bailly", "burly-bailly", "burlybailly", "burlie baily", "burlie-baily", "burliebaily", "burlie bailly", "burlie-bailly", "burliebailly", "burlie", "burly", "bailie", "baillie", "baily", "bailly"],
+        "scots": "burly bailie",
+        "english": "court officer",
+        "definition": "a court officer.",
+        "pos": "s."
+    }, {
+        "searchInput": ["burn", "brook"],
+        "scots": "burn",
+        "english": "brook",
+        "definition": "a brook.",
+        "pos": "s."
+    }, {
+        "searchInput": ["burn", "urine"],
+        "scots": "burn",
+        "english": "urine",
+        "definition": "urine.",
+        "pos": "s."
+    }, {
+        "searchInput": ["burnewin", "blacksmith", "burne-win", "burne win", "burnwin", "burn-win", "burn win", "smith"],
+        "scots": "burnewin",
+        "english": "blacksmith",
+        "definition": "a blacksmith.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bursary", "endowment", "bursery", "bursury", "support of a student", "student endowment", "student support", "college endowment", "college support", "support"],
+        "scots": "bursary",
+        "english": "endowment",
+        "definition": "an endowment for the support of a student at College.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bush", "iron ring", "ring", "iron ring inserted to prevent the effect of friction", "ring inserted to prevent the effect of friction", "prevent friction", "preventing friction"],
+        "scots": "bush",
+        "english": "iron ring",
+        "definition": "any iron ring inserted to prevent the effect of friction.",
+        "pos": "s."
+    }, {
+        "searchInput": ["busk", "deck", "decking", "dress", "dressing"],
+        "scots": "busk",
+        "english": "deck",
+        "definition": "to deck, to dress.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["buskit", "did dress", "dressed", "drest"],
+        "scots": "buskit",
+        "english": "did dress",
+        "definition": "did dress.",
+        "pos": ""
+    }, {
+        "searchInput": ["buskit", "drest", "dressed"],
+        "scots": "buskit",
+        "english": "drest",
+        "definition": "drest.",
+        "pos": "part."
+    }, {
+        "searchInput": ["buss", "bush", "bus"],
+        "scots": "buss",
+        "english": "bush",
+        "definition": "a bush.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bussins", "head dress", "bussin", "headdress", "head-dress", "headress"],
+        "scots": "bussins",
+        "english": "head dress",
+        "definition": "a sort of head dress worn by old women.",
+        "pos": ""
+    }, {
+        "searchInput": ["bussle", "bustle", "bustling"],
+        "scots": "bussle",
+        "english": "bustle",
+        "definition": "to bustle.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bussle", "bustle"],
+        "scots": "bussle",
+        "english": "bustle",
+        "definition": "a bustle.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bustine", "fustain cloth", "bustin", "cloth", "fustain"],
+        "scots": "bustine",
+        "english": "fustain cloth",
+        "definition": "fustain cloth.",
+        "pos": "s."
+    }, {
+        "searchInput": ["but", "except", "without"],
+        "scots": "but",
+        "english": "except",
+        "definition": "except, without.",
+        "pos": "prep."
+    }, {
+        "searchInput": ["but an' ben", "two apartments in opposite ends of a house", "two adjoining appartments", "two adjoining apartments", "but an ben", "but-an'-ben", "but-an-ben", "butan'ben", "butanben", "adjoining", "opposite apartments"],
+        "scots": "but an' ben",
+        "english": "two apartments in opposite ends of a house",
+        "definition": "the two apartments in opposite ends of a house, also two adjoining appartments [sic]",
+        "pos": ""
+    }, {
+        "searchInput": ["bye, bye-hand", "over", "bye", "bye-hand", "byehand", "bye hand", "past", "by-hand", "byhand", "by hand", "bi-hand", "bihand", "bi hand", "bi", "by"],
+        "scots": "bye, bye-hand",
+        "english": "over",
+        "definition": "over, past.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["by-gane", "by past", "bygane", "by gane", "bypast", "by-past", "bygone", "by-gone", "by gone", "bye gane", "byegane", "byegone", "bye-gone", "bye gone", "past"],
+        "scots": "by-gane",
+        "english": "by past",
+        "definition": "by past.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["bye himself", "out of his senses", "by himself", "bye-himself", "bye himself", "out of senses", "out of her senses", "senseless", "bye herself", "bye-herself", "bye herself", "bye-herself", "by herself", "by-himself", "by-herself"],
+        "scots": "bye himself",
+        "english": "out of his senses",
+        "definition": "out of his senses.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["bye word", "proverb", "bye-word", "byeword", "by word", "by-word", "byword", "biword", "bi-word", "bi word"],
+        "scots": "bye word",
+        "english": "proverb",
+        "definition": "a proverb.",
+        "pos": "s."
+    }, {
+        "searchInput": ["byre, byar", "cow's stable", "byre", "byar", "byer", "byer", "bire", "biar", "stable", "cow stable"],
+        "scots": "byre, byar",
+        "english": "cow's stable",
+        "definition": "a cow's stable",
+        "pos": "s."
     }
 ]
