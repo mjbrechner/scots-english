@@ -3191,5 +3191,209 @@
         "english": "bustle",
         "definition": "a bustle.",
         "pos": "s."
+    }, {
+        "searchInput": ["bruliment", "broil", "brulzie", "broolie", "brulzi", "brulzy", "brooly"],
+        "scots": "bruliment",
+        "english": "broil",
+        "definition": "see Brulzie [a broil.]",
+        "pos": "s."
+    }, {
+        "searchInput": ["brulzie, broolie", "broil", "brulzie", "broolie", "bruliment", "brulzi", "brulzy", "brooly"],
+        "scots": "brulzie, broolie",
+        "english": "broil",
+        "definition": "a broil.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brung", "brought"],
+        "scots": "brung",
+        "english": "brought",
+        "definition": "brought.",
+        "pos": "part. v.a."
+    }, {
+        "searchInput": ["brunstane", "brimstone", "brun stane", "brun-stane", "brim-stone", "brim stone", "brunstone", "brun stone", "brun-stone", "brimstane", "brim stane", "brim-stane", "stone"],
+        "scots": "brunstane",
+        "english": "brimstone",
+        "definition": "brimstone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["brunt", "did burn", "burnt", "burned", "burn"],
+        "scots": "brunt",
+        "english": "did burn",
+        "definition": "did burn.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["brust", "burst"],
+        "scots": "brust",
+        "english": "burst",
+        "definition": "to burst.",
+        "pos": "v.n. and a."
+    }, {
+        "searchInput": ["bubble", "cry", "crying", "weep", "weeping"],
+        "scots": "bubble",
+        "english": "cry",
+        "definition": "to cry, to weep.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bubbles", "snot", "bubble"],
+        "scots": "bubbles",
+        "english": "snot",
+        "definition": "snot.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["bubbly", "snotty"],
+        "scots": "bubbly",
+        "english": "snotty",
+        "definition": "snotty.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bubbly jock", "turkey cock", "bubbly", "jock", "bubblyjock", "bubbly-jock", "turkeycock", "turkey-cock", "turkey", "male turkey", "cock", "Bubbly Jock"],
+        "scots": "bubbly jock",
+        "english": "turkey cock",
+        "definition": "a turkey cock.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buck-tooth", "tooth projecting forward", "bucktooth", "buck tooth", "buck-teeth", "buckteeth", "buck teeth", "buck", "teeth", "tooth", "tooth projecting forward from the rest"],
+        "scots": "buck-tooth",
+        "english": "tooth projecting forward",
+        "definition": "a tooth projecting forward from the rest.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buckie", "sea-snail", "bucky", "sea snail", "seasnail", "snail", "shell", "sea-snail or the shell of it", "sea snail or the shell of it", "snail shell"],
+        "scots": "buckie",
+        "english": "sea-snail",
+        "definition": "the sea-snail or the shell of it.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buckle", "wed", "join", "joining"],
+        "scots": "buckle",
+        "english": "wed",
+        "definition": "to wed, to join.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["bue", "low", "lowing", "low as cattle", "cattle lowing"],
+        "scots": "bue",
+        "english": "low",
+        "definition": "to low as cattle do.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bu-man", "man who is an object of terror to children", "buman", "bu man", "boo-man", "booman", "boo man", "devil", "man who is an object of terror", "object of terror", "terror"],
+        "scots": "bu-man",
+        "english": "man who is an object of terror to children",
+        "definition": "a man who is an object of terror to children, also the devil.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buff", "occasion such a sound as is emitted by a soft substance when struck with the hand", "buffing", "sound"],
+        "scots": "buff",
+        "english": "occasion such a sound as is emitted by a soft substance when struck with the hand",
+        "definition": "to occasion such a sound as is emitted by a soft substance when struck with the hand.",
+        "pos": "v.n. and a."
+    }, {
+        "searchInput": ["buff", "nonsense"],
+        "scots": "buff",
+        "english": "nonsense",
+        "definition": "nonsense.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buff-nor-stye", "neither one part not another", "not the smallest part", "buffnorstye", "buff nor stye"],
+        "scots": "buff-nor-stye",
+        "english": "neither one part not another",
+        "definition": "neither one part not another; not the smallest part.",
+        "pos": ""
+    }, {
+        "searchInput": ["buff out", "laugh", "buff", "buffout", "buff-out", "laugh out suddenly", "laughing out suddenly", "laughing"],
+        "scots": "buff out",
+        "english": "laugh",
+        "definition": "to laugh out suddenly.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["buffer", "slight disrespect", "appellation", "waggery", "disrespect", "appellation of slight disrespect", "appellation of disrespect", "appellation of waggery"],
+        "scots": "buffer",
+        "english": "slight disrespect",
+        "definition": "an appellation of slight disrespect or waggery from one boy to another.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buffetstool", "stool", "buffet stool", "buffet-stool", "table"],
+        "scots": "buffetstool",
+        "english": "stool",
+        "definition": "a stool used sometimes by country people as a table.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buffie", "fat", "purfled", "buffy", "buffi"],
+        "scots": "buffie",
+        "english": "fat",
+        "definition": "fat, purfled.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["bug, buggen", "built", "bug", "buggen", "buggin"],
+        "scots": "bug, buggen",
+        "english": "built",
+        "definition": "built.",
+        "pos": "part."
+    }, {
+        "searchInput": ["bught, bucht", "fold where the ewes are enclosed", "fold", "ewes", "ewe", "milking", "fold where ewes are enclosed", "enclosure", "bught", "bucht"],
+        "scots": "bught, bucht",
+        "english": "fold where the ewes are enclosed",
+        "definition": "the fold where the ewes are enclosed at milking time.",
+        "pos": ""
+    }, {
+        "searchInput": ["bught", "bight", "fold of rope", "rope", "bucht"],
+        "scots": "bught",
+        "english": "bight",
+        "definition": "a bight, a fold of rope.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buird", "board"],
+        "scots": "buird",
+        "english": "board",
+        "definition": "a board.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buirdly", "tall and stout made", "tall", "stout", "tall and stout", "stout and tall"],
+        "scots": "buirdly",
+        "english": "tall and stout made",
+        "definition": "tall and stout made.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["buist", "chest", "large meal chest", "meal chest", "large chest"],
+        "scots": "buist",
+        "english": "chest",
+        "definition": "a large meal chest.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bulge", "swell", "swelling"],
+        "scots": "bulge",
+        "english": "swell",
+        "definition": "to swell.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["bulge", "swell"],
+        "scots": "bulge",
+        "english": "swell",
+        "definition": "a swell.",
+        "pos": "s."
+    }, {
+        "searchInput": ["buller", "gurgle", "gurgling", "bubble", "bubbling"],
+        "scots": "buller",
+        "english": "gurgle",
+        "definition": "to gurgle, to bubble as water emitted through a narrow pipe, when the passage emits wind at the same time.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["buller", "gurgling", "gurgle", "bubbling", "bubble"],
+        "scots": "buller",
+        "english": "gurgling",
+        "definition": "a gurgling or bubbling of water.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bullet-stane", "round stone used as a bullet", "bulletstane", "bullet stane", "bullet-stone", "bulletstone", "bullet-stone", "bullet", "stone", "round stone", "lang bullet", "long bullet", "lang bullets", "long bullets"],
+        "scots": "bullet-stane",
+        "english": "round stone used as a bullet",
+        "definition": "a round stone used as a bullet for throwing along the highway in the game of Lang Bullet.",
+        "pos": "s."
+    }, {
+        "searchInput": ["bullyrag", "haggle", "bully rag", "bully-rag", "haggling", "dispute", "dispute loud and angrily", "disputing", "wrangle", "wrangling"],
+        "scots": "bullyrag",
+        "english": "haggle",
+        "definition": "to haggle, to dispute loud and angrily, to wrangle.",
+        "pos": "v.n."
     }
 ]
