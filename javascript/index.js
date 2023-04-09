@@ -98,3 +98,5 @@ userInput.addEventListener("keyup", (event) => {
 // Decide whether or not to use numberOfDictionaryMatches, such as in visibility toggling
 
 // What if the Scots entries were all shown in uppercase?
+
+// If no result is found, have results shows close matches.

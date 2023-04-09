@@ -1,3 +1,7 @@
+* {
+    font-family: 'Alice', serif;
+}
+
 header {
     text-align: center;
     color: white;
@@ -41,7 +45,21 @@ main {
     outline: none !important;
 }
 
-#search-button {
+.button-area {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap: 5%;
+    margin-top: .25em;
+}
+
+button {
+    color: #005EB8;
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    font-size: 1.1em;
+    border-radius: 5px;
     cursor: pointer;
 }
 
@@ -116,6 +134,7 @@ footer {
 
 /*query if screen is tall enough for proper footer*/
 @media only screen and (min-height: 275px) {
+
     footer {
         position: absolute;
         bottom: 10px;
@@ -127,6 +146,14 @@ footer {
 
 /*tablet query*/
 @media only screen and (min-width: 768px) {
+
+    .button-area {
+        margin-top: .35em;
+    }
+
+    button {
+        font-size: 1.2em;
+    }
 
     footer {
         flex-direction: row;
@@ -142,6 +169,15 @@ footer {
 
 /*desktop query*/
 @media only screen and (min-width: 992px) {
+
+    .button-area {
+        margin-top: .5em;
+    }
+
+    button {
+        font-size: 1.3em;
+    }
+
     footer {
         font-size: 1em;
     }

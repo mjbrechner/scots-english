@@ -9,6 +9,10 @@
     <!-- Profile picture/favicon created by M.J. Brechner © 2022 -->
     <link rel="shortcut icon" href="images/profile-pic.png">
     <link rel="stylesheet" href="css/styles.css">
+    <!-- Font from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -28,9 +32,11 @@
     </div>
     <main>
         <input type="text" name="search-box" id="search-box" aria-label="search-box" maxlength="35"></textarea>
-        <button id="search-button" onclick="searchButtonClick()">Search</button>
-        <button id="search-random" onclick="searchRandomClick()">Random</button>
-<div id="results-box"></div>
+        <div class="button-area">
+            <button id="search-button" onclick="searchButtonClick()">Search</button>
+            <button id="search-random" onclick="searchRandomClick()">Random</button>
+        </div>
+        <div id="results-box"></div>
     </main>
     <footer>
         <p>
