@@ -3611,5 +3611,113 @@
         "english": "cow's stable",
         "definition": "a cow's stable",
         "pos": "s."
+    }, {
+        "searchInput": ["ca', caw", "call", "ca'", "ca", "caw", "name", "drive", "calling", "naming", "driving"],
+        "scots": "ca', caw",
+        "english": "call",
+        "definition": "to call, to name, to drive.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["ca', caw", "call", "ca'", "ca", "caw"],
+        "scots": "ca', caw",
+        "english": "call",
+        "definition": "a call.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ca'", "calve", "ca", "calving"],
+        "scots": "ca'",
+        "english": "calve",
+        "definition": "to calve.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cadge", "carry", "carrying"],
+        "scots": "cadge",
+        "english": "carry",
+        "definition": "to carry.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cadger", "country carrier", "carrier"],
+        "scots": "cadger",
+        "english": "country carrier",
+        "definition": "a country carrier.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cadgie, caidgie", "fond", "cadgie", "caidgie", "cadgy", "caidgy", "cagie", "caigie", "cagy", "caigy", "happy", "wanton"],
+        "scots": "cadgie, caidgie",
+        "english": "fond",
+        "definition": "fond, happy, wanton.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cadie", "young fellow", "caddie", "cady", "caddy", "fellow", "errand boy", "boy"],
+        "scots": "cadie",
+        "english": "young fellow",
+        "definition": "a young fellow, an errand boy.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ca'f, cauf", "calf", "ca'f", "caf", "ca f", "cauf", "caff", "cawf"],
+        "scots": "ca'f, cauf",
+        "english": "calf",
+        "definition": "a calf.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ca'f luve", "first love", "caf luve", "ca f luve", "caff luve", "cauf luve", "love", "affection", "youthful affection", "ca'f love", "caf love", "ca f love", "caff love", "cauf love", "cawf luve", "cawf love"],
+        "scots": "ca'f luve",
+        "english": "first love",
+        "definition": "first love, youthful affection.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caf's lick", "part of the hair rising up on the forehead", "ca'f's lick", "caf's lick", "caf lick", "ca'f lick", "caflick", "caff's lick", "cauf's lick", "cawf's lick", "cafslick", "calf's lick", "cowlick", "cow lick", "cowslick", "cow's lick", "cow'slick", "hair", "hair rising up on the forehead"],
+        "scots": "caf's lick",
+        "english": "part of the hair rising up on the forehead",
+        "definition": "a part of the hair rising up on the forehead, which receives this name, as if it had been licked upwards by a calf's tongue.",
+        "pos": "s."
+    }, {
+        "searchInput": ["ca'f-ward", "enclosure for calves", "ca'fward", "ca'f ward", "caf-ward", "cafward", "caf ward", "caff-ward", "caffward", "caff ward", "calf-ward", "calfward", "calf ward", "cauf-ward", "caufward", "cauf ward"],
+        "scots": "ca'f-ward",
+        "english": "enclosure for calves",
+        "definition": "an enclosure for calves.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caff", "chaff"],
+        "scots": "caff",
+        "english": "chaff",
+        "definition": "chaff.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caff, coff", "buy", "caff", "coff", "buying"],
+        "scots": "caff, coff",
+        "english": "buy",
+        "definition": "to buy.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["caft, coft", "buy", "caft", "coft", "did buy", "bought"],
+        "scots": "caft, coft",
+        "english": "buy",
+        "definition": "did buy.",
+        "pos": ""
+    }, {
+        "searchInput": ["caft, coft", "bought", "caft", "coft"],
+        "scots": "caft, coft",
+        "english": "bought",
+        "definition": "bought.",
+        "pos": "pas. part."
+    }, {
+        "searchInput": ["caiber, kaiber", "rafter", "caiber", "kaiber"],
+        "scots": "caiber, kaiber",
+        "english": "rafter",
+        "definition": "a rafter.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caird", "tinker", "tinker"],
+        "scots": "caird",
+        "english": "tinker",
+        "definition": "a tinker. [additional pejorative definition removed]",
+        "pos": "s."
+    }, {
+        "searchInput": ["cairn", "heap of stones", "stones", "heap"],
+        "scots": "cairn",
+        "english": "heap of stones",
+        "definition": "a heap of stones.",
+        "pos": "s."
     }
 ]
