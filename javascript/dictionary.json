@@ -3719,5 +3719,252 @@
         "english": "heap of stones",
         "definition": "a heap of stones.",
         "pos": "s."
+    },
+    {
+        "searchInput": ["cairt", "cart", "chart", "card", "cartes"],
+        "scots": "cairt",
+        "english": "cart",
+        "definition": "a cart, a chart, a card, see cartes.",
+        "pos": "s."
+    }, {
+        "searchInput": ["callan, callant", "young man", "callan", "callant", "man", "appellation", "familiar", "acquaintance"],
+        "scots": "callan, callant",
+        "english": "young man",
+        "definition": "a young man, also a familiar appellation to an acquaintance.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caller, cauler", "fresh", "caller", "cauler", "caler", "cauller", "cool"],
+        "scots": "caller, cauler",
+        "english": "fresh",
+        "definition": "fresh, cool.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cam'", "did come", "cam", "came", "come"],
+        "scots": "cam'",
+        "english": "did come",
+        "definition": "did come.",
+        "pos": ""
+    }, {
+        "searchInput": ["campie", "smart young man", "campy", "young man", "smart man", "man"],
+        "scots": "campie",
+        "english": "smart young man",
+        "definition": "a smart young man.",
+        "pos": "s."
+    }, {
+        "searchInput": ["camscheugh", "cross", "camsheugh", "ill tempered", "illtempered", "ill-tempered"],
+        "scots": "camscheugh",
+        "english": "cross",
+        "definition": "cross, ill tempered.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["camshauchled", "that walks inactively", "camshauchle", "walks inactively", "inactively", "lamely", "shovingly"],
+        "scots": "camshauchled",
+        "english": "that walks inactively",
+        "definition": "that walks inactively, lamely, shovingly, as if the shoes were too large for the feet.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["camstairy", "obstinate", "quarrelsome"],
+        "scots": "camstairy",
+        "english": "obstinate",
+        "definition": "obstinate, quarrelsome.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cangle", "wrangle", "wrangling"],
+        "scots": "cangle",
+        "english": "wrangle",
+        "definition": "to wrangle.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cankert", "fretful", "fretfull", "ill natured", "illnatured", "ill-natured"],
+        "scots": "cankert",
+        "english": "fretful",
+        "definition": "fretful, ill natured.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["canna, cannae", "cannot", "canna", "cannae", "can't", "can not", "cant"],
+        "scots": "canna, cannae",
+        "english": "cannot",
+        "definition": "cannot.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["canny", "mild", "cannie", "cany", "canie", "cautious", "inoffensive", "not unlucky", "lucky"],
+        "scots": "canny",
+        "english": "mild",
+        "definition": "mild, cautious, inoffensive, not unlucky, see Uncanny.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cant", "talk cheerfully", "talk", "cheerfully", "talking cheerfully", "talking"],
+        "scots": "cant",
+        "english": "talk cheerfully",
+        "definition": "to talk cheerfully.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cantankerons", "crabbed", "cantankerous", "fretful", "fretfull", "cantankeron"],
+        "scots": "cantankerons",
+        "english": "crabbed",
+        "definition": "crabbed, fretful.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cantraips, cantrips", "incantation", "cantraips", "cantrips", "cantraip", "cantrip", "cantraps", "cantrap", "caltraps", "caltrap"],
+        "scots": "cantraips, cantrips",
+        "english": "incantation",
+        "definition": "incantation.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cantraps", "caltraps", "cantrap", "incantation", "caltrap", "cantraips", "cantraip", "cantrips", "cantrip"],
+        "scots": "cantraps",
+        "english": "caltraps",
+        "definition": "caltraps.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["canty", "cheerful", "cantie"],
+        "scots": "canty",
+        "english": "cheerful",
+        "definition": "cheerful.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cap", "small wooden dish", "small dish", "wooden dish", "dish", "cup"],
+        "scots": "cap",
+        "english": "small wooden dish",
+        "definition": "a small wooden dish, or cup.",
+        "pos": "s."
+    }, {
+        "searchInput": ["capout, clean-cap-out", "capout", "drinking the whole of the beverage", "cap out", "cap-out", "clean-cap-out", "cleancapout", "clean cap out", "clean capout", "clean cap-out", "drinking"],
+        "scots": "capout, clean-cap-out",
+        "english": "drinking the whole of the beverage",
+        "definition": "the act of drinking the whole of the beverage contained in a vessel.",
+        "pos": ""
+    }, {
+        "searchInput": ["capper", "copper"],
+        "scots": "capper",
+        "english": "copper",
+        "definition": "copper.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cappernoitet, cappernoitie", "whimsical", "cappernoitet", "cappernoitie", "testy", "cappernoity"],
+        "scots": "cappernoitet, cappernoitie",
+        "english": "whimsical",
+        "definition": "whimsical, testy.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["capstane", "capestone", "cap stane", "cap-stane", "capstone", "cap stone", "cap-stone", "cape stone", "cape-stone", "stone"],
+        "scots": "capstane",
+        "english": "capestone",
+        "definition": "a capestone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cappit", "fretful", "capit", "fretfull", "ill tempered", "illtempered", "ill-tempered"],
+        "scots": "cappit",
+        "english": "fretful",
+        "definition": "fretful, ill tempered.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["capstride", "to put the glass past one whose turn it is to drink", "cap stride", "cap-stride"],
+        "scots": "capstride",
+        "english": "to put the glass past one whose turn it is to drink",
+        "definition": "to put the glass past one whose turn it is to drink.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["car", "sledge"],
+        "scots": "car",
+        "english": "sledge",
+        "definition": "a sledge.",
+        "pos": "s."
+    }, {
+        "searchInput": ["carcudeuch", "fondly", "familiar", "intimate"],
+        "scots": "carcudeuch",
+        "english": "fondly",
+        "definition": "fondly, familiar, intimate.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cardinal", "woman's mantle", "mantle"],
+        "scots": "cardinal",
+        "english": "woman's mantle",
+        "definition": "a woman's mantle.",
+        "pos": "s."
+    }, {
+        "searchInput": ["careerin", "swiftly", "cheerfully"],
+        "scots": "careerin",
+        "english": "swiftly",
+        "definition": "swiftly, cheerfully.",
+        "pos": "adv."
+    }, {
+        "searchInput": ["carena, carenae", "carenot", "carena", "carenae", "care-not", "care not"],
+        "scots": "carena, carenae",
+        "english": "carenot",
+        "definition": "carenot.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cark", "care"],
+        "scots": "cark",
+        "english": "care",
+        "definition": "care.",
+        "pos": "s."
+    }, {
+        "searchInput": ["carkin", "fretful", "fretfull", "vexatious"],
+        "scots": "carkin",
+        "english": "fretful",
+        "definition": "fretful, vexatious.",
+        "pos": "part. pres."
+    }, {
+        "searchInput": ["carle", "old man", "man", "rustic", "carl"],
+        "scots": "carle",
+        "english": "old man",
+        "definition": "an old man, a rustic.",
+        "pos": "s."
+    }, {
+        "searchInput": ["carline", "old woman", "woman"],
+        "scots": "carline",
+        "english": "old woman",
+        "definition": "an old woman.",
+        "pos": "s."
+    }, {
+        "searchInput": ["carlish", "peevish", "rustic"],
+        "scots": "carlish",
+        "english": "peevish",
+        "definition": "peevish, as old people sometimes are, rustic.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["carritch, carritches", "catechism", "carritch", "carritches", "caritch", "carich", "carrich", "caritches", "carriches", "cariches"],
+        "scots": "carritch, carritches",
+        "english": "catechism",
+        "definition": "a catechism.",
+        "pos": "s."
+    }, {
+        "searchInput": ["carry", "clouds in motion", "clouds", "carrie", "cary", "carie"],
+        "scots": "carry",
+        "english": "clouds in motion",
+        "definition": "the clouds in motion.",
+        "pos": "s."
+    }, {
+        "searchInput": ["carse", "fertile land", "land", "low land", "flat land", "lowland", "flatland", "low, flat, fertile land"],
+        "scots": "carse",
+        "english": "fertile land",
+        "definition": "low, flat, fertile land.",
+        "pos": "s."
+    }, {
+        "searchInput": ["carses", "cresses"],
+        "scots": "carses",
+        "english": "cresses",
+        "definition": "cresses.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cartes", "cards", "card"],
+        "scots": "cartes",
+        "english": "cards",
+        "definition": "cards.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cartoush", "cartoosh", "cartosh", "frock", "little frock for a girl", "frock for a girl", "woman's short gown", "short gown", "gown"],
+        "scots": "cartoush",
+        "english": "frock",
+        "definition": "a little frock for a girl; a woman's short gown.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cartsaddle", "coarse saddle", "cart saddle", "cart-saddle", "saddle"],
+        "scots": "cartsaddle",
+        "english": "coarse saddle",
+        "definition": "a coarse saddle, over which the chain or rope passes, by which the shafts of a cart are suspended.",
+        "pos": "s."
     }
 ]
