@@ -3966,5 +3966,233 @@
         "english": "coarse saddle",
         "definition": "a coarse saddle, over which the chain or rope passes, by which the shafts of a cart are suspended.",
         "pos": "s."
+    }, {
+        "searchInput": ["cast out", "fall out", "fallout", "disagree", "castout", "cast-out", "fall-out"],
+        "scots": "cast out",
+        "english": "fall out",
+        "definition": "to fall out, to disagree.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cast up to", "reproach", "cast up", "castup", "cast-up", "reproach a person with a fault committed", "call maliciously to a person's mind", "call maliciously"],
+        "scots": "cast up to",
+        "english": "reproach",
+        "definition": "to reproach a person with a fault committed, to call maliciously to a person's mind, any thing he has done, which it is supposed he will be ashamed to hear mentioned.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["castle", "four", "number four", "4", "reckoning cherry stones", "caugle"],
+        "scots": "castle",
+        "english": "four",
+        "definition": "the number four, used among children, in reckoning cherry stones.",
+        "pos": "s."
+    }, {
+        "searchInput": ["casten", "cast", "thrown"],
+        "scots": "casten",
+        "english": "cast",
+        "definition": "cast, thrown.",
+        "pos": "pas. part."
+    }, {
+        "searchInput": ["cat and dog", "play among children", "cat & dog", "dog & cat", "dog and cat", "cricket", "play"],
+        "scots": "cat and dog",
+        "english": "play among children",
+        "definition": "a play among children, resembling cricket.",
+        "pos": ""
+    }, {
+        "searchInput": ["cate", "desire the male", "desire", "cats", "cat"],
+        "scots": "cate",
+        "english": "desire the male",
+        "definition": "to desire the male, applied to cats.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cathel", "hot pot", "hot-pot", "hotpot"],
+        "scots": "cathel",
+        "english": "hot pot",
+        "definition": "a hot pot, made of ale, sugar, and eggs.",
+        "pos": "s."
+    }, {
+        "searchInput": ["catwittet", "whimsical", "hair-brained", "hair brained", "hairbrained", "harebrained", "hare brained", "hare-brained", "catwitet", "cat-wittet", "cat wittet", "catwitted", "cat-witted", "cat witted"],
+        "scots": "catwittet",
+        "english": "whimsical",
+        "definition": "whimsical, hair-brained.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["caudron", "caldron", "cawdron"],
+        "scots": "caudron",
+        "english": "caldron",
+        "definition": "a caldron.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caugle", "four", "number four", "4", "castle"],
+        "scots": "caugle",
+        "english": "four",
+        "definition": "the number four, see Castle.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cauld", "cold"],
+        "scots": "cauld",
+        "english": "cold",
+        "definition": "cold.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cauldrife", "easily affected by cold", "affected by cold", "easily cold"],
+        "scots": "cauldrife",
+        "english": "easily affected by cold",
+        "definition": "easily affected by cold.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cauldrife", "coldish", "cold in a manner", "cold", "indifferent", "disaffected"],
+        "scots": "cauldrife",
+        "english": "coldish",
+        "definition": "coldish, cold in a manner, indifferent, disaffected.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["caum", "slate pen", "slate", "pen"],
+        "scots": "caum",
+        "english": "slate pen",
+        "definition": "slate pen.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caum, or caumstane", "coarse fuller's earth", "caum", "caumstane", "caum stane", "caum-stane", "caumstone", "caum stone", "caum-stone", "fuller's earth", "coarse earth"],
+        "scots": "caum, or caumstane",
+        "english": "coarse fuller's earth",
+        "definition": "coarse fuller's earth.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caum", "mould", "mold"],
+        "scots": "caum",
+        "english": "mould",
+        "definition": "a mould.",
+        "pos": "s."
+    }, {
+        "searchInput": ["caum", "calm", "smooth"],
+        "scots": "caum",
+        "english": "calm",
+        "definition": "calm, smooth.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["caur handit, cawry handit", "left handed", "caur handit", "caurhandit", "caur-handit", "caur handed", "caurhanded", "caur-handed", "cawry handit", "cawryhandit", "cawry-handit", "cawry handed", "cawryhanded", "cawry-handed", "left-handed", "lefthanded", "kaur"],
+        "scots": "caur handit, cawry handit",
+        "english": "left handed",
+        "definition": "left handed, see Kaur.",
+        "pos": ""
+    }, {
+        "searchInput": ["cave, cavie", "hen coop", "cave", "cavie", "cavey", "cavy", "coop", "hen"],
+        "scots": "cave, cavie",
+        "english": "hen coop",
+        "definition": "a hen coop.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cavel", "chance", "luck"],
+        "scots": "cavel",
+        "english": "chance",
+        "definition": "chance, luck.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cawk", "chalk", "cauk"],
+        "scots": "cawk",
+        "english": "chalk",
+        "definition": "chalk.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cawker", "frost nail", "frostnail", "frost-nail", "glass of strong whisky", "glass of strong whiskey", "whisky", "whiskey", "spirits"],
+        "scots": "cawker",
+        "english": "frost nail",
+        "definition": "a frost nail; also a glass of strong whisky, or other ardent spirits, taken in the morning.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cawseway", "causeway", "cawse way", "cawse-way", "cause way", "cause-way"],
+        "scots": "cawseway",
+        "english": "causeway",
+        "definition": "a causeway.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chack", "luncheon"],
+        "scots": "chack",
+        "english": "luncheon",
+        "definition": "a luncheon.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chack", "check", "squeeze", "checking", "squeezing", "chacking"],
+        "scots": "chack",
+        "english": "check",
+        "definition": "to check, to squeeze.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["chack", "squeeze", "check"],
+        "scots": "chack",
+        "english": "squeeze",
+        "definition": "a squeeze, a check.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chackit", "chequered", "checkered", "checked", "squeezed", "chacked"],
+        "scots": "chackit",
+        "english": "chequered",
+        "definition": "chequered, checked, squeezed.",
+        "pos": "past part."
+    }, {
+        "searchInput": ["chaft blade", "jaw bone", "chaftblade", "chaft-blade", "jawbone", "jaw-bone", "jaw", "bone"],
+        "scots": "chaft blade",
+        "english": "jaw bone",
+        "definition": "the jaw bone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chafts", "chops", "chaft", "chop"],
+        "scots": "chafts",
+        "english": "chops",
+        "definition": "the chops.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["chainge", "change"],
+        "scots": "chainge",
+        "english": "change",
+        "definition": "to change.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["chainge", "change"],
+        "scots": "chainge",
+        "english": "change",
+        "definition": "a change.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chainge-house", "public house", "chainge house", "chaingehouse", "change-house", "change house", "changehouse", "publichouse", "public-house"],
+        "scots": "chainge-house",
+        "english": "public house",
+        "definition": "a public house",
+        "pos": "s."
+    }, {
+        "searchInput": ["champ", "mash", "chew", "champing", "mashing", "chewing"],
+        "scots": "champ",
+        "english": "mash",
+        "definition": "to mash, to chew",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["champit, chappit", "mashed", "champit", "chappit", "chewed", "chapit", "champed", "chapped"],
+        "scots": "champit, chappit",
+        "english": "mashed",
+        "definition": "mashed, chewed.",
+        "pos": "part."
+    }, {
+        "searchInput": ["chancy", "lucky"],
+        "scots": "chancy",
+        "english": "lucky",
+        "definition": "lucky.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["chandler chafts", "chandler chaft", "chandler", "chaft", "chafts", "lean chops", "chandlerchafts", "chandler-chafts", "lean", "chop", "chops", "lean chop", "meagre visage", "meager visage", "visage", "meagre", "meager"],
+        "scots": "chandler chafts",
+        "english": "lean chops",
+        "definition": "lean chops, a meagre visage.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["channel", "gravel"],
+        "scots": "channel",
+        "english": "gravel",
+        "definition": "gravel.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chanter", "part of a bagpipe", "bagpipe"],
+        "scots": "chanter",
+        "english": "part of a bagpipe",
+        "definition": "part of a bagpipe.",
+        "pos": "s."
     }
 ]
