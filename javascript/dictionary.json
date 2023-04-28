@@ -4194,5 +4194,275 @@
         "english": "part of a bagpipe",
         "definition": "part of a bagpipe.",
         "pos": "s."
+    }, {
+        "searchInput": ["chanty", "chamber pot", "chamberpot", "chamberpot", "chamber", "pot"],
+        "scots": "chanty",
+        "english": "chamber pot",
+        "definition": "a chamber pot.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chap", "chuse", "select", "choose", "choosing", "selecting"],
+        "scots": "chap",
+        "english": "chuse",
+        "definition": "to chuse, to select.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["chap", "blow"],
+        "scots": "chap",
+        "english": "blow",
+        "definition": "a blow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chap", "fellow"],
+        "scots": "chap",
+        "english": "fellow",
+        "definition": "a fellow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chap", "knock", "chop", "strike", "knocking", "chopping", "striking", "strike as a clock"],
+        "scots": "chap",
+        "english": "knock",
+        "definition": "to knock, to chop, to strike as a clock.",
+        "pos": "v.a. and n."
+    }, {
+        "searchInput": ["chap an' chuse", "pick", "chap & chuse", "chap & choose", "chap an chuse", "chap-and-chuse", "chap and chuse", "chap-and-chuse", "chap an' choose", "chap an choose", "chap-an-choose", "chap and choose", "chap-and-choose", "pick the choice of a parcel"],
+        "scots": "chap an' chuse",
+        "english": "pick",
+        "definition": "to pick the choice of a parcel.",
+        "pos": ""
+    }, {
+        "searchInput": ["chapman", "pedlar", "peddler", "chap-man", "chap man"],
+        "scots": "chapman",
+        "english": "pedlar",
+        "definition": "a pedlar.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chappen", "quart"],
+        "scots": "chappen",
+        "english": "quart",
+        "definition": "a quart.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chappin", "addicted to drinking", "addicted", "addicted to drink", "addicted to alcohol", "alcohol addiction", "addiction", "addiction to drink", "addiction to alcohol"],
+        "scots": "chappin",
+        "english": "addicted to drinking",
+        "definition": "(to take the) to be addicted to drinking.",
+        "pos": ""
+    }, {
+        "searchInput": ["chappin", "tall", "chopping", "lusty", "chapping"],
+        "scots": "chappin",
+        "english": "tall",
+        "definition": "tall, chopping, lusty.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["chariot", "urinal"],
+        "scots": "chariot",
+        "english": "urinal",
+        "definition": "a urinal.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chat", "gallows", "gallow", "the gallows"],
+        "scots": "chat",
+        "english": "gallows",
+        "definition": "the gallows.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chattels", "goods", "moveables", "chattel", "movables"],
+        "scots": "chattels",
+        "english": "goods",
+        "definition": "goods, moveables.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["chaumer", "chamber", "chaumber", "chamer", "chammer"],
+        "scots": "chaumer",
+        "english": "chamber",
+        "definition": "a chamber.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chauner", "fret", "fretting", "murmur", "murmuring"],
+        "scots": "chauner",
+        "english": "fret",
+        "definition": "to fret, to murmur.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cheek blade", "cheek bone", "cheek-blade", "cheekblade", "cheek-bone", "cheekbone", "cheek"],
+        "scots": "cheek blade",
+        "english": "cheek bone",
+        "definition": "the cheek bone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cheek for chow", "cheek by jole", "cheek by jowl", "cheek-for-chow", "cheek-by-jole", "cheek-by-jowl", "cheek-by-chow", "cheek by chow", "cheek", "jole", "chow", "jowl"],
+        "scots": "cheek for chow",
+        "english": "cheek by jole",
+        "definition": "cheek by jole.",
+        "pos": ""
+    }, {
+        "searchInput": ["cheep", "chirk", "cheeping", "chirking", "squeak", "squeaking"],
+        "scots": "cheep",
+        "english": "chirk",
+        "definition": "to chirk, to squeak.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cheepock", "pudendum maliebre"],
+        "scots": "cheepock",
+        "english": "pudendum maliebre",
+        "definition": "the pudendum maliebre.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cheerfo'", "cheerful", "cheerfo", "cheerfu'", "cheerfu"],
+        "scots": "cheerfo'",
+        "english": "cheerful",
+        "definition": "cheerful.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["chess", "window frame", "window", "frame"],
+        "scots": "chess",
+        "english": "window frame",
+        "definition": "a window frame.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chessel, chissat", "cheese press", "cheese", "press", "chessel", "chissat"],
+        "scots": "chessel, chissat",
+        "english": "cheese press",
+        "definition": "a cheese press.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chiel', cheild", "fellow", "chiel", "chield", "cheil", "cheil'", "person", "young man", "man", "chiel'", "cheild"],
+        "scots": "chiel', cheild",
+        "english": "fellow",
+        "definition": "a fellow, a person, a young man.",
+        "pos": "s."
+    }, {
+        "searchInput": ["childer", "children"],
+        "scots": "childer",
+        "english": "children",
+        "definition": "children.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["chimly, chimla", "chimney", "chimly", "chimla", "grate", "chimlie"],
+        "scots": "chimly, chimla",
+        "english": "chimney",
+        "definition": "a chimney, a grate.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chimly-lug", "fire side", "chimlylug", "chimly lug", "fireside", "chimlielug", "chimlie-lug", "chimlie lug"],
+        "scots": "chimly-lug",
+        "english": "fire side",
+        "definition": "the fire side.",
+        "pos": ""
+    }, {
+        "searchInput": ["chirl", "sing", "chirling", "singing", "sing as a bird", "chirp", "chirping"],
+        "scots": "chirl",
+        "english": "sing",
+        "definition": "to sing as a bird, to chirp.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["chirm", "murmur", "murmuring", "chirming", "fret", "fretting"],
+        "scots": "chirm",
+        "english": "murmur",
+        "definition": "to murmur, to fret.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["chirm", "sing", "chirming", "singing", "chirp", "chirping"],
+        "scots": "chirm",
+        "english": "sing",
+        "definition": "to sing, to chirp.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["chirt", "press", "chirting", "pressing"],
+        "scots": "chirt",
+        "english": "press",
+        "definition": "to press.",
+        "pos": "v.n. and a."
+    }, {
+        "searchInput": ["chisp", "gap in the woof of cloth", "gap"],
+        "scots": "chisp",
+        "english": "gap in the woof of cloth",
+        "definition": "a gap in the woof of cloth, generally occasioned by an inequality in the wrap.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chit", "small creature", "creature", "small thing", "thing"],
+        "scots": "chit",
+        "english": "small creature",
+        "definition": "a small creature, or thing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chitter", "shiver", "chittering", "shivering", "rattle", "rattling", "rattle the teeth", "rattling the teeth", "rattle the teeth from cold", "rattling the teeth from cold"],
+        "scots": "chitter",
+        "english": "shiver",
+        "definition": "to shiver, to rattle the teeth from cold.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["chitterin' piece", "bit of bread", "chitterin piece", "chittering piece", "bread", "bit of bread taken after bathing", "bit of bread taken after bathing", "bathing", "shivering", "bath"],
+        "scots": "chitterin' piece",
+        "english": "bit of bread",
+        "definition": "a bit of bread taken after bathing to remove the shivering.",
+        "pos": "s."
+    }, {
+        "searchInput": ["choller", "double chin", "doublechin", "double-chin", "chin"],
+        "scots": "choller",
+        "english": "double chin",
+        "definition": "a double chin.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chow", "quid of tobacco", "tobacco"],
+        "scots": "chow",
+        "english": "quid of tobacco",
+        "definition": "a quid of tobacco.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chow", "chew", "chowing", "chewing"],
+        "scots": "chow",
+        "english": "chew",
+        "definition": "to chew.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["chowks", "throat", "chowk", "chouk"],
+        "scots": "chowks",
+        "english": "throat",
+        "definition": "the throat.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["chuckie", "hen", "chucky", "chuky", "chukie"],
+        "scots": "chuckie",
+        "english": "hen",
+        "definition": "a hen.",
+        "pos": "s."
+    }, {
+        "searchInput": ["chuffy", "chubby", "chuffie"],
+        "scots": "chuffy",
+        "english": "chubby",
+        "definition": "chubby.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["claes", "clothes", "clae", "clothing"],
+        "scots": "claes",
+        "english": "clothes",
+        "definition": "clothes.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["clag", "clog", "claging", "clagging", "cloging", "clogging", "besmear", "besmearing"],
+        "scots": "clag",
+        "english": "clog",
+        "definition": "to clog, to besmear.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["claggy", "cloggy", "claggie", "cloggie", "adhesive"],
+        "scots": "claggy",
+        "english": "cloggy",
+        "definition": "cloggy, adhesive.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["claghan, clauchan", "small village", "claghan", "clauchan", "claugan", "clachan", "village", "small town", "town", "claughan"],
+        "scots": "claghan, clauchan",
+        "english": "small village",
+        "definition": "a small village.",
+        "pos": "s."
+    }, {
+        "searchInput": ["claik", "clack", "claick"],
+        "scots": "claik",
+        "english": "clack",
+        "definition": "clack.",
+        "pos": "s."
     }
 ]
