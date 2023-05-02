@@ -4464,5 +4464,174 @@
         "english": "clack",
         "definition": "clack.",
         "pos": "s."
+    },
+    {
+        "searchInput": ["claith", "cloth"],
+        "scots": "claith",
+        "english": "cloth",
+        "definition": "cloth.",
+        "pos": "s."
+    }, {
+        "searchInput": ["claithing", "clothing", "clothes", "claithes"],
+        "scots": "claithing",
+        "english": "clothing",
+        "definition": "clothing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clam shell", "scallop", "clam", "shell", "clamshell", "clam-shell"],
+        "scots": "clam shell",
+        "english": "scallop",
+        "definition": "a scallop.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clamb", "did climb", "climb", "climbed"],
+        "scots": "clamb",
+        "english": "did climb",
+        "definition": "did climb.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clamihewit", "blow"],
+        "scots": "clamihewit",
+        "english": "blow",
+        "definition": "a blow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clamjamphry", "idle or worthless company", "clam jamphry", "clam-jamphry", "idle company", "worthless company", "idle", "worthless"],
+        "scots": "clamjamphry",
+        "english": "idle or worthless company",
+        "definition": "idle or worthless company.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clamp", "walk noisily", "walk", "walking", "walking noisily", "noisily", "noisy", "clamping"],
+        "scots": "clamp",
+        "english": "walk noisily",
+        "definition": "to walk noisily.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clamp", "noisy tramp", "noisy", "tramp"],
+        "scots": "clamp",
+        "english": "noisy tramp",
+        "definition": "a noisy tramp.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clan", "tribe", "family"],
+        "scots": "clan",
+        "english": "tribe",
+        "definition": "a tribe, a family.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clank", "noise", "striking two pieces of wood together", "noise as would be made by striking two pieces of wood together"],
+        "scots": "clank",
+        "english": "noise",
+        "definition": "such a noise as would be made by striking two pieces of wood together.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clank", "hold taken hastily", "hold", "hasty", "hastily"],
+        "scots": "clank",
+        "english": "hold taken hastily",
+        "definition": "a hold taken hastily.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clap", "instant"],
+        "scots": "clap",
+        "english": "instant",
+        "definition": "an instant.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clap", "clapper of a mill", "tongue of a bell", "bell", "clapper", "town criers", "town crier"],
+        "scots": "clap",
+        "english": "clapper of a mill",
+        "definition": "the clapper of a mill, the tongue of a bell, a sort of bell used by some town criers.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clark", "write", "writing", "clarking"],
+        "scots": "clark",
+        "english": "write",
+        "definition": "to write.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clark", "clerk"],
+        "scots": "clark",
+        "english": "clerk",
+        "definition": "a clerk.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clarty", "dirty", "clartie", "bespattered", "spattered", "clatty", "clattie"],
+        "scots": "clarty, clatty",
+        "english": "dirty",
+        "definition": "dirty, bespattered.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["clarts", "mire", "clart"],
+        "scots": "clarts",
+        "english": "mire",
+        "definition": "mire.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["clash", "noise", "noise made by two broad surfaces meeting forcibly together", "blow with the open hand", "blow"],
+        "scots": "clash",
+        "english": "noise",
+        "definition": "the noise made by two broad surfaces meeting forcibly together, a blow with the open hand.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clash", "lie", "talk idly", "publish scandal", "clashing", "lying", "talking idly", "publishing scandal", "idly", "tale", "idle talk", "idle talking", "idly talking", "scandal"],
+        "scots": "clash",
+        "english": "lie",
+        "definition": "to lie, to talk idly, to publish scandal.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clash", "throw mire", "clashing", "throwing mire", "throw", "throwing"],
+        "scots": "clash",
+        "english": "throw mire",
+        "definition": "to throw mire, &c. on.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["clash", "strike", "clashing", "striking"],
+        "scots": "clash",
+        "english": "strike",
+        "definition": "to strike.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["clatch, clatts", "bemire", "clatching", "bemiring", "clatch", "clatts", "clats"],
+        "scots": "clatch, clatts",
+        "english": "bemire",
+        "definition": "to bemire.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["clatch, clatts", "mire", "bespattering", "bespattering with mire", "mire", "clatch", "clatts", "clats"],
+        "scots": "clatch, clatts",
+        "english": "mire",
+        "definition": "mire, a bespattering with mire.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clatter", "talk loudly and idly", "talk loudly", "talking loudly", "clattering", "talking loudly and idly", "talk idly", "talking idly", "defame", "defaming", "carry tales", "carrying tales"],
+        "scots": "clatter",
+        "english": "talk loudly and idly",
+        "definition": "to talk loudly and idly, to defame, to carry tales.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clauchit", "blow", "clawchit", "clachit"],
+        "scots": "clauchit",
+        "english": "blow",
+        "definition": "a blow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["claucht", "catch", "catch of a thing", "clawcht", "clacht"],
+        "scots": "claucht",
+        "english": "catch",
+        "definition": "a catch of a thing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clauch", "catched", "caught"],
+        "scots": "clauch",
+        "english": "catched",
+        "definition": "catched.",
+        "pos": "pas. part."
+    }, {
+        "searchInput": ["claumy", "clammy", "viscuous", "claummy", "clamy", "claumie", "claummie", "clamie", "clammie"],
+        "scots": "claumy",
+        "english": "clammy",
+        "definition": "clammy, viscuous.",
+        "pos": "adj."
     }
 ]
