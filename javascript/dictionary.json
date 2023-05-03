@@ -4592,14 +4592,14 @@
         "definition": "to strike.",
         "pos": "v.a."
     }, {
-        "searchInput": ["clatch, clatts", "bemire", "clatching", "bemiring", "clatch", "clatts", "clats"],
-        "scots": "clatch, clatts",
+        "searchInput": ["clatch, clatts", "clauts", "claut", "bemire", "clatching", "bemiring", "clatch", "clatts", "clats"],
+        "scots": "clatch, clatts, clauts",
         "english": "bemire",
         "definition": "to bemire.",
         "pos": "v.a."
     }, {
-        "searchInput": ["clatch, clatts", "mire", "bespattering", "bespattering with mire", "mire", "clatch", "clatts", "clats"],
-        "scots": "clatch, clatts",
+        "searchInput": ["clatch, clatts", "clauts", "claut", "mire", "bespattering", "bespattering with mire", "mire", "clatch", "clatts", "clats"],
+        "scots": "clatch, clatts, clauts",
         "english": "mire",
         "definition": "mire, a bespattering with mire.",
         "pos": "s."
@@ -4633,5 +4633,119 @@
         "english": "clammy",
         "definition": "clammy, viscuous.",
         "pos": "adj."
+    }, {
+        "searchInput": ["claut", "instrument for cleaning the streets", "instrument", "cleaning the streets", "cleaning the street", "street cleaning", "clawt"],
+        "scots": "claut",
+        "english": "instrument for cleaning the streets",
+        "definition": "an instrument for cleaning the streets.",
+        "pos": "s."
+    }, {
+        "searchInput": ["claut", "rake", "clawt", "clauting", "clawting", "raking", "scrape together", "scraping together", "scrape", "scraping"],
+        "scots": "claut",
+        "english": "rake",
+        "definition": "to rake, to scrape together.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["claver, claiver", "talk nonsense", "talking nonsense", "talk", "talking", "nonsense", "claver", "claiver"],
+        "scots": "claver, claiver",
+        "english": "talk nonsense",
+        "definition": "to talk nonsense.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["claver, claiver", "nonsense", "claver", "claiver"],
+        "scots": "claver, claiver",
+        "english": "nonsense",
+        "definition": "nonsense.",
+        "pos": "s."
+    }, {
+        "searchInput": ["claver", "clover"],
+        "scots": "claver",
+        "english": "clover",
+        "definition": "clover.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clay up (to)", "stop up", "clay up", "clayup", "clay-up", "clay up to", "clayup to", "clay-up to", "claying up", "stopping up", "stop", "stopping"],
+        "scots": "clay up (to)",
+        "english": "stop up",
+        "definition": "to stop up.",
+        "pos": ""
+    }, {
+        "searchInput": ["claymore", "broad sword", "clay-more", "clay more", "broad-sword", "broadsword", "sword", "highlander sword"],
+        "scots": "claymore",
+        "english": "broad sword",
+        "definition": "a sort of broad sword, used anciently by the Scottish Highlanders.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clean", "quite"],
+        "scots": "clean",
+        "english": "quite",
+        "definition": "quite.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cleck", "hatch", "hatching", "clecking"],
+        "scots": "cleck",
+        "english": "hatch",
+        "definition": "to hatch.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cleckin", "brood of chickens", "brood", "chicken", "chickens", "brood of chicken", "clekin", "cleking", "clecking"],
+        "scots": "cleckin",
+        "english": "brood of chickens",
+        "definition": "a brood of chickens.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cleckit", "hatched", "clekit", "clecked", "cleked"],
+        "scots": "cleckit",
+        "english": "hatched",
+        "definition": "hatched.",
+        "pos": "pas. part."
+    }, {
+        "searchInput": ["cled", "clad"],
+        "scots": "cled",
+        "english": "clad",
+        "definition": "clad.",
+        "pos": "pas. part."
+    }, {
+        "searchInput": ["cleed, cleid", "clothe", "cleed", "cleid", "clied"],
+        "scots": "cleed, cleid",
+        "english": "clothe",
+        "definition": "to clothe.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cleedin'", "clothing", "cleedin", "cleeding", "cleidin'", "cleidin", "cleiding", "cliedin'", "cliedin", "clieding", "clothes"],
+        "scots": "cleedin'",
+        "english": "clothing",
+        "definition": "clothing.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cleek", "catch", "catching", "cleeking", "catch as with a hook", "hook", "hooking"],
+        "scots": "cleek",
+        "english": "catch",
+        "definition": "to catch as with a hook.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cleek", "hooked iron", "hooked", "iron"],
+        "scots": "cleek",
+        "english": "hooked iron",
+        "definition": "a hooked iron.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cleester", "clister"],
+        "scots": "cleester",
+        "english": "clister",
+        "definition": "a clister.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cleevin", "division between the legs", "cleeving", "cleavin", "cleaving", "division", "between the legs"],
+        "scots": "cleevin",
+        "english": "division between the legs",
+        "definition": "the division between the legs.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cleg", "horse fly", "fly", "horsefly", "horse-fly"],
+        "scots": "cleg",
+        "english": "horse fly",
+        "definition": "the horse fly.",
+        "pos": "s."
     }
 ]
