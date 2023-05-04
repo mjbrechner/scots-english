@@ -4747,5 +4747,107 @@
         "english": "horse fly",
         "definition": "the horse fly.",
         "pos": "s."
+    }, {
+        "searchInput": ["cleuch", "chasm", "clewch", "chasm between two rocks", "between two rocks", "glen", "glenn", "cliff"],
+        "scots": "cleuch",
+        "english": "chasm",
+        "definition": "a chasm between two rocks, a glen, a cliff.",
+        "pos": "s."
+    }, {
+        "searchInput": ["click-clack", "constant talk", "clickclack", "click clack", "clik-clak", "clikclak", "clik clak", "talk", "constant talking", "constantly talking"],
+        "scots": "click-clack",
+        "english": "constant talk",
+        "definition": "constant talk.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clinch", "halt", "clinching", "halting", "walk lamely", "walking lamely", "lame", "lamely", "walk", "walking"],
+        "scots": "clinch",
+        "english": "halt",
+        "definition": "to halt, to walk lamely.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clink", "cash", "blow"],
+        "scots": "clink",
+        "english": "cash",
+        "definition": "cash, a blow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clink", "throw down", "clinking", "throwing down", "throw against", "throwing against", "throw", "throwing"],
+        "scots": "clink",
+        "english": "throw down",
+        "definition": "to throw down, or against with noice.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["clinkumbell", "bellman", "clinkumbel", "bell man", "bell-man", "clinkum-bell"],
+        "scots": "clinkumbell",
+        "english": "bellman",
+        "definition": "a bellman.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clinty", "hard", "clintie", "stoney", "stony"],
+        "scots": "clinty",
+        "english": "hard",
+        "definition": "hard, stoney.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["clippy", "talkative", "clippie", "impertinent"],
+        "scots": "clippy",
+        "english": "talkative",
+        "definition": "talkative, impertinent.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["clips", "wooden instrument for pulling thistles", "wooden instrument", "instrument", "pulling thistles", "clip", "thistles", "thistle"],
+        "scots": "clips",
+        "english": "wooden instrument for pulling thistles",
+        "definition": "a wooden instrument for pulling thistles.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["clips", "iron for lifting a pot", "clip", "iron", "lifting a pot", "pot", "lifting", "lift", "iron for lifting"],
+        "scots": "clips",
+        "english": "iron for lifting a pot",
+        "definition": "an iron for lifting a pot.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["clish clash", "clitter clatter", "clitter-clatter", "clitterclatter", "idle talk", "scandal", "idle", "talk", "idle talking", "talking", "clish", "clash", "clish-clash", "clishclash"],
+        "scots": "clish clash, clitter clatter",
+        "english": "idle talk",
+        "definition": "idle talk, scandal",
+        "pos": "s."
+    }, {
+        "searchInput": ["clishmaclaver", "foolish talk", "foolish talking", "foolish", "talk", "talking"],
+        "scots": "clishmaclaver",
+        "english": "foolish talk",
+        "definition": "foolish talk, nearly the same as the above [see Clish Clash].",
+        "pos": "s."
+    }, {
+        "searchInput": ["clocher", "cough", "clochering", "coughing"],
+        "scots": "clocher",
+        "english": "cough",
+        "definition": "to cough.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clock", "cluck", "clocking", "clucking", "hatch", "hatching"],
+        "scots": "clock",
+        "english": "cluck",
+        "definition": "to cluck, to hatch.",
+        "pos": "v.a. and n."
+    }, {
+        "searchInput": ["clock", "beetle"],
+        "scots": "clock",
+        "english": "beetle",
+        "definition": "a beetle.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clockin'", "clucking", "hatching", "clockin", "clocking", "cluckin'", "cluckin", "hatchin'", "hatchin", "clock", "cluck", "hatch"],
+        "scots": "clockin'",
+        "english": "clucking",
+        "definition": "clucking, hatching.",
+        "pos": "pres. part."
+    }, {
+        "searchInput": ["clod", "small corase loaf", "coarse loaf", "small loaf", "loaf"],
+        "scots": "clod",
+        "english": "small corase loaf",
+        "definition": "a kind of a small coarse loaf.",
+        "pos": "s."
     }
 ]
