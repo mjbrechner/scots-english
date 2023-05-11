@@ -4849,5 +4849,47 @@
         "english": "small corase loaf",
         "definition": "a kind of a small coarse loaf.",
         "pos": "s."
+    }, {
+        "searchInput": ["cloit", "fall down", "fall", "fall-down", "falling", "falling down"],
+        "scots": "cloit",
+        "english": "fall down",
+        "definition": "to fall down.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cloot, cloof", "hoof", "cloot", "cloof", "hooves"],
+        "scots": "cloot, cloof",
+        "english": "hoof",
+        "definition": "a hoof.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clootie", "devil", "clooty", "Clootie", "Clooty", "Devil", "name for the devil"],
+        "scots": "clootie",
+        "english": "devil",
+        "definition": "a name for the devil.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cloots", "run off", "cloot", "take off", "running off", "taking off", "take", "taking", "run", "running"],
+        "scots": "cloots",
+        "english": "run off",
+        "definition": "(to take) to run off.",
+        "pos": ""
+    }, {
+        "searchInput": ["closs", "passage through a house", "clos", "passage", "lane"],
+        "scots": "closs",
+        "english": "passage through a house",
+        "definition": "a passage through a house, a lane.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clour", "lump", "clower", "clowr", "blow", "fall", "lump occasioned by a blow", "lump occasioned by a fall"],
+        "scots": "clour",
+        "english": "lump",
+        "definition": "the lump occasioned by a blow, or fall.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clousse", "sluice", "clouse", "clowse", "clowsse", "closse"],
+        "scots": "clousse",
+        "english": "sluice",
+        "definition": "a sluice",
+        "pos": "s."
     }
 ]
