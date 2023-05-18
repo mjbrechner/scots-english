@@ -4891,5 +4891,65 @@
         "english": "sluice",
         "definition": "a sluice",
         "pos": "s."
+    }, {
+        "searchInput": ["clout", "blow", "patch"],
+        "scots": "clout",
+        "english": "blow",
+        "definition": "a blow, a patch.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clout", "patch", "patching", "clouting"],
+        "scots": "clout",
+        "english": "patch",
+        "definition": "to patch.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["clouts", "patches"],
+        "scots": "clouts",
+        "english": "patches",
+        "definition": "patches.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["clud", "cloud"],
+        "scots": "clud",
+        "english": "cloud",
+        "definition": "a cloud.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clung", "empty", "drawn", "drawn together"],
+        "scots": "clung",
+        "english": "empty",
+        "definition": "empty, drawn together.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["clunk", "emit the noise made by liquor in a barrel when shaken", "emit", "emit the noise", "noise", "liquor in a barrel", "shaken"],
+        "scots": "clunk",
+        "english": "emit the noise made by liquor in a barrel when shaken",
+        "definition": "to emit the noise made by liquor in a barrel when shaken.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["clunk", "blow", "noise"],
+        "scots": "clunk",
+        "english": "blow",
+        "definition": "the noise referred to above [to emit the noise made by liquor in a barrel when shaken], a blow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clype", "tell secrets", "telling secrets", "secrets", "secret", "tell a secret", "clipe"],
+        "scots": "clype",
+        "english": "tell secrets",
+        "definition": "to tell secrets.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["clyre", "glandular flesh", "glandular", "flesh", "clire", "klier", "klyre", "klire", "clier"],
+        "scots": "clyre",
+        "english": "glandular flesh",
+        "definition": "glandular flesh.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clyte", "fall", "falling", "clite", "clyting", "cliting", "get a clyte", "get a clite"],
+        "scots": "clyte",
+        "english": "fall",
+        "definition": "to fall; applicable to animals only; a person falling down a stair, upon the street, &c. is said to get a clyte.",
+        "pos": "v."
     }
 ]
