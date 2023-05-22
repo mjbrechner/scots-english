@@ -4951,5 +4951,77 @@
         "english": "fall",
         "definition": "to fall; applicable to animals only; a person falling down a stair, upon the street, &c. is said to get a clyte.",
         "pos": "v."
+    }, {
+        "searchInput": ["clytrie", "intestines", "intestines of animals", "clytry"],
+        "scots": "clytrie",
+        "english": "intestines",
+        "definition": "the intestines of animals.",
+        "pos": "s."
+    }, {
+        "searchInput": ["clytrie-market", "clytriemarket", "clytrie market", "place where intestines are sold", "clyrtie market", "clytry-market", "clytry market", "market", "clytrie", "clytry", "intestines", "intestines of animals"],
+        "scots": "clytrie-market",
+        "english": "place where intestines are sold",
+        "definition": "the place where such [clytrie: the intestines of animals] are sold.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cobble", "fishing boat", "fishing", "boat", "fishing-boat"],
+        "scots": "cobble",
+        "english": "fishing boat",
+        "definition": "a fishing boat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cock", "fuddled"],
+        "scots": "cock",
+        "english": "fuddled",
+        "definition": "fuddled.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cock", "mark played for at curling", "mark", "mark played for", "curling"],
+        "scots": "cock",
+        "english": "mark played for at curling",
+        "definition": "the mark played for at curling.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cock-a-ridy", "cock", "carrying a child on the shoulders", "cock-a-ridy", "carrying", "carrying a child", "cockaridy", "cock a ridy", "cock-a-riddy", "cockariddy", "cock a riddy", "cock-a-riddie", "cockariddie", "cock a riddie", "cock-a-ridie", "cockaridie", "cock a ridie"],
+        "scots": "cock-a-ridy",
+        "english": "carrying a child on the shoulders",
+        "definition": "the act of caryring a child on the shoulders, with a leg on each side of the head of the one who carries.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cock and pail", "spigot and faucet", "cock", "pail", "spigot", "faucet", "faucet and spigot", "pail and cock"],
+        "scots": "cock and pail",
+        "english": "spigot and faucet",
+        "definition": "a spigot and faucet.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cock laird", "proprietor and cultivator", "cock", "laird", "lord", "proprietor", "cultivator", "proprietor and cultivator of his own ground", "cock lord", "cocklaird", "cock-laird", "cocklord", "cock-lord"],
+        "scots": "cock laird",
+        "english": "proprietor and cultivator",
+        "definition": "one who is the proprietor and cultivator of his own ground.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cock stool", "pillory", "cockstool", "cock-stool", "cock", "stool"],
+        "scots": "cock stool",
+        "english": "pillory",
+        "definition": "a pillory.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cock sure", "quite certain", "cocksure", "cock-sure", "certain", "cock", "sure"],
+        "scots": "cock sure",
+        "english": "quite certain",
+        "definition": "quite certain.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cocker", "fondle", "cockering", "fondling", "flatter", "flattering", "encourage", "encouraging", "speak one fair", "speaking one fair", "speak fair", "speaking fair", "speak fairly", "speaking fairly"],
+        "scots": "cocker",
+        "english": "fondle",
+        "definition": "to fondle, to flatter, to encourage, to speak one fair.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cockernony", "gathering of hair", "gathering of a woman's hair", "gathering", "hair", "tied hair", "tied-up hair", "cockernoni", "cockernonie"],
+        "scots": "cockernony",
+        "english": "gathering of hair",
+        "definition": "the gathering of a woman's hair when it is tied up with a snood, a cap.",
+        "pos": "s."
     }
 ]
