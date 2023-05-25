@@ -5023,5 +5023,47 @@
         "english": "gathering of hair",
         "definition": "the gathering of a woman's hair when it is tied up with a snood, a cap.",
         "pos": "s."
+    }, {
+        "searchInput": ["cockle", "scallop", "cockel", "cokle", "cokel", "species of the scallop"],
+        "scots": "cockle",
+        "english": "scallop",
+        "definition": "a species of the scallop.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cockyleekie", "soup made of a cock", "soup", "cock", "leek", "leeks", "cocks", "cock-y-leekie", "cock-a-leekie", "cockaleekie", "cockaleeky", "cockyleekie", "cockaleeki", "cockyleeki", "cockieleekie", "cockie-leekie", "cockyleeky"],
+        "scots": "cockyleekie",
+        "english": "soup made of a cock",
+        "definition": "soup made of a cock, and seasoned with leeks.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cod", "pillow"],
+        "scots": "cod",
+        "english": "pillow",
+        "definition": "a pillow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cod", "wair", "wear", "ware", "cod wair", "pillow slip", "cod-wair", "codwair", "cod ware", "cod-ware", "codware", "cod wear", "cod-wear", "codwear", "pillow", "slip"],
+        "scots": "cod wair",
+        "english": "pillow slip",
+        "definition": "a pillow slip.",
+        "pos": "s."
+    }, {
+        "searchInput": ["co'er, coor", "cover", "covering", "coer", "co er", "co'ering", "coering", "co ering", "cooring", "co'er", "coor"],
+        "scots": "co'er, coor",
+        "english": "cover",
+        "definition": "to cover.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cog", "wooden dish", "dish", "wooden", "supping", "wooden dish for supping any thing from"],
+        "scots": "cog",
+        "english": "wooden dish",
+        "definition": "a wooden dish for supping any thing from.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coggie", "cog", "wooden", "dish", "supping", "wooden dish for supping any thing from", "coggy"],
+        "scots": "coggie",
+        "english": "cog",
+        "definition": "of cog [a wooden dish for supping any thing from].",
+        "pos": "s. dim."
     }
 ]
