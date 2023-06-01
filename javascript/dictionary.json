@@ -5065,5 +5065,77 @@
         "english": "cog",
         "definition": "of cog [a wooden dish for supping any thing from].",
         "pos": "s. dim."
+    }, {
+        "searchInput": ["coggle", "move backward and forward", "cogle", "coggel", "cogel", "move backward", "move backwards", "move forward", "move forwards", "move backwards and forwards", "moving backward and forward", "moving backward", "moving backwards", "moving forward", "moving forwards"],
+        "scots": "coggle",
+        "english": "move backward and forward",
+        "definition": "to move move backward and forward, in consequence of not standing fair.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cogglie", "insecure", "coggly", "coglie", "cogly", "in any position"],
+        "scots": "cogglie",
+        "english": "insecure",
+        "definition": "insecure, in any position.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["Coila", "district in Ayrshire", "coila"],
+        "scots": "Colia",
+        "english": "district in Ayrshire",
+        "definition": "a district in Ayrshire.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coll", "clip", "colling", "clipping", "snuff a candle", "snuffing a candle", "snuff", "snuffing", "candle"],
+        "scots": "coll",
+        "english": "clip",
+        "definition": "to clip, to snuff a candle.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["collegioner", "student at a college", "college student"],
+        "scots": "collegioner",
+        "english": "student at a college",
+        "definition": "a student at a college.",
+        "pos": "s."
+    }, {
+        "searchInput": ["colly", "dog", "collie"],
+        "scots": "colly",
+        "english": "dog",
+        "definition": "a dog.",
+        "pos": "s."
+    }, {
+        "searchInput": ["collyshangy", "uproar", "colly shangy", "colly-shangy", "collieshangy", "collie shangy", "collie-shangy", "collyshangie", "colly shangie", "colly-shangie", "collieshangie", "collie shangie", "collie-shangie"],
+        "scots": "collyshangy",
+        "english": "uproar",
+        "definition": "an uproar.",
+        "pos": "s."
+    }, {
+        "searchInput": ["comman', commaun", "command", "comman'", "comman", "commaun", "commaun'", "coman", "coman'", "comaun", "comaun'"],
+        "scots": "comman', commaun",
+        "english": "command",
+        "definition": "command.",
+        "pos": "s."
+    }, {
+        "searchInput": ["commaunds", "commandments", "commaund", "comaund", "comaunds", "command", "commands", "the commandments"],
+        "scots": "commaunds",
+        "english": "commandments",
+        "definition": "the commandments.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["condie, cundie", "conduit", "condie", "cundie", "condy", "cundy"],
+        "scots": "condie, cundie",
+        "english": "conduit",
+        "definition": "a conduit.",
+        "pos": "s."
+    }, {
+        "searchInput": ["confeir", "confer", "converse", "confeiring", "conferring", "conversing", "confier", "confiering", "confierring", "confeirring"],
+        "scots": "confeir",
+        "english": "confer",
+        "definition": "to confer, to converse.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["contradick", "contradict", "contradik", "contradic", "contradicking", "contradiking", "contradicing", "contradicting"],
+        "scots": "contradick",
+        "english": "contradict",
+        "definition": "to contradict.",
+        "pos": "v.a."
     }
 ]
