@@ -5137,5 +5137,71 @@
         "english": "contradict",
         "definition": "to contradict.",
         "pos": "v.a."
+    }, {
+        "searchInput": ["contrar", "contrary"],
+        "scots": "contrar",
+        "english": "contrary",
+        "definition": "contrary.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cood, cude", "cud", "cood", "cude"],
+        "scots": "cood, cude",
+        "english": "cud",
+        "definition": "the cud.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coodie", "tub", "coody", "urinal"],
+        "scots": "coodie",
+        "english": "tub",
+        "definition": "a tub, a urinal.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coof, cuif", "stupid fellow", "coof", "cuif", "stupid", "fool", "foolish"],
+        "scots": "coof, cuif",
+        "english": "stupid fellow",
+        "definition": "a stupid fellow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cooly, culzy", "flatter", "cooly", "culzy", "culzie", "flattering", "wheedle", "wheedling", "cooling", "culzing"],
+        "scots": "cooly, culzy",
+        "english": "flatter",
+        "definition": "to flatter, to wheedle.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["coony", "corner"],
+        "scots": "coony",
+        "english": "corner",
+        "definition": "a corner.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coony, cunzie", "money", "coony", "cunzie", "cunzy"],
+        "scots": "coony, cunzie",
+        "english": "money",
+        "definition": "money.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cooser, cuiser", "stallion", "cooser", "cuiser", "libertine", "country cooser", "country", "stout vulgar country fellow", "stout", "vulgar", "country fellow", "stout fellow", "vulgar fellow"],
+        "scots": "cooser, cuiser",
+        "english": "stallion",
+        "definition": "a stallion, a libertine; country cooser, a stout vulgar country fellow.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coost, cuist", "cast", "coost", "cuist", "coosted", "cuisted", "casted", "did cast"],
+        "scots": "coost, cuist",
+        "english": "cast",
+        "definition": "did cast.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["coostin, cuisten", "thrown", "coostin", "coosten", "cuisten", "cuistin", "cast", "casted", "throwed"],
+        "scots": "coostin, cuisten",
+        "english": "thrown",
+        "definition": "thrown, cast.",
+        "pos": "pas. part."
+    }, {
+        "searchInput": ["coot, koot, kuit", "ankle bone", "coot", "koot", "kuit", "cuit", "ankle", "ancle", "ancle bone", "bone"],
+        "scots": "coot, koot, kuit",
+        "english": "ankle bone",
+        "definition": "the ancle bone.",
+        "pos": "s."
     }
 ]
