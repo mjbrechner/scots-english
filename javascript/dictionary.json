@@ -5203,5 +5203,47 @@
         "english": "ankle bone",
         "definition": "the ancle bone.",
         "pos": "s."
+    }, {
+        "searchInput": ["cootie", "fowl", "fowl whose legs are feathered", "feathered", "cooty", "bird"],
+        "scots": "cootie",
+        "english": "fowl",
+        "definition": "a fowl whose legs are feathered.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cootie", "wooden dish", "cooty", "dish"],
+        "scots": "cootie",
+        "english": "wooden dish",
+        "definition": "a wooden dish.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cootikens", "spatterdashes", "cootiken", "cootykens", "cootyken", "cootie-kens", "cooty-kens", "cooty", "cootie", "spats", "spatter-dashes", "spatter dashes", "spatterdash", "spatter-dash", "spatter dash"],
+        "scots": "cootikens",
+        "english": "spatterdashes",
+        "definition": "spatterdashes.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cootle, cooter", "manage carefully", "cootle", "cooter", "cootel", "manage", "managing", "manage tenderly", "cootling", "cootering", "tenderly", "carefully", "nurse", "nursing"],
+        "scots": "cootle, cooter",
+        "english": "manage carefully",
+        "definition": "to manage carefully or tenderly, as a sick nurse does one ailing.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["corby", "raven", "corbie", "corbi"],
+        "scots": "corby",
+        "english": "raven",
+        "definition": "a raven.",
+        "pos": "s."
+    }, {
+        "searchInput": ["corby-messenger", "tardy one", "corbie-messenger", "corbie-messenger", "corby messenger", "corbie messenger", "corbi messenger", "corbymessenger", "corbiemessenger", "corbimessenger", "corby", "corbie", "corbi", "messenger", "tardy"],
+        "scots": "corby-messenger",
+        "english": "tardy one",
+        "definition": "a tardy one, or one who does not return with his message at all.",
+        "pos": "s."
+    }, {
+        "searchInput": ["core", "corps", "party", "under", "under-part", "under part", "underpart", "cor"],
+        "scots": "core",
+        "english": "corps",
+        "definition": "a corps, a party, the under part of any thing.",
+        "pos": "s."
     }
 ]
