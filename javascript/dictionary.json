@@ -5245,5 +5245,35 @@
         "english": "corps",
         "definition": "a corps, a party, the under part of any thing.",
         "pos": "s."
+    }, {
+        "searchInput": ["corky", "merry with liquor", "corki", "corkie", "merry", "liquor", "spirited"],
+        "scots": "corky",
+        "english": "merry with liquor",
+        "definition": "merry with liquor, spirited.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["corncraik", "land rail", "corn-craik", "corn craik", "corncraick", "corn-craick", "corn craick", "rail"],
+        "scots": "corncraik",
+        "english": "land rail",
+        "definition": "the land rail.",
+        "pos": "s."
+    }, {
+        "searchInput": ["corn", "feed with oats", "corning", "feeding", "feed", "feeding with oats", "oats", "oat"],
+        "scots": "corn",
+        "english": "feed with oats",
+        "definition": "to feed with oats.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["corp", "corpse"],
+        "scots": "corp",
+        "english": "corpse",
+        "definition": "a corpse.",
+        "pos": "s."
+    }, {
+        "searchInput": ["corse", "cross"],
+        "scots": "corse",
+        "english": "cross",
+        "definition": "a cross.",
+        "pos": "s."
     }
 ]
