@@ -5275,5 +5275,83 @@
         "english": "cross",
         "definition": "a cross.",
         "pos": "s."
+    }, {
+        "searchInput": ["corsybelly", "shirt", "infant's first shirt", "infant shirt", "infant's shirt", "first shirt", "corsy-belly", "corsy belly", "corsiebelly", "corsie-belly", "corsie belly", "corsiebellie", "corsie-bellie", "corsie bellie", "corsybellie", "corsy-bellie", "corsy bellie"],
+        "scots": "corsybelly",
+        "english": "shirt",
+        "definition": "an infant's first shirt.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cosh", "convenient", "snug", "quiet"],
+        "scots": "cosh",
+        "english": "convenient",
+        "definition": "convenient, snug, quiet.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cosh", "familiar"],
+        "scots": "cosh",
+        "english": "familiar",
+        "definition": "familiar.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cosie", "well secured", "cosie", "cozie", "cosy", "cozy", "well-secured", "warm", "sheltered", "snug"],
+        "scots": "cosie",
+        "english": "well secured",
+        "definition": "well secured, warm, sheltered.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cottar, cotter", "country tenant", "tenant", "cottar", "cotter", "cottager"],
+        "scots": "cottar, cotter",
+        "english": "country tenant",
+        "definition": "a country tenant, a cottager.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coucher", "coward"],
+        "scots": "coucher",
+        "english": "coward",
+        "definition": "a coward.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coud", "could"],
+        "scots": "coud",
+        "english": "could",
+        "definition": "could.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["couda", "could have", "coulda"],
+        "scots": "couda",
+        "english": "could have",
+        "definition": "could have.",
+        "pos": ""
+    }, {
+        "searchInput": ["coudna, coudnae", "could not", "coudna", "coudnae", "couldna", "couldnae", "could na", "could nae", "coud na", "coud nae"],
+        "scots": "coudna, coudnae",
+        "english": "could not",
+        "definition": "could not.",
+        "pos": ""
+    }, {
+        "searchInput": ["couk", "appear and disappear by fits", "appear", "disappear", "by fits", "fits", "appearing", "disappearing", "couking"],
+        "scots": "couk",
+        "english": "appear and disappear by fits",
+        "definition": "to appear and disappear by fits.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["couk", "manage dexterously", "couking", "manage", "dexterously", "managing", "managing dexterously", "dexterous"],
+        "scots": "couk",
+        "english": "manage dexterously",
+        "definition": "to manage dexterously.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["coukie", "tea bread", "cookie", "cookies", "couky", "cooky", "bread", "sweet roll", "roll", "sweet"],
+        "scots": "coukie",
+        "english": "tea bread",
+        "definition": "a sort of tea bread, a small sweet roll.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coul", "night cap", "cap", "cowl", "nightcap", "night-cap"],
+        "scots": "coul",
+        "english": "night cap",
+        "definition": "a night cap.",
+        "pos": "s."
     }
 ]
