@@ -5353,5 +5353,47 @@
         "english": "night cap",
         "definition": "a night cap.",
         "pos": "s."
+    }, {
+        "searchInput": ["coum", "culm", "coal dust", "coal", "dust", "soot"],
+        "scots": "coum",
+        "english": "culm",
+        "definition": "culm, coal dust, soot.",
+        "pos": "s."
+    }, {
+        "searchInput": ["coum", "soil with soot", "couming", "soiling", "soil", "soil with coal dust", "soil with soot or coal dust"],
+        "scots": "coum",
+        "english": "soil with soot",
+        "definition": "to soil with soot or coal dust.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cour", "couch", "couring", "couching", "couch as if afraid", "couching as if afraid", "cower", "cowr"],
+        "scots": "cour",
+        "english": "couch",
+        "definition": "to couch as if afraid.",
+        "pos": ""
+    }, {
+        "searchInput": ["course", "coarse"],
+        "scots": "course",
+        "english": "coarse",
+        "definition": "coarse.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["couter", "iron", "iron of a plough perpendicular to the share", "iron of a plough", "plough"],
+        "scots": "couter",
+        "english": "iron",
+        "definition": "the iron of a plough perpendicular to the share.",
+        "pos": "s."
+    }, {
+        "searchInput": ["couth", "familiar"],
+        "scots": "couth",
+        "english": "familiar",
+        "definition": "familiar.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["couthy", "frank", "kind", "affable", "couthie"],
+        "scots": "couthy",
+        "english": "frank",
+        "definition": "frank, kind, affable.",
+        "pos": "adj."
     }
 ]
