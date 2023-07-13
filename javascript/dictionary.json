@@ -5395,5 +5395,47 @@
         "english": "frank",
         "definition": "frank, kind, affable.",
         "pos": "adj."
+    }, {
+        "searchInput": ["cow", "cut", "cowing", "cutting", "clip", "clipping", "poll the head", "polling the head", "poll", "polling", "lop", "lopping"],
+        "scots": "cow",
+        "english": "cut",
+        "definition": "to cut, to clip, to poll the head, to lop.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cowan", "one not initiated in the mysteries of masonry", "not initiated", "initiated", "masonry", "mason", "masons"],
+        "scots": "cowan",
+        "english": "one not initiated in the mysteries of masonry",
+        "definition": "a term applied to one not initiated in the mysteries of masonry.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cowble, cobble", "overturn", "cowble", "cobble", "cowbling", "cobbling", "overturning", "overset", "oversetting"],
+        "scots": "cowble, cobble",
+        "english": "overturn",
+        "definition": "to overturn, to overset.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cowe", "frighten", "cow", "cowing", "coweing", "frightening", "overbear", "overbearing"],
+        "scots": "cowe",
+        "english": "frighten",
+        "definition": "to frighten, to overbear.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cowe", "frightful object", "frightful", "object", "cow"],
+        "scots": "cowe",
+        "english": "frightful object",
+        "definition": "a frightful object.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cowe", "frightful object", "frightful", "object", "cow"],
+        "scots": "cowe",
+        "english": "frightful object",
+        "definition": "a frightful object.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cowe", "bush", "cow", "broom", "broom cowe", "broom cow", "bush, generally of broom, as a broom cowe", "bush, generally of broom"],
+        "scots": "cowe",
+        "english": "bush",
+        "definition": "a bush, generally of broom, as a broom cowe.",
+        "pos": "s."
     }
 ]
