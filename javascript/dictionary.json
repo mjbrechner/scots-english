@@ -5437,5 +5437,41 @@
         "english": "bush",
         "definition": "a bush, generally of broom, as a broom cowe.",
         "pos": "s."
+    }, {
+        "searchInput": ["cowp", "barter", "cowping", "bartering"],
+        "scots": "cowp",
+        "english": "barter",
+        "definition": "to barter.",
+        "pos": "v.a. and n."
+    }, {
+        "searchInput": ["cowp", "fall", "cowping", "falling", "tumble", "tumbling"],
+        "scots": "cowp",
+        "english": "fall",
+        "definition": "to fall, to tumble.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cowp", "number"],
+        "scots": "cowp",
+        "english": "number",
+        "definition": "a number.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cowper, horse cowper", "horse dealer", "cowper", "horse cowper", "horse", "dealer"],
+        "scots": "cowper, horse cowper",
+        "english": "horse dealer",
+        "definition": "a horse dealer.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cowpers", "mounting", "cowper", "part of the mounting of a weaver's loom", "weaver's loom", "weaver", "loom", "part of the mounting"],
+        "scots": "cowpers",
+        "english": "mounting",
+        "definition": "part of the mounting of a weaver's loom.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cowt", "colt", "horse"],
+        "scots": "cowt",
+        "english": "colt",
+        "definition": "a colt, a horse.",
+        "pos": "s."
     }
 ]
