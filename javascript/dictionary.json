@@ -5294,12 +5294,6 @@
         "definition": "familiar.",
         "pos": "adj."
     }, {
-        "searchInput": ["cosie", "well secured", "cosie", "cozie", "cosy", "cozy", "well-secured", "warm", "sheltered", "snug"],
-        "scots": "cosie",
-        "english": "well secured",
-        "definition": "well secured, warm, sheltered.",
-        "pos": "adj."
-    }, {
         "searchInput": ["cottar, cotter", "country tenant", "tenant", "cottar", "cotter", "cottager"],
         "scots": "cottar, cotter",
         "english": "country tenant",
@@ -5473,5 +5467,47 @@
         "english": "colt",
         "definition": "a colt, a horse.",
         "pos": "s."
+    }, {
+        "searchInput": ["cozie, cosie", "well secured", "cozy", "cozie", "cosie", "cosy", "well-secured", "sheltered", "warm", "snug"],
+        "scots": "cozie, cosie",
+        "english": "well secured",
+        "definition": "well secured, sheltered, warm, snug",
+        "pos": "adj."
+    }, {
+        "searchInput": ["crabbit", "crabbed", "crabby", "ill-natured"],
+        "scots": "crabbit",
+        "english": "crabbed",
+        "definition": "crabbed, ill-natured.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["crack", "short space of time", "space of time", "time", "short time"],
+        "scots": "crack",
+        "english": "short space of time",
+        "definition": "a short space of time.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crack", "familiar conversation", "story", "conversation", "tender name for a lie", "lie", "lying", "familiar"],
+        "scots": "crack",
+        "english": "familiar conversation",
+        "definition": "a familiar conversation, a story, a tender name for a lie.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crack", "chat familiarly", "cracking", "chatting", "chat", "familiarly", "chatting familiarly"],
+        "scots": "crack",
+        "english": "chat familiarly",
+        "definition": "to chat familiarly.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["crack", "become bankrupt", "becoming bankrupt", "bankrupt", "cracking", "bankrupting"],
+        "scots": "crack",
+        "english": "become bankrupt",
+        "definition": "to become bankrupt.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["crackin", "conversing familiarly", "conversing", "familiarly", "cracking"],
+        "scots": "crackin",
+        "english": "conversing familiarly",
+        "definition": "conversing familiarly.",
+        "pos": "part. pres."
     }
 ]
