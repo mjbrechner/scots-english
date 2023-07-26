@@ -5509,5 +5509,47 @@
         "english": "conversing familiarly",
         "definition": "conversing familiarly.",
         "pos": "part. pres."
+    }, {
+        "searchInput": ["cracklins", "foul tallow", "foul", "tallow", "cracklings", "cracklin", "crackling"],
+        "scots": "cracklins",
+        "english": "foul tallow",
+        "definition": "foul tallow.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cracky", "talkative", "cracki", "crackie"],
+        "scots": "cracky",
+        "english": "talkative",
+        "definition": "talkative.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["craft", "field near a house", "field"],
+        "scots": "craft",
+        "english": "field near a house",
+        "definition": "a field near a house.",
+        "pos": "s."
+    }, {
+        "searchInput": ["craig", "throat"],
+        "scots": "craig",
+        "english": "throat",
+        "definition": "the throat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["craig", "crag"],
+        "scots": "craig",
+        "english": "crag",
+        "definition": "a crag.",
+        "pos": "s."
+    }, {
+        "searchInput": ["craig", "creak", "craiging", "creaking", "make a harsh noise", "making a harsh noise", "harsh noise", "noise"],
+        "scots": "craig",
+        "english": "creak",
+        "definition": "to creak, to make a harsh noise.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["craik", "harp", "craiking", "harping", "cry", "crying", "cry for a thing repeatedly", "cry for a thing repeatedly, and ill-naturedly", "cry repeatedly", "cry ill-naturedly", "repeatedly", "repeat", "ill-naturedly", "ill-natured"],
+        "scots": "craik",
+        "english": "harp",
+        "definition": "to harp, to cry for a thing repeatedly, and ill-naturedly.",
+        "pos": "v.n."
     }
 ]
