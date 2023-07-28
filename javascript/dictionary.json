@@ -5551,5 +5551,53 @@
         "english": "harp",
         "definition": "to harp, to cry for a thing repeatedly, and ill-naturedly.",
         "pos": "v.n."
+    }, {
+        "searchInput": ["craim", "merchant's shop", "merchant", "merchant shop", "shop"],
+        "scots": "craim",
+        "english": "merchant's shop",
+        "definition": "a Merchant's shop.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crait, crate", "hamper", "crait", "crate", "carrying glass", "glass"],
+        "scots": "crait, crate",
+        "english": "hamper",
+        "definition": "a hamper for carrying glass.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crampet", "cramp iron", "cramp", "iron", "staff", "shoe", "sole", "frost", "cramp iron for the end of a staff"],
+        "scots": "crampet",
+        "english": "cramp iron",
+        "definition": "a cramp iron for the end of a staff, an iron fixed on the sole of a shoe in time of frost.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crank", "weak", "infirm"],
+        "scots": "crank",
+        "english": "weak",
+        "definition": "weak, infirm.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["crank", "noise of an ungreased wheel", "noise", "ungreased wheel", "ungreased", "wheel"],
+        "scots": "crank",
+        "english": "noise of an ungreased wheel",
+        "definition": "the noise of an ungreased wheel, &c.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crank", "creak"],
+        "scots": "crank",
+        "english": "creak",
+        "definition": "a creak.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crankous", "fretful", "fretfull"],
+        "scots": "crankous",
+        "english": "fretful",
+        "definition": "fretful.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cranreuch", "hoar frost", "hoar", "frost", "hoarfrost", "hoar-frost", "cranruch", "cranrech", "crannreuch", "crann reuch", "cran-reuch", "cran reuch"],
+        "scots": "cranreuch",
+        "english": "hoar frost",
+        "definition": "hoar frost.",
+        "pos": "s."
     }
 ]
