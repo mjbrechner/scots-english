@@ -5599,5 +5599,41 @@
         "english": "hoar frost",
         "definition": "hoar frost.",
         "pos": "s."
+    }, {
+        "searchInput": ["crap", "crop"],
+        "scots": "crap",
+        "english": "crop",
+        "definition": "crop.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crap", "crop", "cropping", "crapping"],
+        "scots": "crap",
+        "english": "crop",
+        "definition": "to crop.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["crap", "did creep", "creep", "crop", "crapping", "cropping", "creeped", "crept", "crapped"],
+        "scots": "crap",
+        "english": "did creep",
+        "definition": "did creep.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["crap, crappie", "craw or crop of a fowl", "crap", "crappie", "crappy", "craw of a fowl", "crop of a fowl", "craw", "crop", "fowl"],
+        "scots": "crap, crappie",
+        "english": "craw or crop of a fowl",
+        "definition": "the craw or crop of a fowl.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crap", "top of a thing", "top", "fishing rod", "rod", "fishing"],
+        "scots": "crap",
+        "english": "top of a thing",
+        "definition": "the top of a thing, as the crap of a fishing rod.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crauk", "fret", "crauking", "crawk", "fretting", "complain", "complaining", "crawking", "crauk"],
+        "scots": "crauk",
+        "english": "fret",
+        "definition": "to fret, to complain.",
+        "pos": "v.n."
     }
 ]
