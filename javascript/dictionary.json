@@ -5635,5 +5635,41 @@
         "english": "fret",
         "definition": "to fret, to complain.",
         "pos": "v.n."
+    }, {
+        "searchInput": ["craw", "crow", "crawing", "crowing", "exult", "exulting", "boast", "boasting", "triumph", "triumphing"],
+        "scots": "craw",
+        "english": "crow",
+        "definition": "to crow, to exult, to boast, to triumph.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["craw", "crow", "crow of a cock", "boast", "triumph"],
+        "scots": "craw",
+        "english": "crow",
+        "definition": "the crow of a cock, a boast, a triumph.",
+        "pos": "s."
+    }, {
+        "searchInput": ["craw", "hook"],
+        "scots": "craw",
+        "english": "hook",
+        "definition": "a hook.",
+        "pos": "s."
+    }, {
+        "searchInput": ["craw (to pluck a)", "pluck a craw", "to pluck a craw", "challenge", "craw", "crawing", "challenge", "challenging", "challenge one about a supposed fault", "fault", "faulting"],
+        "scots": "craw (to pluck a)",
+        "english": "challenge",
+        "definition": "to challenge one about a supposed fault.",
+        "pos": ""
+    }, {
+        "searchInput": ["crawflower, crawtae", "ranunculus", "crawflower", "crawtae", "hyacinth", "buttercup", "flower", "flowers", "craw-flower", "craw flower", "craw-tae", "craw tae", "butter-cup", "butter cup"],
+        "scots": "crawflower, crawtae",
+        "english": "ranunculus",
+        "definition": "the ranunculus, also a name given to the flowers of the hyacinth.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crawtaes", "caltrops", "crawtae"],
+        "scots": "crawtaes",
+        "english": "caltrops",
+        "definition": "caltrops.",
+        "pos": "s. plur."
     }
 ]
