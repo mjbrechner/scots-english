@@ -5671,5 +5671,65 @@
         "english": "caltrops",
         "definition": "caltrops.",
         "pos": "s. plur."
+    }, {
+        "searchInput": ["creash, creesh", "grease", "creash", "creesh"],
+        "scots": "creash, creesh",
+        "english": "grease",
+        "definition": "grease.",
+        "pos": "s plur."
+    }, {
+        "searchInput": ["creel", "basket"],
+        "scots": "creel",
+        "english": "basket",
+        "definition": "a basket.",
+        "pos": "s."
+    }, {
+        "searchInput": ["creel (to be in or to have one's head in a)", "stupid", "to be stupid", "confused", "to be confused", "creel", "to be in creel", "to be in a creel", "be in a creel", "have one's head in a creel", "to have one's head in a creel"],
+        "scots": "creel (to be in or to have one's head in a)",
+        "english": "stupid",
+        "definition": "to be stupid, confused.",
+        "pos": ""
+    }, {
+        "searchInput": ["creepie", "small seat", "creepy", "seat"],
+        "scots": "creepie",
+        "english": "small seat",
+        "definition": "a small seat.",
+        "pos": "s."
+    }, {
+        "searchInput": ["creepie", "iron grapple", "creepy", "iron", "grapple"],
+        "scots": "creepie",
+        "english": "iron grapple",
+        "definition": "an iron grapple.",
+        "pos": "s."
+    }, {
+        "searchInput": ["creeshy", "greasy", "creeshie"],
+        "scots": "creeshy",
+        "english": "greasy",
+        "definition": "greasy.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["cress", "crease", "cressing", "crease", "creasing", "rumple", "rumpling"],
+        "scots": "cress",
+        "english": "crease",
+        "definition": "to crease, to rumple.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cress", "rumple"],
+        "scots": "cress",
+        "english": "rumple",
+        "definition": "a cress, a rumple.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crine", "shrink", "crining", "shrinking", "shrinking from dryness", "dhrink from dryness", "dryness", "dry"],
+        "scots": "crine",
+        "english": "shrink",
+        "definition": "to shrink from dryness.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["crock", "large earthen vessel", "earthen vessel", "vessel", "earthen"],
+        "scots": "crock",
+        "english": "large earthen vessel",
+        "definition": "a large earthen vessel.",
+        "pos": "s."
     }
 ]
