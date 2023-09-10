@@ -5731,5 +5731,35 @@
         "english": "large earthen vessel",
         "definition": "a large earthen vessel.",
         "pos": "s."
+    }, {
+        "searchInput": ["croichle", "cough", "coughing", "croichling"],
+        "scots": "croichle",
+        "english": "cough",
+        "definition": "to cough.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["croichle", "cough"],
+        "scots": "croichle",
+        "english": "cough",
+        "definition": "a cough.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crony", "companion", "tippling associate", "associate"],
+        "scots": "crony",
+        "english": "companion",
+        "definition": "a companion, a tippling associate.",
+        "pos": "s."
+    }, {
+        "searchInput": ["croo, crewe", "bed", "croo", "crewe", "crew", "mean hut", "hut"],
+        "scots": "croo, crewe",
+        "english": "bed",
+        "definition": "a bed, a mean hut.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crood, croud", "coo", "crood", "croud", "crooding", "crouding", "cooing", "dove", "coo as a dove", "coo like a dove"],
+        "scots": "crood, croud",
+        "english": "coo",
+        "definition": "to coo as a dove.",
+        "pos": "v.n."
     }
 ]
