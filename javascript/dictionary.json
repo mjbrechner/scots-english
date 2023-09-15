@@ -5761,5 +5761,43 @@
         "english": "coo",
         "definition": "to coo as a dove.",
         "pos": "v.n."
+    }, {
+        "searchInput": ["croon, crune", "hum", "croon", "crune", "crooning", "cruning", "humming", "hum a tune", "tune", "moan", "moaning"],
+        "scots": "croon, crune",
+        "english": "hum",
+        "definition": "to hum a tune, to moan.",
+        "pos": "v.n. and a."
+    }, {
+        "searchInput": ["croon", "moan", "melancholy drawling tune", "tune", "drawling tune", "melancholy", "drawling", "crune"],
+        "scots": "croon",
+        "english": "moan",
+        "definition": "a moan, a melancholy drawling tune.",
+        "pos": "s."
+    }, {
+        "searchInput": ["croove", "basket", "sort of basket which is dragged for catching fish", "basket which is dragged", "basket which is dragged for catching fish"],
+        "scots": "croove",
+        "english": "basket",
+        "definition": "a sort of basket which is dragged for catching fish.",
+        "pos": "s."
+    }, {
+        "searchInput": ["croun", "crown"],
+        "scots": "croun",
+        "english": "crown",
+        "definition": "a crown",
+        "pos": "s."
+    }, {
+        "searchInput": ["croup", "difficulty of breathing", "an extreme difficulty of breathing, affecting children", "breathing"],
+        "scots": "croup",
+        "english": "difficulty of breathing",
+        "definition": "an extreme difficulty of breathing, affecting children.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crouse", "courageous", "crowse", "proud spirited", "proud-spirited", "proud", "spirited"],
+        "scots": "crouse",
+        "english": "courageous",
+        "definition": "courageous, proud spirited.",
+        "pos": "adj."
     }
+
+
 ]
