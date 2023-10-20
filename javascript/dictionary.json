@@ -5797,6 +5797,42 @@
         "english": "courageous",
         "definition": "courageous, proud spirited.",
         "pos": "adj."
+    }, {
+        "searchInput": ["crowdie", "thick gruel", "crowdy", "gruel"],
+        "scots": "crowdie",
+        "english": "thick gruel",
+        "definition": "thick gruel.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crowdie time", "breakfast time", "breakfast", "break-fast", "crowdie", "crowdy", "crowdie-time", "crowdy time", "crowdy-time"],
+        "scots": "crowdie time",
+        "english": "breakfast time",
+        "definition": "breakfast time.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crowl", "crawl", "crawling", "crowling"],
+        "scots": "crowl",
+        "english": "crawl",
+        "definition": "to crawl.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cruck", "crook"],
+        "scots": "cruck",
+        "english": "crook",
+        "definition": "a crook.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cruck", "hook", "hook for suspending a pot over a fire", "hook for suspending a pot"],
+        "scots": "cruck",
+        "english": "hook",
+        "definition": "a hook for suspending a pot over a fire.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cruck", "crook", "crooking", "crucking"],
+        "scots": "cruck",
+        "english": "crook",
+        "definition": "to crook.",
+        "pos": "v.a."
     }
 
 
