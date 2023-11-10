@@ -5833,6 +5833,42 @@
         "english": "crook",
         "definition": "to crook.",
         "pos": "v.a."
+    }, {
+        "searchInput": ["cruckie, croukie", "six-pence", "cruckie", "crucky", "croukie", "crouky", "crookie", "crooky", "six pence", "pence"],
+        "scots": "cruckie, croukie",
+        "english": "six-pence",
+        "definition": "a cant name for a six-pence.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cruckit", "crooked"],
+        "scots": "cruckit",
+        "english": "crooked",
+        "definition": "crooked.",
+        "pos": "pas. part."
+    }, {
+        "searchInput": ["cruds", "curds", "curd", "crud"],
+        "scots": "cruds",
+        "english": "curds",
+        "definition": "curds.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cruels", "king's evil", "the king's evil", "the King's evil", "King's evil", "evil", "cruel", "king"],
+        "scots": "cruels",
+        "english": "king's evil",
+        "definition": "the King's evil.",
+        "pos": "s. plur."
+    }, {
+        "searchInput": ["cruisie", "oil lamp", "cruisy", "oil", "lamp"],
+        "scots": "cruisie",
+        "english": "oil lamp",
+        "definition": "an oil lamp.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crulge", "draw or press together", "draw together", "press together", "be in a state of contraction", "in a state of contraction", "state of contraction", "contraction", "together", "draw", "drawing", "press", "pressing", "crulging"],
+        "scots": "crulge",
+        "english": "draw or press together",
+        "definition": "to draw or press together, to be in a state of contraction.",
+        "pos": "v.a. and n."
     }
 
 
