@@ -5720,7 +5720,7 @@
         "definition": "a cress, a rumple.",
         "pos": "s."
     }, {
-        "searchInput": ["crine", "shrink", "crining", "shrinking", "shrinking from dryness", "dhrink from dryness", "dryness", "dry"],
+        "searchInput": ["crine", "shrink", "crining", "shrinking", "shrinking from dryness", "dhrink from dryness", "dryness", "dry", "cryne", "cryning"],
         "scots": "crine",
         "english": "shrink",
         "definition": "to shrink from dryness.",
@@ -5869,6 +5869,78 @@
         "english": "draw or press together",
         "definition": "to draw or press together, to be in a state of contraction.",
         "pos": "v.a. and n."
+    }, {
+        "searchInput": ["crummie", "cow's name with crooked horns", "crummy", "horns", "cow", "cow's name", "crooked horns", "crooked"],
+        "scots": "crummie",
+        "english": "cow's name with crooked horns",
+        "definition": "a cow's name with crooked horns.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crump, crumpie", "friable", "crump", "crumpie", "crumpi", "crumpy", "fryable"],
+        "scots": "crump, crumpie",
+        "english": "friable",
+        "definition": "friable.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["crump", "grind", "crumping", "grinding", "grind a friable substance with the teeth", "grind a friable substance", "grind a fryable substance", "grind with the teeth", "teeth", "teeth grinding"],
+        "scots": "crump",
+        "english": "grind",
+        "definition": "to grind a friable substance with the teeth.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["crunkle", "crease", "crunkling", "creasing", "rumple", "rumpling"],
+        "scots": "crunkle",
+        "english": "crease",
+        "definition": "to crease, to rumple",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["crunch", "small piece", "piece"],
+        "scots": "crunch",
+        "english": "small piece",
+        "definition": "a small piece.",
+        "pos": "s."
+    }, {
+        "searchInput": ["crunch", "break small", "crunching", "break small with the teeth", "break with the teeth", "breaking", "break", "breaking with the teeth", "teeth"],
+        "scots": "crunch",
+        "english": "break small",
+        "definition": "to break small with the teeth.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["crunt", "blow", "such a blow as may be given by an knotted or crooked stick"],
+        "scots": "crunt",
+        "english": "blow",
+        "definition": "such a blow as may be given by an knotted or crooked stick.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cry", "be in labour", "crying", "be in labor", "to be in labour", "to be in labor", "labor", "labour", "labouring", "laboring"],
+        "scots": "cry",
+        "english": "be in labour",
+        "definition": "to be in labour.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cry", "publish the banns of marriage", "crying", "bann", "banns", "publishing", "publish", "banns of marriage", "bann of marriage", "marriage"],
+        "scots": "cry",
+        "english": "publish the banns of marriage",
+        "definition": "to publish the banns of marriage. In this case the person whose banns are proclaimed, is said to be cried.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["crying-wife", "woman in labour", "cryingwife", "crying wife", "crying", "wife", "woman", "woman in labor", "labour", "labor", "person in labour", "person in labor"],
+        "scots": "crying-wife",
+        "english": "woman in labour",
+        "definition": "a woman in labour.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cryne", "shrink", "crine", "cryning", "crining", "shrinking"],
+        "scots": "cryne",
+        "english": "shrink",
+        "definition": "to shrink. See crine.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cubbirt", "cupboard", "cubbert", "cup-board", "cup board"],
+        "scots": "cubbirt",
+        "english": "cupboard",
+        "definition": "cupboard.",
+        "pos": "s."
     }
 
 
