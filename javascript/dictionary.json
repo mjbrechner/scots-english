@@ -5941,7 +5941,60 @@
         "english": "cupboard",
         "definition": "cupboard.",
         "pos": "s."
+    }, {
+        "searchInput": ["cud", "short cudgel", "cudgel"],
+        "scots": "cud",
+        "english": "short cudgel",
+        "definition": "a short cudgel.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cuddeigh", "bribe", "present", "gift"],
+        "scots": "cuddeigh",
+        "english": "bribe",
+        "definition": "a bribe, a present.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cuddle", "fondle", "cuddling", "fondling", "caress", "caressing"],
+        "scots": "cuddle",
+        "english": "fondle",
+        "definition": "to fondle, to caress.",
+        "pos": "v."
+    }, {
+        "searchInput": ["cuddie", "ass", "cuddy"],
+        "scots": "cuddie",
+        "english": "ass",
+        "definition": "an ass.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cuff of the neck", "the fleshy part of the neck behind", "cuff", "neck", "fleshy", "fleshy part", "behind the neck"],
+        "scots": "cuff of the neck",
+        "english": "the fleshy part of the neck behind",
+        "definition": "the fleshy part of the neck behind.",
+        "pos": ""
+    }, {
+        "searchInput": ["cummer, kimmer", "gossip", "cummer", "kimmer", "female gossip"],
+        "scots": "cummer, kimmer",
+        "english": "gossip",
+        "definition": "a female gossip, a term of contempt used to a woman.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cummer", "cumber", "cummering", "cumbering"],
+        "scots": "cummer",
+        "english": "cumber",
+        "definition": "to cumber.",
+        "pos": "v.a."
+    }, {
+        "searchInput": ["cummer", "incumbrance", "encumbrance", "incumberance"],
+        "scots": "cummer",
+        "english": "incumbrance",
+        "definition": "incumbrance.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cummock", "staff", "short staff", "crooked head"],
+        "scots": "cummock",
+        "english": "staff",
+        "definition": "a short staff with a crooked head.",
+        "pos": "s."
     }
-
 
 ]
