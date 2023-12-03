@@ -5995,6 +5995,54 @@
         "english": "staff",
         "definition": "a short staff with a crooked head.",
         "pos": "s."
+    }, {
+        "searchInput": ["cun", "taste", "cunning", "tasting", "learn", "learning", "know", "knowing"],
+        "scots": "cun",
+        "english": "taste",
+        "definition": "to taste, to learn, to know.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["cupple", "rafter", "cuple", "cupples", "cuples", "rafters"],
+        "scots": "cupple",
+        "english": "rafter",
+        "definition": "a rafter.",
+        "pos": "s."
+    }, {
+        "searchInput": ["cupplin", "back bone", "cuppling", "backbone", "bone", "bottom of the back bone", "bottom of the backbone", "bottom of the back-bone", "back-bone"],
+        "scots": "cupplin",
+        "english": "back bone",
+        "definition": "the bottom of the back bone.",
+        "pos": "s."
+    }, {
+        "searchInput": ["curchie", "curtsey", "curtchie", "curtchy", "curchy"],
+        "scots": "curchie",
+        "english": "curtsey",
+        "definition": "a curtsey.",
+        "pos": "s."
+    }, {
+        "searchInput": ["curchie", "curtsey", "curtchie", "curtchy", "curchy", "curtseying", "curching", "curchying"],
+        "scots": "curchie",
+        "english": "curtsey",
+        "definition": " to curtsey.",
+        "pos": "v.n."
+    }, {
+        "searchInput": ["curcuddie", "play", "curcuddy", "cur-cuddie", "cur-cuddy", "play among children", "hop", "hopping", "crouching", "crouch", "crouching manner"],
+        "scots": "curcuddie",
+        "english": "play",
+        "definition": "a play among children in which they hop in a crouching manner.",
+        "pos": "s."
+    }, {
+        "searchInput": ["curcudyuch", "fond", "curcuddyuch", "familiar"],
+        "scots": "curcudyuch",
+        "english": "fond",
+        "definition": "fond, familiar.",
+        "pos": "adj."
+    }, {
+        "searchInput": ["curfuffle", "dishevel", "curfuffling", "disheveling", "dishevelling", "carfuffle", "carfuffling", "kerfuffle", "kerfuffling"],
+        "scots": "curfuffle",
+        "english": "dishevel",
+        "definition": "to dishevel.",
+        "pos": "v.a."
     }
-
+    
 ]
