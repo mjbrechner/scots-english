@@ -8,7 +8,7 @@ let userInputValue = userInput.value.toLowerCase();
 document.getElementById("search-box").focus();
 
 async function getDictionary() {
-    const response = await fetch("javascript/dictionary.json");
+    const response = await fetch("javascript/dictionary2.json");
     const data = await response.json();
 
     let numberOfDictionaryMatches = 0;

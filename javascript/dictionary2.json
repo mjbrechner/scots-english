@@ -1,0 +1,271 @@
+[{
+    "searchInput": ["a'", "all", "a"],
+    "scots": "a'",
+    "english": "all",
+    "definition": "all.",
+    "pos": "a."
+}, {
+    "searchInput": ["aboon", "above"],
+    "scots": "aboon",
+    "english": "above",
+    "definition": "above.",
+    "pos": "prep."
+}, {
+    "searchInput": ["absteen", "abstain"],
+    "scots": "absteen",
+    "english": "abstain",
+    "definition": "abstain.",
+    "pos": "v."
+}, {
+    "searchInput": ["ae", "one"],
+    "scots": "ae",
+    "english": "one",
+    "definition": "one.",
+    "pos": "a."
+}, {
+    "searchInput": ["aefauld", "single", "sincere"],
+    "scots": "aefauld",
+    "english": "single",
+    "definition": "single; sincere.",
+    "pos": "a."
+}, {
+    "searchInput": ["aefauldness", "sincerity"],
+    "scots": "aefauldness",
+    "english": "sincerity",
+    "definition": "sincerity.",
+    "pos": "n."
+}, {
+    "searchInput": ["agley", "oblique", "aside"],
+    "scots": "agley",
+    "english": "oblique",
+    "definition": "oblique; aside",
+    "pos": "adv."
+}, {
+    "searchInput": ["a'gate", "everywhere", "agate", "a gate", "all ways", "allways"],
+    "scots": "a'gate",
+    "english": "everywhere",
+    "definition": "everywhere; all ways",
+    "pos": "adv."
+}, {
+    "searchInput": ["ahint", "behind"],
+    "scots": "ahint",
+    "english": "behind",
+    "definition": "behind.",
+    "pos": "prep."
+}, {
+    "searchInput": ["aiblins", "perhaps", "aiblin"],
+    "scots": "aiblins",
+    "english": "perhaps",
+    "definition": "perhaps.",
+    "pos": "prep."
+}, {
+    "searchInput": ["ainsel", "one's own self", "self", "oneself", "one's self"],
+    "scots": "ainsel",
+    "english": "one's own self",
+    "definition": "one's own self.",
+    "pos": "n."
+}, {
+    "searchInput": ["airn", "iron"],
+    "scots": "airn",
+    "english": "iron",
+    "definition": "iron.",
+    "pos": "n."
+}, {
+    "searchInput": ["airt", "direction", "direct", "to direct", "directing"],
+    "scots": "airt",
+    "english": "direction",
+    "definition": "direction; to direct.",
+    "pos": "n. and v."
+}, {
+    "searchInput": ["airtit", "directed"],
+    "scots": "airtit",
+    "english": "directed",
+    "definition": "directed.",
+    "pos": "v."
+}, {
+    "searchInput": ["\"airt or pairt\"", "anything at all.", "airt or pairt", "airt", "pairt"],
+    "scots": "\"airt or pairt\"",
+    "english": "anything at all.",
+    "definition": "anything at all..",
+    "pos": "n."
+}, {
+    "searchInput": ["allenar, allenarlie", "solely", "allenar", "allenarlie", "allenarly", "exclusively"],
+    "scots": "allenar, allenarlie",
+    "english": "solely",
+    "definition": "solely, exclusively.",
+    "pos": "adv."
+}, {
+    "searchInput": ["aiss, assis, ase", "ashes", "aiss", "assis", "ase", "ash"],
+    "scots": "aiss, assis, ase",
+    "english": "ashes",
+    "definition": "ashes.",
+    "pos": "n."
+}, {
+    "searchInput": ["aiqual, aqual", "equal", "aiqual", "aqual"],
+    "scots": "aiqual, aqual",
+    "english": "equal",
+    "definition": "equal.",
+    "pos": "a."
+}, {
+    "searchInput": ["a-low", "on fire", "alow", "allow", "al-low", "fire", "blazing", "blaze", "a low"],
+    "scots": "a-low",
+    "english": "on fire",
+    "definition": "on fire, blazing.",
+    "pos": "adv."
+}, {
+    "searchInput": ["alane", "alone", "only"],
+    "scots": "alane",
+    "english": "alone",
+    "definition": "alone, only.",
+    "pos": ""
+}, {
+    "searchInput": ["als", "also", "alz"],
+    "scots": "als",
+    "english": "also",
+    "definition": "[alz] also.",
+    "pos": "conj."
+}, {
+    "searchInput": ["an", "if"],
+    "scots": "an",
+    "english": "if",
+    "definition": "if.",
+    "pos": "prep."
+}, {
+    "searchInput": ["anent", "concerning", "concern"],
+    "scots": "anent",
+    "english": "concerning",
+    "definition": "concerning.",
+    "pos": "prep."
+}, {
+    "searchInput": ["ance", "once", "yence"],
+    "scots": "ance",
+    "english": "once",
+    "definition": "[yence] once.",
+    "pos": "adv."
+}, {
+    "searchInput": ["argle-bargle", "wordy disputation", "arglebargle", "argle bargle", "argle", "bargle", "wordy", "disputation"],
+    "scots": "argle-bargle",
+    "english": "wordy disputation",
+    "definition": "wordy disputation.",
+    "pos": "n."
+}, {
+    "searchInput": ["arles", "deposit", "advance payment", "advance", "payment"],
+    "scots": "arles",
+    "english": "deposit",
+    "definition": "\"deposit,\" advance payment.",
+    "pos": "n."
+}, {
+    "searchInput": ["aschet", "platter"],
+    "scots": "aschet",
+    "english": "platter",
+    "definition": "platter.",
+    "pos": "n."
+}, {
+    "searchInput": ["askins", "the thing asked", "thing asked", "asked", "ask", "askin"],
+    "scots": "askins",
+    "english": "the thing asked",
+    "definition": "the thing asked.",
+    "pos": "n."
+}, {
+    "searchInput": ["athort", "across"],
+    "scots": "athort",
+    "english": "across",
+    "definition": "across.",
+    "pos": "prep."
+}, {
+    "searchInput": ["attent", "attention", "atent"],
+    "scots": "attent",
+    "english": "attention",
+    "definition": "attention.",
+    "pos": "n."
+}, {
+    "searchInput": ["assoilzie", "acquit", "acquit on trial", "acquiting", "assoilzy", "asoilzie", "asoilzy", "acquitting", "assoilzing", "asoilzing"],
+    "scots": "assoilzie",
+    "english": "acquit",
+    "definition": "to acquit on trial.",
+    "pos": "v."
+}, {
+    "searchInput": ["aucht", "eight", "8"],
+    "scots": "aucht",
+    "english": "eight",
+    "definition": "(gutt.) eight.",
+    "pos": "a."
+}, {
+    "searchInput": ["aucht", "own", "possess", "possess", "owning", "auchting"],
+    "scots": "aucht",
+    "english": "own",
+    "definition": "own, possess.",
+    "pos": "v."
+}, {
+    "searchInput": ["auchth", "eighth", "8th"],
+    "scots": "auchth",
+    "english": "eighth",
+    "definition": "(gutt.) eighth.",
+    "pos": "a."
+}, {
+    "searchInput": ["auchty", "eighty"],
+    "scots": "auchty",
+    "english": "eighty",
+    "definition": "(gutt.) eighty",
+    "pos": "a."
+}, {
+    "searchInput": ["auld", "old", "elder"],
+    "scots": "auld",
+    "english": "old",
+    "definition": "old, elder.",
+    "pos": "a."
+}, {
+    "searchInput": ["aumoneries", "presses", "aumonerie", "aumonery", "presses for storing alms", "storing alms", "storing", "alm", "alms"],
+    "scots": "aumoneries",
+    "english": "presses",
+    "definition": "presses for storing alms.",
+    "pos": "n."
+}, {
+    "searchInput": ["ava", "at all"],
+    "scots": "ava",
+    "english": "at all",
+    "definition": "at all.",
+    "pos": "adv."
+}, {
+    "searchInput": ["avisement", "advice"],
+    "scots": "avisement",
+    "english": "advice",
+    "definition": "advice.",
+    "pos": "n."
+}, {
+    "searchInput": ["avoutrie", "adultery", "avoutry"],
+    "scots": "avoutrie",
+    "english": "adultery",
+    "definition": "adultery.",
+    "pos": "n."
+}, {
+    "searchInput": ["awa", "away"],
+    "scots": "awa",
+    "english": "away",
+    "definition": "away.",
+    "pos": "prep."
+}, {
+    "searchInput": ["awesome", "awful", "awsome"],
+    "scots": "awesome",
+    "english": "awful",
+    "definition": "awful.",
+    "pos": "a."
+}, {
+    "searchInput": ["awmous", "alms", "alm", "awmos"],
+    "scots": "awmous",
+    "english": "alms",
+    "definition": "alms.",
+    "pos": "n."
+}, {
+    "searchInput": ["awmoners", "almoners", "awmoner", "almoner"],
+    "scots": "awmoners",
+    "english": "almoners",
+    "definition": "almoners.",
+    "pos": "n."
+}, {
+    "searchInput": ["awn", "owning", "own"],
+    "scots": "awn",
+    "english": "owning",
+    "definition": "owning.",
+    "pos": "v."
+}]
