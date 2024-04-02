@@ -268,4 +268,448 @@
     "english": "owning",
     "definition": "owning.",
     "pos": "v."
+}, {
+    "searchInput": ["backlins", "backwards", "backlin", "backward"],
+    "scots": "backlins",
+    "english": "backwards",
+    "definition": "backwards.",
+    "pos": "prep."
+}, {
+    "searchInput": ["baff", "blow", "stroke", "blow with the hand", "stroke with the hand", "hand", "hands"],
+    "scots": "baff",
+    "english": "blow",
+    "definition": "a blow or stroke with the hand.",
+    "pos": "n."
+}, {
+    "searchInput": ["bairn", "child", "children"],
+    "scots": "bairn",
+    "english": "child",
+    "definition": "child.",
+    "pos": "n."
+}, {
+    "searchInput": ["bairnheid", "childhood"],
+    "scots": "bairnheid",
+    "english": "childhood",
+    "definition": "childhood.",
+    "pos": "n."
+}, {
+    "searchInput": ["ban", "curse", "cursing", "baning", "banning"],
+    "scots": "ban",
+    "english": "curse",
+    "definition": "curse.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["bannock", "bread", "flat cake of bread", "flat cake", "cake"],
+    "scots": "bannock",
+    "english": "bread",
+    "definition": "flat cake of bread.",
+    "pos": "n."
+}, {
+    "searchInput": ["barm", "yeast"],
+    "scots": "barm",
+    "english": "yeast",
+    "definition": "yeast.",
+    "pos": "a."
+}, {
+    "searchInput": ["barrie-coat", "swaddling-cloth", "barriecoat", "barrie coat", "barry coat", "barry-coat", "barrycoat", "barry", "barrie", "coat", "infant's swaddling cloth", "infant's swaddling-cloth", "infant's cloth", "cloth", "swaddling", "swaddling cloth", "swaddlingcloth"],
+    "scots": "barrie-coat",
+    "english": "swaddling-cloth",
+    "definition": "infant's swaddling-cloth.",
+    "pos": "b."
+}, {
+    "searchInput": ["barrin", "excepting", "barin"],
+    "scots": "barrin",
+    "english": "excepting",
+    "definition": "excepting.",
+    "pos": "v."
+}, {
+    "searchInput": ["bauks", "balances", "bauk", "balance", "weighing beam", "weighing beams", "weighing", "beam", "beams"],
+    "scots": "bauks",
+    "english": "balances",
+    "definition": "balances, weighing beams.",
+    "pos": "n."
+}, {
+    "searchInput": ["bauld", "bold"],
+    "scots": "bauld",
+    "english": "bold",
+    "definition": "bold.",
+    "pos": "a."
+}, {
+    "searchInput": ["beadle", "sexton"],
+    "scots": "beadle",
+    "english": "sexton",
+    "definition": "sexton.",
+    "pos": "n."
+}, {
+    "searchInput": ["bearin-pains", "pangs of childbirth", "bearinpains", "bearin pains", "bearin", "bearing", "bearing-pains", "bearingpains", "bearing pains", "pain", "pains", "pangs", "childbirth", "birth", "birthing", "pangs of birth", "pang"],
+    "scots": "bearin-pains",
+    "english": "pangs of childbirth",
+    "definition": "pangs of childbirth.",
+    "pos": "n."
+}, {
+    "searchInput": ["beass", "beasts", "cattle", "beast", "beas"],
+    "scots": "beass",
+    "english": "beasts",
+    "definition": "beasts, cattle.",
+    "pos": "n."
+}, {
+    "searchInput": ["befa'", "befall", "befa", "befaw", "feballs", "befalling"],
+    "scots": "befa'",
+    "english": "befall",
+    "definition": "[befaw] befall.",
+    "pos": "v."
+}, {
+    "searchInput": ["befaun", "befallen", "befall"],
+    "scots": "befaun",
+    "english": "befallen",
+    "definition": "befallen.",
+    "pos": "v."
+}, {
+    "searchInput": ["beild", "shelter", "beilding", "sheltering"],
+    "scots": "beild",
+    "english": "shelter",
+    "definition": "shelter.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["bein", "being", "be", "to be"],
+    "scots": "bein",
+    "english": "being",
+    "definition": "being.",
+    "pos": "v."
+}, {
+    "searchInput": ["begude", "began", "begud", "begin", "beginning"],
+    "scots": "begude",
+    "english": "began",
+    "definition": "began.",
+    "pos": "v."
+}, {
+    "searchInput": ["behauden", "beholden", "compel", "behaud", "compelled", "behold"],
+    "scots": "behauden",
+    "english": "beholden",
+    "definition": "beholden, compelled.",
+    "pos": "v."
+}, {
+    "searchInput": ["belyve", "by and bye", "belive", "beliv", "by and by", "soon", "bye and by", "bye and bye"],
+    "scots": "belyve",
+    "english": "by and bye",
+    "definition": "by and bye, soon.",
+    "pos": "adv."
+}, {
+    "searchInput": ["ben", "inner part of the house", "inner part", "house", "inner part of a house", "part of the house", "part of a house"],
+    "scots": "ben",
+    "english": "inner part of the house",
+    "definition": "an inner part of the house.",
+    "pos": "n."
+}, {
+    "searchInput": ["benmaist", "innermost", "ben-maist", "ben maist", "inner-most", "inner most"],
+    "scots": "benmaist",
+    "english": "innermost",
+    "definition": "innermost.",
+    "pos": "a."
+}, {
+    "searchInput": ["besocht", "besought", "besoughting", "besochting"],
+    "scots": "besocht",
+    "english": "besought",
+    "definition": "(gutt.) besought.",
+    "pos": "v."
+}, {
+    "searchInput": ["bethocht", "bethought", "bethoughting", "bethochting"],
+    "scots": "bethocht",
+    "english": "bethought",
+    "definition": "(gutt.) bethought.",
+    "pos": "v."
+}, {
+    "searchInput": ["biddable", "obedient", "biddible"],
+    "scots": "biddable",
+    "english": "obedient",
+    "definition": "obedient.",
+    "pos": "a."
+}, {
+    "searchInput": ["biddens", "biddings", "bidden", "bidding", "orders", "order"],
+    "scots": "biddens",
+    "english": "biddings",
+    "definition": "biddings, orders.",
+    "pos": "n."
+}, {
+    "searchInput": ["bide", "remain", "biding", "remaining"],
+    "scots": "bide",
+    "english": "remain",
+    "definition": "remain.",
+    "pos": "v."
+}, {
+    "searchInput": ["bigg", "build", "big", "bigging", "biging", "building"],
+    "scots": "bigg",
+    "english": "build",
+    "definition": "build.",
+    "pos": "v."
+}, {
+    "searchInput": ["biggit", "built", "bigit"],
+    "scots": "biggit",
+    "english": "built",
+    "definition": "built.",
+    "pos": "v."
+}, {
+    "searchInput": ["bin", "bind", "bining", "binning", "binding"],
+    "scots": "bin",
+    "english": "bind",
+    "definition": "(short i) bind.",
+    "pos": "v."
+}, {
+    "searchInput": ["binna", "be not", "not", "not be", "binnae"],
+    "scots": "binna",
+    "english": "be not",
+    "definition": "be not.",
+    "pos": "v."
+}, {
+    "searchInput": ["bink", "bench"],
+    "scots": "bink",
+    "english": "bench",
+    "definition": "bench.",
+    "pos": "n."
+}, {
+    "searchInput": ["birr", "energy", "bir", "vigour", "vigor"],
+    "scots": "birr",
+    "english": "energy",
+    "definition": "energy, vigour.",
+    "pos": "n."
+}, {
+    "searchInput": ["birsle", "scorch", "birsling", "scorching"],
+    "scots": "birsle",
+    "english": "scorch",
+    "definition": "scorch.",
+    "pos": "v."
+}, {
+    "searchInput": ["blads", "pieces", "blad", "piece"],
+    "scots": "blads",
+    "english": "pieces",
+    "definition": "pieces.",
+    "pos": "n."
+}, {
+    "searchInput": ["blae", "bluish", "livid", "pale", "blay"],
+    "scots": "blae",
+    "english": "bluish",
+    "definition": "bluish, livid, pale.",
+    "pos": "a."
+}, {
+    "searchInput": ["blains", "boils", "blain", "boil", "sores", "sore"],
+    "scots": "blains",
+    "english": "boils",
+    "definition": "boils, sores.",
+    "pos": "n."
+}, {
+    "searchInput": ["blate", "bashful", "shrinking"],
+    "scots": "blate",
+    "english": "bashful",
+    "definition": "bashful, shrinking.",
+    "pos": "a."
+}, {
+    "searchInput": ["blear't", "made blind", "blear t", "bleart", "blear'ted", "blearted", "blind", "blinded", "blinding", "blearting"],
+    "scots": "blear't",
+    "english": "made blind",
+    "definition": "made blind.",
+    "pos": "v."
+}, {
+    "searchInput": ["blink", "glance", "glancing", "blinking"],
+    "scots": "blink",
+    "english": "glance",
+    "definition": "glance.",
+    "pos": "n. and v."
+}, {
+    "searchInput": ["blirtit", "wept", "wept noisily", "noisily wept", "weep", "blirt", "weeping", "weeped", "noisily weep", "noisily weeping", "weeped noisily", "weeping noisily"],
+    "scots": "blirtit",
+    "english": "wept",
+    "definition": "wept noisily.",
+    "pos": "v."
+}, {
+    "searchInput": ["blude", "blood"],
+    "scots": "blude",
+    "english": "blood",
+    "definition": "blood.",
+    "pos": "n."
+}, {
+    "searchInput": ["blythe", "joyful", "blithe", "joy", "full of joy", "blyth", "blith"],
+    "scots": "blythe",
+    "english": "joyful",
+    "definition": "(th hard) joyful.",
+    "pos": "a."
+}, {
+    "searchInput": ["bocht", "bought", "bochting", "buying", "buy", "bochted"],
+    "scots": "bocht",
+    "english": "bought",
+    "definition": "(gutt.) bought.",
+    "pos": "v."
+}, {
+    "searchInput": ["bode", "invitation"],
+    "scots": "bode",
+    "english": "invitation",
+    "definition": "invitation.",
+    "pos": "n."
+}, {
+    "searchInput": ["bodle", "2d. Scots", "coin", "small coin", "2d scots", "2nd scots", "2d. scots", "second scots", "2 d. scots", "2 d scots"],
+    "scots": "bodle",
+    "english": "2d. Scots",
+    "definition": "2d. Scots (a small coin).",
+    "pos": "n."
+}, {
+    "searchInput": ["bogle", "something frightful", "frightful", "apparition"],
+    "scots": "bogle",
+    "english": "something frightful",
+    "definition": "something frightful; an apparition.",
+    "pos": "n."
+}, {
+    "searchInput": ["bonnie", "beautiful", "bonny"],
+    "scots": "bonnie",
+    "english": "beautiful",
+    "definition": "beautiful.",
+    "pos": "a."
+}, {
+    "searchInput": ["boonmaist", "uppermost", "boon maist", "boon-maist", "upper-most", "upper", "upper most"],
+    "scots": "boonmaist",
+    "english": "uppermost",
+    "definition": "uppermost.",
+    "pos": "a."
+}, {
+    "searchInput": ["born-face", "natural face", "bornface", "born face", "face", "born", "natural"],
+    "scots": "born-face",
+    "english": "natural face",
+    "definition": "natural face.",
+    "pos": "n."
+}, {
+    "searchInput": ["bothie", "hut", "bothy"],
+    "scots": "bothie",
+    "english": "hut",
+    "definition": "a hut.",
+    "pos": "n."
+}, {
+    "searchInput": ["bouk", "bulk", "bouking", "bulking"],
+    "scots": "bouk",
+    "english": "bulk",
+    "definition": "bulk.",
+    "pos": "n. and v."
+}, {
+    "searchInput": ["bower", "private chamber", "private", "chamber"],
+    "scots": "bower",
+    "english": "private chamber",
+    "definition": "private chamber.",
+    "pos": "n."
+}, {
+    "searchInput": ["bowet", "small lantern", "lantern"],
+    "scots": "bowet",
+    "english": "small lantern",
+    "definition": "small lantern.",
+    "pos": "n."
+}, {
+    "searchInput": ["braid", "broad"],
+    "scots": "braid",
+    "english": "broad",
+    "definition": "broad.",
+    "pos": "a."
+}, {
+    "searchInput": ["braird", "sprout", "brairding", "sprouting"],
+    "scots": "braird",
+    "english": "sprout",
+    "definition": "sprout.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["brandered", "broiled", "brander", "broil", "brandering", "broiling"],
+    "scots": "brandered",
+    "english": "broiled",
+    "definition": "broiled.",
+    "pos": "v."
+}, {
+    "searchInput": ["braw", "gaudy", "adorn", "adorned"],
+    "scots": "braw",
+    "english": "gaudy",
+    "definition": "gaudy, adorned.",
+    "pos": "a."
+}, {
+    "searchInput": ["braws", "adornments", "braw", "adornment"],
+    "scots": "braws",
+    "english": "adornments",
+    "definition": "adornments.",
+    "pos": "n."
+}, {
+    "searchInput": ["brawlie", "gaudily", "brawly", "finely", "exceedingly well", "exceedingly", "well"],
+    "scots": "brawlie",
+    "english": "gaudily",
+    "definition": "gaudily, finely; also exceedingly well.",
+    "pos": "adv."
+}, {
+    "searchInput": ["breist", "breast"],
+    "scots": "breist",
+    "english": "breast",
+    "definition": "breast.",
+    "pos": "n."
+}, {
+    "searchInput": ["breck, brek", "break", "breck", "brecking", "brek", "breking", "breaking"],
+    "scots": "breck, brek",
+    "english": "break",
+    "definition": "break.",
+    "pos": "v."
+}, {
+    "searchInput": ["brekin", "breaking", "breking", "breckin", "brecking"],
+    "scots": "brekin",
+    "english": "breaking",
+    "definition": "breaking.",
+    "pos": "v."
+}, {
+    "searchInput": ["bruilzie", "noisy quarrel", "bruilzy", "noisy", "quarrel"],
+    "scots": "bruilzie",
+    "english": "noisy quarrel",
+    "definition": "noisy quarrel.",
+    "pos": "n."
+}, {
+    "searchInput": ["brunt", "burned", "burn", "burning"],
+    "scots": "brunt",
+    "english": "burned",
+    "definition": "burned.",
+    "pos": "v."
+}, {
+    "searchInput": ["brunstane", "brimstone", "brun-stane", "brun stane", "brunstone", "brun-stone", "brun stone"],
+    "scots": "brunstane",
+    "english": "brimstone",
+    "definition": "brimstone.",
+    "pos": "n."
+}, {
+    "searchInput": ["bude", "must"],
+    "scots": "bude",
+    "english": "must",
+    "definition": "must.",
+    "pos": "v."
+}, {
+    "searchInput": ["buird", "board", "table"],
+    "scots": "buird",
+    "english": "board",
+    "definition": "board, table.",
+    "pos": "n."
+}, {
+    "searchInput": ["bun'", "bound", "bun", "buning", "bunning", "bounding"],
+    "scots": "bun'",
+    "english": "bound",
+    "definition": "bound.",
+    "pos": "v."
+}, {
+    "searchInput": ["burs'n", "being burst", "burs n", "bursn", "burst", "bursting"],
+    "scots": "burs'n",
+    "english": "being burst",
+    "definition": "being burst.",
+    "pos": "a."
+}, {
+    "searchInput": ["busk", "adorn", "busking", "adorning", "dress"],
+    "scots": "busk",
+    "english": "adorn",
+    "definition": "adorn.",
+    "pos": "v."
+}, {
+    "searchInput": ["buskit", "adorned", "dressed", "busked"],
+    "scots": "buskit",
+    "english": "adorned",
+    "definition": "adorned, dressed.",
+    "pos": "v."
+}, {
+    "searchInput": ["buss", "bush", "bus"],
+    "scots": "buss",
+    "english": "bush",
+    "definition": "bush.",
+    "pos": "n."
 }]
