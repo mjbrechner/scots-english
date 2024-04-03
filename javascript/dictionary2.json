@@ -712,4 +712,148 @@
     "english": "bush",
     "definition": "bush.",
     "pos": "n."
+}, {
+    "searchInput": ["ca'", "call", "ca", "caw", "turn", "drive", "cawing", "caing", "turning", "driving"],
+    "scots": "ca'",
+    "english": "call",
+    "definition": "[caw] call; turn; drive.",
+    "pos": "v."
+}, {
+    "searchInput": ["caber", "rafter-pole", "rafter pole", "rafterpole", "rafter", "pole", "stick", "large round stick", "large stick", "round stick"],
+    "scots": "caber",
+    "english": "rafter-pole",
+    "definition": "rafter-pole, or large round stick.",
+    "pos": "n."
+}, {
+    "searchInput": ["ca'd", "called", "cad", "ca d", "named"],
+    "scots": "ca'd",
+    "english": "called",
+    "definition": "called, named.",
+    "pos": "v."
+}, {
+    "searchInput": ["callant", "boy"],
+    "scots": "callant",
+    "english": "boy",
+    "definition": "boy.",
+    "pos": "n."
+}, {
+    "searchInput": ["canna", "cannot", "can not", "cannae", "can-not"],
+    "scots": "canna",
+    "english": "cannot",
+    "definition": "cannot.",
+    "pos": "v."
+}, {
+    "searchInput": ["cannie", "gentle", "canny", "cautious"],
+    "scots": "cannie",
+    "english": "gentle",
+    "definition": "gentle; cautious.",
+    "pos": "a."
+}, {
+    "searchInput": ["canniness", "gentleness", "cautiousness"],
+    "scots": "canniness",
+    "english": "gentleness",
+    "definition": "gentleness.",
+    "pos": "n."
+}, {
+    "searchInput": ["cap", "equal", "complete"],
+    "scots": "cap",
+    "english": "equal",
+    "definition": "equal; complete.",
+    "pos": "v."
+}, {
+    "searchInput": ["cark", "burden", "burden of care", "care"],
+    "scots": "cark",
+    "english": "burden",
+    "definition": "burden (of care).",
+    "pos": "n."
+}, {
+    "searchInput": ["cauldrife", "chilly", "cauld rife", "cauld-rife", "cauld", "rife", "cold"],
+    "scots": "cauldrife",
+    "english": "chilly",
+    "definition": "chilly, cold.",
+    "pos": "a."
+}, {
+    "searchInput": ["causey", "causeway", "causie", "causy", "pavement", "pavement of street", "street", "street pavement"],
+    "scots": "causey",
+    "english": "causeway",
+    "definition": "causeway, pavement of street.",
+    "pos": "n."
+}, {
+    "searchInput": ["cauves", "calves", "cauve", "calve"],
+    "scots": "cauves",
+    "english": "calves",
+    "definition": "calves.",
+    "pos": "n."
+}, {
+    "searchInput": ["ca'tion, caution", "bail", "ca tion", "cation", "caution", "security", "ca'tion"],
+    "scots": "ca'tion, caution",
+    "english": "bail",
+    "definition": "bail, security.",
+    "pos": "n."
+}, {
+    "searchInput": ["challenge", "rebuke"],
+    "scots": "challenge",
+    "english": "rebuke",
+    "definition": "rebuke.",
+    "pos": "n."
+}, {
+    "searchInput": ["chap", "knock", "knock at a door"],
+    "scots": "chap",
+    "english": "knock",
+    "definition": "knock at a door.",
+    "pos": "n."
+}, {
+    "searchInput": ["chap", "knock", "knocking", "chaping", "chapping", "knock slightly", "slightly knock", "slightly knocking"],
+    "scots": "chap",
+    "english": "knock",
+    "definition": "to knock slightly.",
+    "pos": "v."
+}, {
+    "searchInput": ["chaumer", "chamber"],
+    "scots": "chaumer",
+    "english": "chamber",
+    "definition": "chamber.",
+    "pos": "n."
+}, {
+    "searchInput": ["chekit", "restrained", "checkit", "chek", "check", "restrain", "restraining"],
+    "scots": "chekit",
+    "english": "restrained",
+    "definition": "restrained.",
+    "pos": "v."
+}, {
+    "searchInput": ["cheenge", "change", "cheenging", "changing"],
+    "scots": "cheenge",
+    "english": "change",
+    "definition": "change.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["chief", "intimate"],
+    "scots": "chief",
+    "english": "intimate",
+    "definition": "intimate.",
+    "pos": "a."
+}, {
+    "searchInput": ["chokit", "choked", "chockit", "chok", "chock", "choke", "choking"],
+    "scots": "chokit",
+    "english": "choked",
+    "definition": "choked.",
+    "pos": "v."
+}, {
+    "searchInput": ["clachan", "hamlet"],
+    "scots": "clachan",
+    "english": "hamlet",
+    "definition": "(gutt.) hamlet.",
+    "pos": "n."
+}, {
+    "searchInput": ["claith", "cloth"],
+    "scots": "claith",
+    "english": "cloth",
+    "definition": "cloth.",
+    "pos": "n."
+}, {
+    "searchInput": ["clash", "talk", "tell-tale", "tell tale", "telltale", "tell", "tale", "gossip", "tell tell", "telling", "tell-tell", "telltell", "tale-tale", "taletale", "tale tale", "tale-tell", "taletell", "tale tell"],
+    "scots": "clash",
+    "english": "talk",
+    "definition": "talk; tell-tale, gossip.",
+    "pos": "n."
 }]
