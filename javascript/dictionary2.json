@@ -856,4 +856,112 @@
     "english": "talk",
     "definition": "talk; tell-tale, gossip.",
     "pos": "n."
+}, {
+    "searchInput": ["claucht", "clutched", "clutch", "clutching", "caught"],
+    "scots": "claucht",
+    "english": "clutched",
+    "definition": "(gutt.), clutched, caught.",
+    "pos": "v."
+}, {
+    "searchInput": ["clean", "entirely"],
+    "scots": "clean",
+    "english": "entirely",
+    "definition": "entirely.",
+    "pos": "a. and adv."
+}, {
+    "searchInput": ["cleckin", "brood", "clekin"],
+    "scots": "cleckin",
+    "english": "brood",
+    "definition": "brood.",
+    "pos": "n."
+}, {
+    "searchInput": ["cleedin", "clothing", "clothes"],
+    "scots": "cleedin",
+    "english": "clothing",
+    "definition": "clothing.",
+    "pos": "n."
+}, {
+    "searchInput": ["cleedit", "clad", "cleed"],
+    "scots": "cleedit",
+    "english": "clad",
+    "definition": "clad.",
+    "pos": "v."
+}, {
+    "searchInput": ["cleek", "snatch", "cleeking", "snatching", "jerk", "jerking", "hook", "cleeck"],
+    "scots": "cleek",
+    "english": "snatch",
+    "definition": "snatch, jerk; a hook.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["clippit", "sheared", "clipped", "clip", "clipping", "shear", "shearing", "snatched", "snatch", "snatching"],
+    "scots": "clippit",
+    "english": "sheared",
+    "definition": "sheared; snatched.",
+    "pos": "v."
+}, {
+    "searchInput": ["clour", "blow", "cloor", "strike", "beat"],
+    "scots": "clour",
+    "english": "blow",
+    "definition": "[cloor] a blow; to strike or beat.",
+    "pos": "c. and n."
+}, {
+    "searchInput": ["close", "blind alley", "alley", "side street", "narrow side street", "street", "narrow street", "side-street", "sidestreet"],
+    "scots": "close",
+    "english": "blind alley",
+    "definition": "(soft s.) blind alley, a narrow side street.",
+    "pos": "n."
+}, {
+    "searchInput": ["clout", "patch", "rag"],
+    "scots": "clout",
+    "english": "patch",
+    "definition": "patch; a rag.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["clud", "cloud"],
+    "scots": "clud",
+    "english": "cloud",
+    "definition": "cloud.",
+    "pos": "n."
+}, {
+    "searchInput": ["coft", "purchased", "purchase", "purchasing"],
+    "scots": "coft",
+    "english": "purchased",
+    "definition": "purchased.",
+    "pos": "v."
+}, {
+    "searchInput": ["cog", "vessel", "vessel for holding or carrying liquids", "vessel for holding liquids", "vessel for holding liquid", "vessel for carrying liquids", "vessel for carrying liquid"],
+    "scots": "cog",
+    "english": "vessel",
+    "definition": "vessel for holding or carrying liquids.",
+    "pos": "n."
+}, {
+    "searchInput": ["colleaguin", "advising together", "advising", "advise", "advise together"],
+    "scots": "colleaguin",
+    "english": "advising together",
+    "definition": "advising together.",
+    "pos": "v."
+}, {
+    "searchInput": ["compleent", "complaint"],
+    "scots": "compleent",
+    "english": "complaint",
+    "definition": "complaint.",
+    "pos": "n."
+}, {
+    "searchInput": ["coont", "count", "coonting", "counting"],
+    "scots": "coont",
+    "english": "count",
+    "definition": "count.",
+    "pos": "v."
+}, {
+    "searchInput": ["coonsel", "counsel", "advice"],
+    "scots": "coonsel",
+    "english": "counsel",
+    "definition": "counsel, advice.",
+    "pos": "n."
+}, {
+    "searchInput": ["corbies", "ravens", "corbie", "corby", "raven"],
+    "scots": "corbies",
+    "english": "ravens",
+    "definition": "ravens.",
+    "pos": "n."
 }]
