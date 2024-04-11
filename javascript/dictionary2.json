@@ -964,4 +964,88 @@
     "english": "ravens",
     "definition": "ravens.",
     "pos": "n."
+}, {
+    "searchInput": ["corp", "corpse"],
+    "scots": "corp",
+    "english": "corpse",
+    "definition": "corpse.",
+    "pos": "n."
+}, {
+    "searchInput": ["coud", "could"],
+    "scots": "coud",
+    "english": "could",
+    "definition": "could.",
+    "pos": "v."
+}, {
+    "searchInput": ["co'way", "come away", "coway", "co way", "come on"],
+    "scots": "co'way",
+    "english": "come away",
+    "definition": "come away! \"come on!\"",
+    "pos": "interj."
+}, {
+    "searchInput": ["cowt", "colt"],
+    "scots": "cowt",
+    "english": "colt",
+    "definition": "colt.",
+    "pos": "n."
+}, {
+    "searchInput": ["craik", "entreat", "craick", "craiking", "craicking", "entreating", "persistently entreat", "persistently entreating"],
+    "scots": "craik",
+    "english": "entreat",
+    "definition": "persistently entreat.",
+    "pos": "v."
+}, {
+    "searchInput": ["craig", "crag", "high rock", "rock"],
+    "scots": "craig",
+    "english": "crag",
+    "definition": "crag, high rock",
+    "pos": "n."
+}, {
+    "searchInput": ["crampit", "restricted", "restrict", "restricting"],
+    "scots": "crampit",
+    "english": "restricted",
+    "definition": "restricted.",
+    "pos": "v."
+}, {
+    "searchInput": ["craw", "crow", "crawing", "crowing"],
+    "scots": "craw",
+    "english": "crow",
+    "definition": "crow.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["creel", "hamper", "basket", "large basket"],
+    "scots": "creel",
+    "english": "hamper",
+    "definition": "hamper, large basket.",
+    "pos": "n."
+}, {
+    "searchInput": ["crouse", "cheery", "crooce", "joyful"],
+    "scots": "crouse",
+    "english": "cheery",
+    "definition": "[crooce] cheery, joyful.",
+    "pos": "a."
+}, {
+    "searchInput": ["croon", "murmur", "crooning", "murmuring", "softly murmur in song", "softly murmur", "softly murmuring in song", "softly murmuring", "murmur in song", "murmuring in song", "sing", "singing"],
+    "scots": "croon",
+    "english": "murmur",
+    "definition": "softly murmur in song.",
+    "pos": "v."
+}, {
+    "searchInput": ["croft", "small holding of land", "small holding", "holding", "land"],
+    "scots": "croft",
+    "english": "small holding of land",
+    "definition": "small holding of land.",
+    "pos": "n."
+}, {
+    "searchInput": ["crowlin", "crawling", "crowling", "crowl", "crawl"],
+    "scots": "crowlin",
+    "english": "crawling",
+    "definition": "crawling.",
+    "pos": "a. and v."
+}, {
+    "searchInput": ["cruppen", "crept", "cruppin", "creep", "creeping", "cruppeng", "crupping"],
+    "scots": "cruppen",
+    "english": "crept",
+    "definition": "crept.",
+    "pos": "v."
 }]
