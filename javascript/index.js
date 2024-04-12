@@ -75,6 +75,8 @@ async function getDictionary() {
 
 function searchButtonClick() {
     userInputValue = userInput.value.toLowerCase();
+    userInputValue = userInputValue.replace(/’/g, `'`);
+    userInputValue = userInputValue.replace(/[-‒–―—‐]/g, '-');
     displayedResults.innerHTML = "";
     getDictionary();
 }
