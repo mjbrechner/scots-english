@@ -1048,4 +1048,58 @@
     "english": "crept",
     "definition": "crept.",
     "pos": "v."
+}, {
+    "searchInput": ["crusie", "lamp", "open lamp", "small lamp", "small open lamp", "cup", "oil cup", "oil", "cup for oil", "crusy"],
+    "scots": "crusie",
+    "english": "lamp",
+    "definition": "(hard s) small open lamp; cup for oil",
+    "pos": "n."
+}, {
+    "searchInput": ["crystit", "anointed", "anointit", "crysted", "anoint", "anointing", "crysting"],
+    "scots": "crystit",
+    "english": "anointed",
+    "definition": "anointit [sic].",
+    "pos": "v."
+}, {
+    "searchInput": ["cuist", "did cast", "cast", "casted", "casting"],
+    "scots": "cuist",
+    "english": "did cast",
+    "definition": "did cast.",
+    "pos": "v."
+}, {
+    "searchInput": ["cuit", "ankle"],
+    "scots": "cuit",
+    "english": "ankle",
+    "definition": "ankle.",
+    "pos": "n."
+}, {
+    "searchInput": ["cule", "cool"],
+    "scots": "cule",
+    "english": "cool",
+    "definition": "cool.",
+    "pos": "v. and a."
+}, {
+    "searchInput": ["cuisten, cuis'n", "was cast", "cast", "casted", "cuisten", "casting", "cuis'n", "cuisn", "cuis n", "cuist'n", "cuistn", "cuist n"],
+    "scots": "cuisten, cuis'n",
+    "english": "was cast",
+    "definition": "was cast.",
+    "pos": "v."
+}, {
+    "searchInput": ["cuis'n oot", "cast out", "cuis n oot", "cuisn oot", "cuist'n oot", "cuis oot", "cuis out", "cuist n oot", "cuistn oot", "cuist'n out", "cuist n out", "cuistn out", "cuist oot", "cuist out", "cuis n out", "cuisn out", "casted out", "casted", "cast", "casting", "casting out", "quarrelled", "quarrell", "quarrelling"],
+    "scots": "cuis'n oot",
+    "english": "cast out",
+    "definition": "cast out; quarrelled.",
+    "pos": "v."
+}, {
+    "searchInput": ["cushat", "ringdove", "ring-dove", "ring dove", "dove", "pigeon"],
+    "scots": "cushat",
+    "english": "ringdove",
+    "definition": "ringdove.",
+    "pos": "n."
+}, {
+    "searchInput": ["cuttit", "did cut", "cut", "cutted", "cutting"],
+    "scots": "cuttit",
+    "english": "did cut",
+    "definition": "did cut.",
+    "pos": "v."
 }]
