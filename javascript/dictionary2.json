@@ -1102,4 +1102,226 @@
     "english": "did cut",
     "definition": "did cut.",
     "pos": "v."
+}, {
+    "searchInput": ["dadd", "piece", "dad", "piece of anything", "large piece"],
+    "scots": "dadd",
+    "english": "piece",
+    "definition": "a piece, especially a somewhat large piece, of anything.",
+    "pos": ""
+}, {
+    "searchInput": ["daddit, daudit", "struck", "daddit", "daudit", "struck with the open hand", "strike", "strike with the open hand", "dauddit", "dadit", "dawdit", "dawddit"],
+    "scots": "daddit, daudit",
+    "english": "struck",
+    "definition": "struck with the open hand.",
+    "pos": "v."
+}, {
+    "searchInput": ["dae", "do"],
+    "scots": "dae",
+    "english": "do",
+    "definition": "do.",
+    "pos": ""
+}, {
+    "searchInput": ["daen", "doing"],
+    "scots": "daen",
+    "english": "doing",
+    "definition": "doing.",
+    "pos": "v."
+}, {
+    "searchInput": ["daffin", "idle toying", "idle", "toying", "toy", "dafin", "daffing", "dafing"],
+    "scots": "daffin",
+    "english": "idle toying",
+    "definition": "idle toying.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["daft", "foolish", "insane"],
+    "scots": "daft",
+    "english": "foolish",
+    "definition": "foolish; insane.",
+    "pos": "a."
+}, {
+    "searchInput": ["dang, dung", "struck", "dang", "dung", "knocked over", "knocked", "knock", "knock over"],
+    "scots": "dang, dung",
+    "english": "struck",
+    "definition": "struck; knocked over.",
+    "pos": "v."
+}, {
+    "searchInput": ["darg", "specific task", "task", "day's work", "work"],
+    "scots": "darg",
+    "english": "specific task",
+    "definition": "a specific task, a day's work.",
+    "pos": "n."
+}, {
+    "searchInput": ["dauntit", "intimidated", "intimidate", "intimidating"],
+    "scots": "dauntit",
+    "english": "intimidated",
+    "definition": "intimidated.",
+    "pos": "v."
+}, {
+    "searchInput": ["daur", "dare"],
+    "scots": "daur",
+    "english": "dare",
+    "definition": "dare.",
+    "pos": "v."
+}, {
+    "searchInput": ["dawin", "dawning", "dawn", "dawnin"],
+    "scots": "dawin",
+    "english": "dawning",
+    "definition": "dawning; dawn.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["dawtit", "petted", "fondled", "fondle", "pet", "fondling", "petting"],
+    "scots": "dawtit",
+    "english": "petted",
+    "definition": "fondled, petted.",
+    "pos": "a."
+}, {
+    "searchInput": ["deal", "board", "plank"],
+    "scots": "deal",
+    "english": "board",
+    "definition": "board or plank.",
+    "pos": "n."
+}, {
+    "searchInput": ["dee", "die", "dying"],
+    "scots": "dee",
+    "english": "die",
+    "definition": "die.",
+    "pos": "v."
+}, {
+    "searchInput": ["dee't", "died", "deet", "dee t"],
+    "scots": "dee't",
+    "english": "died",
+    "definition": "died.",
+    "pos": "v."
+}, {
+    "searchInput": ["deid-strake", "death-stroke", "deidstrake", "deathstroke", "deid strake", "death stroke"],
+    "scots": "deid-strake",
+    "english": "death-stroke",
+    "definition": "death-stroke.",
+    "pos": "n."
+}, {
+    "searchInput": ["deif", "deaf", "dief"],
+    "scots": "deif",
+    "english": "deaf",
+    "definition": "deaf.",
+    "pos": "a."
+}, {
+    "searchInput": ["denner", "dinner"],
+    "scots": "denner",
+    "english": "dinner",
+    "definition": "dinner.",
+    "pos": "n."
+}, {
+    "searchInput": ["dementit", "deranged", "deranged in mind"],
+    "scots": "dementit",
+    "english": "deranged",
+    "definition": "deranged in mind.",
+    "pos": "a."
+}, {
+    "searchInput": ["delicht", "delight", "delighting", "delighted"],
+    "scots": "delicht",
+    "english": "delight",
+    "definition": "(gutt.) delight.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["dentit", "bruised", "dent", "dented", "dinted", "dint", "bruise"],
+    "scots": "dentit",
+    "english": "bruised",
+    "definition": "bruised, dinted.",
+    "pos": "a."
+}, {
+    "searchInput": ["depone", "depose", "make statement", "make a statement", "statement", "desposing", "desposed"],
+    "scots": "depone",
+    "english": "depose",
+    "definition": "depose; make statement.",
+    "pos": "v."
+}, {
+    "searchInput": ["differ", "difference"],
+    "scots": "differ",
+    "english": "difference",
+    "definition": "difference.",
+    "pos": "a."
+}, {
+    "searchInput": ["dight", "wipe", "wiping"],
+    "scots": "dight",
+    "english": "wipe",
+    "definition": "(gutt.) wipe.",
+    "pos": "v."
+}, {
+    "searchInput": ["dightins", "refuse", "dightings", "dightin", "dighting"],
+    "scots": "dightins",
+    "english": "refuse",
+    "definition": "(gutt.) refuse.",
+    "pos": "n."
+}, {
+    "searchInput": ["ding", "stroke", "stroking", "knock", "knocking"],
+    "scots": "ding",
+    "english": "stroke",
+    "definition": "stroke or knock.",
+    "pos": "v."
+}, {
+    "searchInput": ["dink", "neat"],
+    "scots": "dink",
+    "english": "neat",
+    "definition": "neat.",
+    "pos": "a."
+}, {
+    "searchInput": ["dink", "ornament", "set off", "ornamenting", "setting off", "set", "setting"],
+    "scots": "dink",
+    "english": "ornament",
+    "definition": "to ornament; set off.",
+    "pos": "v."
+}, {
+    "searchInput": ["dinna", "do not", "dont", "don't", "dinnae"],
+    "scots": "dinna",
+    "english": "do not",
+    "definition": "do not.",
+    "pos": "v."
+}, {
+    "searchInput": ["dirl", "thrill", "thrilling", "cause a tremulous motion", "causing a tremulous motion", "cause motion", "causing motion", "motion"],
+    "scots": "dirl",
+    "english": "thrill",
+    "definition": "thrill; cause a tremulous motion.",
+    "pos": "v."
+}, {
+    "searchInput": ["dis", "does"],
+    "scots": "dis",
+    "english": "does",
+    "definition": "(hard s) does.",
+    "pos": "v."
+}, {
+    "searchInput": ["disgeist", "digest", "disgeisting", "digesting", "disgesting", "disgest"],
+    "scots": "disgeist",
+    "english": "digest",
+    "definition": "digest.",
+    "pos": "v."
+}, {
+    "searchInput": ["disjaskit", "disordered", "dilapidated"],
+    "scots": "disjaskit",
+    "english": "disordered",
+    "definition": "disordered, dilapidated.",
+    "pos": "a."
+}, {
+    "searchInput": ["div", "do"],
+    "scots": "div",
+    "english": "do",
+    "definition": "do.",
+    "pos": "v."
+}, {
+    "searchInput": ["divna", "do not", "don't", "dont"],
+    "scots": "divna",
+    "english": "do not",
+    "definition": "do not.",
+    "pos": "v."
+}, {
+    "searchInput": ["diveesions", "divisions", "diveesion", "division", "divesions", "divesion"],
+    "scots": "diveesions",
+    "english": "divisions",
+    "definition": "divisions.",
+    "pos": "n."
+}, {
+    "searchInput": ["dochter", "daughter"],
+    "scots": "dochter",
+    "english": "daughter",
+    "definition": "(gutt.) daughter.",
+    "pos": "n."
 }]
