@@ -1139,7 +1139,7 @@
     "definition": "foolish; insane.",
     "pos": "a."
 }, {
-    "searchInput": ["dang, dung", "struck", "dang", "dung", "knocked over", "knocked", "knock", "knock over"],
+    "searchInput": ["dang, dung", "struck", "dang", "dung", "knocked over", "knocked", "knock", "knock over", "knock down", "knocked down"],
     "scots": "dang, dung",
     "english": "struck",
     "definition": "struck; knocked over.",
@@ -1324,4 +1324,160 @@
     "english": "daughter",
     "definition": "(gutt.) daughter.",
     "pos": "n."
+}, {
+    "searchInput": ["doitit", "foolish", "imbecile", "imbecilic"],
+    "scots": "doitit",
+    "english": "foolish",
+    "definition": "foolish, imbecile.",
+    "pos": "a."
+}, {
+    "searchInput": ["dolor", "grief", "sorrow"],
+    "scots": "dolor",
+    "english": "grief",
+    "definition": "grief, sorrow.",
+    "pos": "n."
+}, {
+    "searchInput": ["donnert", "stupid"],
+    "scots": "donnert",
+    "english": "stupid",
+    "definition": "stupid.",
+    "pos": "a."
+}, {
+    "searchInput": ["dooble", "double"],
+    "scots": "dooble",
+    "english": "double",
+    "definition": "double.",
+    "pos": "a."
+}, {
+    "searchInput": ["dool", "grief", "woe"],
+    "scots": "dool",
+    "english": "grief",
+    "definition": "grief, woe.",
+    "pos": "n."
+}, {
+    "searchInput": ["doomster", "officer of the court", "officer", "court officer", "officer of the court who announces the sentence"],
+    "scots": "doomster",
+    "english": "officer of the court",
+    "definition": "an officer of the court who announces the sentence.",
+    "pos": "n."
+}, {
+    "searchInput": ["doon-gaun", "descent", "descending", "doon gaun", "doongaun"],
+    "scots": "doon-gaun",
+    "english": "descent",
+    "definition": "descent, descending.",
+    "pos": "n. and v."
+}, {
+    "searchInput": ["doot", "doubt", "doubting"],
+    "scots": "doot",
+    "english": "doubt",
+    "definition": "doubt.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["dootsomeness", "state of indecision", "indecision", "hesitancy"],
+    "scots": "dootsomeness",
+    "english": "state of indecision",
+    "definition": "state of indecision; hesitancy.",
+    "pos": "n."
+}, {
+    "searchInput": ["douce", "respectable", "dooce", "quietly behaved", "quietly-behaved", "behaved", "quietly", "quiet"],
+    "scots": "douce",
+    "english": "respectable",
+    "definition": "[dooce] respectable, quietly behaved.",
+    "pos": "a."
+}, {
+    "searchInput": ["dour", "obstinate", "door"],
+    "scots": "dour",
+    "english": "obstinate",
+    "definition": "[door] obstinate.",
+    "pos": "a."
+}, {
+    "searchInput": ["dourness", "obstinacy", "doorness", "reluctance"],
+    "scots": "dourness",
+    "english": "obstinacy",
+    "definition": "obstinacy; reluctance.",
+    "pos": "n."
+}, {
+    "searchInput": ["dow, doo", "dove", "dow", "doo"],
+    "scots": "dow, doo",
+    "english": "dove",
+    "definition": "dove.",
+    "pos": "n."
+}, {
+    "searchInput": ["dowg", "dog"],
+    "scots": "dowg",
+    "english": "dog",
+    "definition": "dog.",
+    "pos": "n."
+}, {
+    "searchInput": ["dowie", "downcast", "dowy", "sad"],
+    "scots": "dowie",
+    "english": "downcast",
+    "definition": "downcast; sad.",
+    "pos": "a."
+}, {
+    "searchInput": ["dree", "suffer"],
+    "scots": "dree",
+    "english": "suffer",
+    "definition": "suffer.",
+    "pos": "v."
+}, {
+    "searchInput": ["dreid", "dread"],
+    "scots": "dreid",
+    "english": "dread",
+    "definition": "dread.",
+    "pos": "v. and n."
+}, {
+    "searchInput": ["drook", "drench", "drenching"],
+    "scots": "drook",
+    "english": "drench",
+    "definition": "drench.",
+    "pos": "v."
+}, {
+    "searchInput": ["drooth, drouth", "thirst", "drooth", "drouth"],
+    "scots": "drooth, drouth",
+    "english": "thirst",
+    "definition": "thirst.",
+    "pos": "n."
+}, {
+    "searchInput": ["droothie, drouthie", "thirsty", "droothie", "drouthie", "droothy", "drouthy", "dry"],
+    "scots": "droothie, drouthie",
+    "english": "thirsty",
+    "definition": "thristy, dry.",
+    "pos": "a."
+}, {
+    "searchInput": ["drucken", "drunken", "druken"],
+    "scots": "drucken",
+    "english": "drunken",
+    "definition": "drunken.",
+    "pos": "a."
+}, {
+    "searchInput": ["drumlie", "discoloured", "drumly", "discolour", "discolored", "discolor", "muddy", "muddy water"],
+    "scots": "drumlie",
+    "english": "discoloured",
+    "definition": "discoloured or muddy (as water)",
+    "pos": "a"
+}, {
+    "searchInput": ["dune", "done"],
+    "scots": "dune",
+    "english": "done",
+    "definition": "done.",
+    "pos": "v."
+}, {
+    "searchInput": ["dwaum", "faint", "trance", "dwam"],
+    "scots": "dwaum",
+    "english": "faint",
+    "definition": "faint; trance.",
+    "pos": "n."
+}, {
+    "searchInput": ["dwine", "shrink", "fade", "fade away", "dwining", "fading", "fading away", "shrinking"],
+    "scots": "dwine",
+    "english": "shrink",
+    "definition": "shrink; fade away.",
+    "pos": "v."
+}, {
+    "searchInput": ["dykit", "built a dyke round", "dyke", "built a dyke", "build a dyke", "build a dyke round"],
+    "scots": "dykit",
+    "english": "built a dyke round",
+    "definition": "built a dyke round.",
+    "pos": "v."
 }]
