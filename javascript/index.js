@@ -87,6 +87,14 @@ userInput.addEventListener("keyup", (event) => {
     }
 });
 
+function aboutButtonClicker() {
+    document.getElementById("about-section").style.display = "flex";
+}
+
+function closeAboutSection() {
+    document.getElementById("about-section").style.display = "none";
+}
+
 // TO DO
 // make the search for a word create a new list item for every hit. Right now, only the last hit is di
 // displayed, but if there are multiple hits, they all  need to be visible,

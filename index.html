@@ -16,6 +16,7 @@
 </head>
 
 <body>
+
     <header>
         <h1>Scots-English Dictionary</h1>
     </header>
@@ -37,8 +38,20 @@
             <button id="search-random" onclick="searchRandomClick()">Random</button>
         </div>
         <div id="results-box"></div>
+        <div id="about-section">
+            <p>This bilingual Scots-English dictionary features data transcribed directly from the
+                following publication, which is in the public domain:
+                William Wye Smith. (1904). <i>The New Testament in Braid Scots</i>. New Edition, Revised.
+                This publication can be found at the <a
+                    href="https://archive.org/details/newtestamentinbr0000unse/page/n5/mode/2up" target="_blank"
+                    rel="noopener noreferrer">Internet Archive</a>.
+            </p>
+            <button onclick="this.parentElement.style.display=`none`">Close</button>
+
+        </div>
     </main>
     <footer>
+        <p><button onclick="aboutButtonClicker()">About</button></p>
         <p>
             <script>
                 const thisYear = new Date().getFullYear();
@@ -48,10 +61,8 @@
                     document.write(`Copyright © 2023-${thisYear} `);
                 }
             </script>
-            <a class="credits-link" href="https://github.com/mjbrechner">M.J. Brechner</a>
+            <a href="https://github.com/mjbrechner" target="_blank" rel="noopener noreferrer">M.J. Brechner</a>
         </p>
-        <!-- Profile picture/favicon created by M.J. Brechner © 2022 -->
-        <!-- <img class="profile-pic" src="images/profile-pic.png"> -->
     </footer>
     <script src="javascript/index.js" defer></script>
 </body>
